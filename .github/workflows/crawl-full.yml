@@ -1,8 +1,8 @@
-name: Incremental Crawl
+name: Full Crawl
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 3 * * *'  # Daily 3am UTC
   workflow_dispatch:
 
 permissions:
@@ -11,10 +11,10 @@ permissions:
 jobs:
   crawl:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 180
     concurrency:
-      group: crawl-incremental
-      cancel-in-progress: true  # New run cancels stale one
+      group: crawl-full
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
 
@@ -22,10 +22,10 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Run incremental crawler
+      - name: Run full crawler
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          CRAWL_MODE: incremental
+          CRAWL_MODE: full
         run: node scripts/crawl.js
 
       - name: Commit and push changes
@@ -37,6 +37,6 @@ jobs:
             echo "No new skills found"
           else
             TOTAL=$(python3 -c "import json; print(json.load(open('data/skills.json'))['total_count'])")
-            git commit -m "chore: update skills — ${TOTAL} total [incremental] ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            git commit -m "chore: update skills — ${TOTAL} total [full] ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
             git push
           fi
