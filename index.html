@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Skill Crawler - GitHub SKILL.md Tracker</title>
+  <link rel="alternate" type="application/rss+xml" title="New Skills Feed" href="feed.xml" />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+      background: #0a0a0a;
+      color: #e0e0e0;
+      min-height: 100vh;
+    }
+
+    .hero {
+      text-align: center;
+      padding: 60px 20px 40px;
+      background: linear-gradient(180deg, #111 0%, #0a0a0a 100%);
+      border-bottom: 1px solid #1a1a1a;
+    }
+
+    .hero h1 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 8px;
+    }
+
+    .hero h1 span { color: #f97316; }
+
+    .hero p {
+      color: #888;
+      font-size: 1rem;
+      margin-bottom: 32px;
+    }
+
+    .counter-box {
+      display: inline-flex;
+      align-items: baseline;
+      gap: 12px;
+      background: #111;
+      border: 1px solid #262626;
+      border-radius: 16px;
+      padding: 24px 48px;
+    }
+
+    .counter-number {
+      font-size: 4.5rem;
+      font-weight: 800;
+      color: #f97316;
+      font-variant-numeric: tabular-nums;
+      line-height: 1;
+    }
+
+    .counter-label {
+      font-size: 1.1rem;
+      color: #888;
+    }
+
+    .meta {
+      margin-top: 16px;
+      font-size: 0.85rem;
+      color: #555;
+    }
+
+    .subscribe {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      margin-top: 20px;
+      padding: 8px 20px;
+      background: #1a1a1a;
+      border: 1px solid #333;
+      border-radius: 8px;
+      color: #f97316;
+      text-decoration: none;
+      font-size: 0.9rem;
+      transition: background .2s;
+    }
+
+    .subscribe:hover { background: #222; }
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 32px 20px;
+    }
+
+    .toolbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .toolbar h2 {
+      font-size: 1.2rem;
+      color: #ccc;
+    }
+
+    .search-box {
+      padding: 8px 14px;
+      background: #111;
+      border: 1px solid #262626;
+      border-radius: 8px;
+      color: #e0e0e0;
+      font-size: 0.9rem;
+      width: 260px;
+      outline: none;
+    }
+
+    .search-box:focus { border-color: #f97316; }
+
+    .sort-btn {
+      background: #111;
+      border: 1px solid #262626;
+      border-radius: 8px;
+      color: #888;
+      padding: 8px 14px;
+      cursor: pointer;
+      font-size: 0.85rem;
+    }
+
+    .sort-btn:hover, .sort-btn.active { color: #f97316; border-color: #f97316; }
+
+    .skills-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 12px;
+    }
+
+    .skill-card {
+      background: #111;
+      border: 1px solid #1a1a1a;
+      border-radius: 10px;
+      padding: 16px;
+      transition: border-color .2s;
+    }
+
+    .skill-card:hover { border-color: #333; }
+
+    .skill-name {
+      font-size: 1rem;
+      font-weight: 600;
+      color: #fff;
+      margin-bottom: 4px;
+      word-break: break-word;
+    }
+
+    .skill-repo {
+      font-size: 0.8rem;
+      color: #f97316;
+      text-decoration: none;
+      word-break: break-all;
+    }
+
+    .skill-repo:hover { text-decoration: underline; }
+
+    .skill-desc {
+      font-size: 0.82rem;
+      color: #666;
+      margin-top: 8px;
+      line-height: 1.4;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .skill-footer {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 10px;
+      font-size: 0.75rem;
+      color: #555;
+    }
+
+    .stars { color: #f5c542; }
+
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: #555;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 60px 20px;
+      color: #555;
+    }
+
+    .loading .spinner {
+      width: 32px; height: 32px;
+      border: 3px solid #222;
+      border-top-color: #f97316;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 12px;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .pagination {
+      display: flex;
+      justify-content: center;
+      gap: 8px;
+      margin-top: 24px;
+    }
+
+    .pagination button {
+      background: #111;
+      border: 1px solid #262626;
+      border-radius: 6px;
+      color: #888;
+      padding: 6px 14px;
+      cursor: pointer;
+      font-size: 0.85rem;
+    }
+
+    .pagination button:hover { border-color: #f97316; color: #f97316; }
+    .pagination button:disabled { opacity: 0.3; cursor: default; }
+    .pagination button:disabled:hover { border-color: #262626; color: #888; }
+  </style>
+</head>
+<body>
+
+<div class="hero">
+  <h1><span>Skill</span> Crawler</h1>
+  <p>Tracking every open-source SKILL.md on GitHub</p>
+  <div class="counter-box">
+    <span class="counter-number" id="total">-</span>
+    <span class="counter-label">skills discovered</span>
+  </div>
+  <div class="meta" id="updated"></div>
+  <div>
+    <a class="subscribe" href="feed.xml">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><circle cx="6.18" cy="17.82" r="2.18"/><path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/></svg>
+      Subscribe via RSS
+    </a>
+  </div>
+</div>
+
+<div class="container">
+  <div class="toolbar">
+    <h2 id="showing">All Skills</h2>
+    <div style="display:flex;gap:8px;align-items:center;">
+      <input class="search-box" id="search" type="text" placeholder="Search skills..." />
+      <button class="sort-btn active" id="sortNew" onclick="sortBy('new')">Newest</button>
+      <button class="sort-btn" id="sortStars" onclick="sortBy('stars')">Stars</button>
+      <button class="sort-btn" id="sortName" onclick="sortBy('name')">A-Z</button>
+    </div>
+  </div>
+
+  <div id="content">
+    <div class="loading">
+      <div class="spinner"></div>
+      Loading skills data...
+    </div>
+  </div>
+
+  <div class="pagination" id="pagination"></div>
+</div>
+
+<script>
+  let allSkills = [];
+  let filtered = [];
+  let currentSort = 'new';
+  let currentPage = 1;
+  const PAGE_SIZE = 30;
+
+  async function init() {
+    try {
+      const res = await fetch('data/skills.json');
+      const data = await res.json();
+      allSkills = data.skills || [];
+
+      document.getElementById('total').textContent = data.total_count.toLocaleString();
+      if (data.last_updated) {
+        const d = new Date(data.last_updated);
+        document.getElementById('updated').textContent = `Last crawl: ${d.toLocaleString()}`;
+      }
+
+      filtered = [...allSkills];
+      sortBy('new');
+    } catch (e) {
+      document.getElementById('content').innerHTML =
+        '<div class="empty-state">No data yet. Run the crawler first: <code>npm run crawl</code></div>';
+    }
+  }
+
+  function sortBy(mode) {
+    currentSort = mode;
+    currentPage = 1;
+    document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+    document.getElementById('sort' + mode.charAt(0).toUpperCase() + mode.slice(1)).classList.add('active');
+
+    if (mode === 'new') filtered.sort((a, b) => new Date(b.discovered_at) - new Date(a.discovered_at));
+    else if (mode === 'stars') filtered.sort((a, b) => b.stars - a.stars);
+    else if (mode === 'name') filtered.sort((a, b) => a.name.localeCompare(b.name));
+
+    render();
+  }
+
+  function render() {
+    const start = (currentPage - 1) * PAGE_SIZE;
+    const page = filtered.slice(start, start + PAGE_SIZE);
+    const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
+
+    document.getElementById('showing').textContent =
+      filtered.length === allSkills.length
+        ? `All Skills (${filtered.length})`
+        : `${filtered.length} results`;
+
+    if (page.length === 0) {
+      document.getElementById('content').innerHTML =
+        '<div class="empty-state">No skills found</div>';
+      document.getElementById('pagination').innerHTML = '';
+      return;
+    }
+
+    document.getElementById('content').innerHTML =
+      '<div class="skills-grid">' + page.map(s => `
+        <div class="skill-card">
+          <div class="skill-name">${esc(s.name)}</div>
+          <a class="skill-repo" href="${esc(s.file_url)}" target="_blank">${esc(s.repo)}</a>
+          ${s.description ? `<div class="skill-desc">${esc(s.description)}</div>` : ''}
+          <div class="skill-footer">
+            <span class="stars">${s.stars > 0 ? '&#9733; ' + s.stars : ''}</span>
+            <span>${new Date(s.discovered_at).toLocaleDateString()}</span>
+          </div>
+        </div>
+      `).join('') + '</div>';
+
+    document.getElementById('pagination').innerHTML = totalPages > 1 ? `
+      <button onclick="goPage(${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>Prev</button>
+      <span style="color:#555;padding:6px">${currentPage} / ${totalPages}</span>
+      <button onclick="goPage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}>Next</button>
+    ` : '';
+  }
+
+  function goPage(p) { currentPage = p; render(); window.scrollTo(0, 400); }
+
+  function esc(s) {
+    const d = document.createElement('div');
+    d.textContent = s || '';
+    return d.innerHTML;
+  }
+
+  document.getElementById('search').addEventListener('input', (e) => {
+    const q = e.target.value.toLowerCase();
+    filtered = allSkills.filter(s =>
+      s.name.toLowerCase().includes(q) ||
+      s.repo.toLowerCase().includes(q) ||
+      (s.description || '').toLowerCase().includes(q)
+    );
+    currentPage = 1;
+    sortBy(currentSort);
+  });
+
+  init();
+</script>
+
+</body>
+</html>
