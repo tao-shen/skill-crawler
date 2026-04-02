@@ -2,7 +2,7 @@ name: Crawl GitHub Skills
 
 on:
   schedule:
-    - cron: '*/5 * * * *'  # Every 5 minutes
+    - cron: '0 */2 * * *'  # Every 2 hours (crawler now takes longer due to license fetching)
   workflow_dispatch: # Allow manual trigger
 
 permissions:
@@ -11,6 +11,10 @@ permissions:
 jobs:
   crawl:
     runs-on: ubuntu-latest
+    timeout-minutes: 90
+    concurrency:
+      group: crawl
+      cancel-in-progress: false
     steps:
       - uses: actions/checkout@v4
 
@@ -31,6 +35,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No new skills found"
           else
-            git commit -m "chore: update skills data $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            TOTAL=$(python3 -c "import json; print(json.load(open('data/skills.json'))['total_count'])")
+            git commit -m "chore: update skills data — ${TOTAL} skills ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
             git push
           fi

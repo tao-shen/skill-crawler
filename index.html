@@ -3,264 +3,516 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Skill Crawler - GitHub SKILL.md Tracker</title>
+  <title>Skill Crawler — The Open Agent Skills Index</title>
   <link rel="alternate" type="application/rss+xml" title="New Skills Feed" href="feed.xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
 
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-      background: #0a0a0a;
-      color: #e0e0e0;
-      min-height: 100vh;
+    :root {
+      --bg: #09090b;
+      --bg-elevated: #111113;
+      --bg-hover: #18181b;
+      --border: #27272a;
+      --border-light: #1e1e21;
+      --text: #fafafa;
+      --text-muted: #a1a1aa;
+      --text-dim: #52525b;
+      --accent: #f97316;
+      --accent-dim: #c2410c;
+      --green: #22c55e;
+      --mono: 'JetBrains Mono', monospace;
+      --sans: 'Inter', -apple-system, sans-serif;
     }
 
+    body {
+      font-family: var(--sans);
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* --- NAV --- */
+    nav {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      background: rgba(9,9,11,.85);
+      backdrop-filter: blur(12px);
+      border-bottom: 1px solid var(--border-light);
+      padding: 0 24px;
+      height: 48px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .nav-left {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-family: var(--mono);
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--text);
+    }
+
+    .nav-left .sep {
+      width: 1px;
+      height: 20px;
+      background: var(--border);
+    }
+
+    .nav-right {
+      display: flex;
+      gap: 16px;
+      align-items: center;
+    }
+
+    .nav-right a {
+      font-size: 13px;
+      color: var(--text-muted);
+      text-decoration: none;
+      transition: color .15s;
+    }
+
+    .nav-right a:hover { color: var(--text); }
+
+    .badge {
+      font-size: 10px;
+      font-weight: 600;
+      background: var(--accent);
+      color: #000;
+      padding: 2px 6px;
+      border-radius: 4px;
+      margin-left: 4px;
+      vertical-align: middle;
+    }
+
+    /* --- HERO --- */
     .hero {
       text-align: center;
-      padding: 60px 20px 40px;
-      background: linear-gradient(180deg, #111 0%, #0a0a0a 100%);
-      border-bottom: 1px solid #1a1a1a;
+      padding: 64px 24px 48px;
+      border-bottom: 1px solid var(--border-light);
     }
 
-    .hero h1 {
-      font-size: 2.5rem;
-      font-weight: 700;
-      color: #fff;
-      margin-bottom: 8px;
+    .ascii-art {
+      font-family: var(--mono);
+      font-size: clamp(8px, 1.6vw, 14px);
+      line-height: 1.2;
+      color: var(--accent);
+      white-space: pre;
+      margin-bottom: 24px;
+      user-select: none;
     }
 
-    .hero h1 span { color: #f97316; }
-
-    .hero p {
-      color: #888;
-      font-size: 1rem;
-      margin-bottom: 32px;
+    .hero-sub {
+      font-size: 16px;
+      color: var(--text-muted);
+      margin-bottom: 20px;
     }
 
-    .counter-box {
-      display: inline-flex;
-      align-items: baseline;
-      gap: 12px;
-      background: #111;
-      border: 1px solid #262626;
-      border-radius: 16px;
-      padding: 24px 48px;
-    }
-
-    .counter-number {
-      font-size: 4.5rem;
-      font-weight: 800;
-      color: #f97316;
-      font-variant-numeric: tabular-nums;
-      line-height: 1;
-    }
-
-    .counter-label {
-      font-size: 1.1rem;
-      color: #888;
-    }
-
-    .meta {
-      margin-top: 16px;
-      font-size: 0.85rem;
-      color: #555;
-    }
-
-    .subscribe {
+    .hero-install {
       display: inline-flex;
       align-items: center;
-      gap: 6px;
-      margin-top: 20px;
-      padding: 8px 20px;
-      background: #1a1a1a;
-      border: 1px solid #333;
+      gap: 8px;
+      font-family: var(--mono);
+      font-size: 13px;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
       border-radius: 8px;
-      color: #f97316;
-      text-decoration: none;
-      font-size: 0.9rem;
-      transition: background .2s;
+      padding: 10px 20px;
+      color: var(--text-muted);
+      margin-bottom: 24px;
     }
 
-    .subscribe:hover { background: #222; }
+    .hero-install .dollar { color: var(--text-dim); }
+    .hero-install .cmd { color: var(--text); }
 
+    .agents-row {
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-top: 16px;
+    }
+
+    .agent-tag {
+      font-size: 11px;
+      font-family: var(--mono);
+      color: var(--text-dim);
+      background: var(--bg-elevated);
+      border: 1px solid var(--border-light);
+      border-radius: 6px;
+      padding: 4px 10px;
+    }
+
+    /* --- STATS BAR --- */
+    .stats-bar {
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      padding: 32px 24px;
+      border-bottom: 1px solid var(--border-light);
+    }
+
+    .stat {
+      text-align: center;
+    }
+
+    .stat-num {
+      font-family: var(--mono);
+      font-size: 32px;
+      font-weight: 700;
+      color: var(--text);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .stat-num.accent { color: var(--accent); }
+
+    .stat-label {
+      font-size: 12px;
+      color: var(--text-dim);
+      margin-top: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    /* --- TOOLBAR --- */
     .container {
       max-width: 960px;
       margin: 0 auto;
-      padding: 32px 20px;
+      padding: 24px 20px 60px;
     }
 
     .toolbar {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      margin-bottom: 20px;
-      flex-wrap: wrap;
+      margin-bottom: 16px;
       gap: 12px;
+      flex-wrap: wrap;
     }
 
-    .toolbar h2 {
-      font-size: 1.2rem;
-      color: #ccc;
+    .tabs {
+      display: flex;
+      gap: 2px;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 3px;
+    }
+
+    .tab {
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--text-muted);
+      background: transparent;
+      border: none;
+      border-radius: 6px;
+      padding: 6px 14px;
+      cursor: pointer;
+      transition: all .15s;
+    }
+
+    .tab:hover { color: var(--text); }
+    .tab.active { background: var(--bg-hover); color: var(--text); }
+
+    .search-wrap {
+      position: relative;
+    }
+
+    .search-wrap svg {
+      position: absolute;
+      left: 10px;
+      top: 50%;
+      transform: translateY(-50%);
+      color: var(--text-dim);
     }
 
     .search-box {
-      padding: 8px 14px;
-      background: #111;
-      border: 1px solid #262626;
+      font-family: var(--sans);
+      font-size: 13px;
+      padding: 8px 12px 8px 32px;
+      width: 280px;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
       border-radius: 8px;
-      color: #e0e0e0;
-      font-size: 0.9rem;
-      width: 260px;
+      color: var(--text);
       outline: none;
+      transition: border-color .15s;
     }
 
-    .search-box:focus { border-color: #f97316; }
+    .search-box::placeholder { color: var(--text-dim); }
+    .search-box:focus { border-color: var(--accent); }
 
-    .sort-btn {
-      background: #111;
-      border: 1px solid #262626;
-      border-radius: 8px;
-      color: #888;
-      padding: 8px 14px;
-      cursor: pointer;
-      font-size: 0.85rem;
-    }
-
-    .sort-btn:hover, .sort-btn.active { color: #f97316; border-color: #f97316; }
-
-    .skills-grid {
+    /* --- TABLE --- */
+    .table-header {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-      gap: 12px;
+      grid-template-columns: 48px 1fr 120px 100px 100px;
+      padding: 8px 16px;
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--text-dim);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      border-bottom: 1px solid var(--border);
     }
 
-    .skill-card {
-      background: #111;
-      border: 1px solid #1a1a1a;
-      border-radius: 10px;
-      padding: 16px;
-      transition: border-color .2s;
+    .table-header .col-right { text-align: right; }
+
+    .skill-row {
+      display: grid;
+      grid-template-columns: 48px 1fr 120px 100px 100px;
+      padding: 12px 16px;
+      align-items: center;
+      border-bottom: 1px solid var(--border-light);
+      transition: background .1s;
     }
 
-    .skill-card:hover { border-color: #333; }
+    .skill-row:hover { background: var(--bg-hover); }
+
+    .rank {
+      font-family: var(--mono);
+      font-size: 13px;
+      color: var(--text-dim);
+      font-variant-numeric: tabular-nums;
+    }
+
+    .skill-info {
+      min-width: 0;
+    }
+
+    .skill-name-row {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .skill-avatar {
+      width: 20px;
+      height: 20px;
+      border-radius: 4px;
+      flex-shrink: 0;
+    }
 
     .skill-name {
-      font-size: 1rem;
+      font-size: 14px;
       font-weight: 600;
-      color: #fff;
-      margin-bottom: 4px;
-      word-break: break-word;
-    }
-
-    .skill-repo {
-      font-size: 0.8rem;
-      color: #f97316;
+      color: var(--text);
       text-decoration: none;
-      word-break: break-all;
-    }
-
-    .skill-repo:hover { text-decoration: underline; }
-
-    .skill-desc {
-      font-size: 0.82rem;
-      color: #666;
-      margin-top: 8px;
-      line-height: 1.4;
-      display: -webkit-box;
-      -webkit-line-clamp: 2;
-      -webkit-box-orient: vertical;
       overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
     }
 
-    .skill-footer {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-top: 10px;
-      font-size: 0.75rem;
-      color: #555;
+    .skill-name:hover { color: var(--accent); }
+
+    .skill-repo-link {
+      font-size: 12px;
+      color: var(--text-dim);
+      text-decoration: none;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      display: block;
+      margin-top: 2px;
     }
 
-    .stars { color: #f5c542; }
+    .skill-repo-link:hover { color: var(--text-muted); }
 
-    .empty-state {
-      text-align: center;
-      padding: 60px 20px;
-      color: #555;
+    .skill-license {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--text-dim);
+      text-align: right;
     }
 
-    .loading {
-      text-align: center;
-      padding: 60px 20px;
-      color: #555;
+    .license-tag {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 4px;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border-light);
+      font-size: 11px;
     }
 
-    .loading .spinner {
-      width: 32px; height: 32px;
-      border: 3px solid #222;
-      border-top-color: #f97316;
-      border-radius: 50%;
-      animation: spin 0.8s linear infinite;
-      margin: 0 auto 12px;
+    .license-tag.mit { color: var(--green); border-color: #166534; }
+    .license-tag.apache { color: #38bdf8; border-color: #0c4a6e; }
+    .license-tag.gpl { color: #a78bfa; border-color: #4c1d95; }
+    .license-tag.none { color: var(--text-dim); }
+
+    .skill-stars {
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--text-muted);
+      text-align: right;
     }
 
-    @keyframes spin { to { transform: rotate(360deg); } }
+    .skill-date {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--text-dim);
+      text-align: right;
+    }
 
+    /* --- PAGINATION --- */
     .pagination {
       display: flex;
       justify-content: center;
+      align-items: center;
       gap: 8px;
       margin-top: 24px;
     }
 
     .pagination button {
-      background: #111;
-      border: 1px solid #262626;
+      font-family: var(--sans);
+      font-size: 13px;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
       border-radius: 6px;
-      color: #888;
-      padding: 6px 14px;
+      color: var(--text-muted);
+      padding: 6px 16px;
       cursor: pointer;
-      font-size: 0.85rem;
+      transition: all .15s;
     }
 
-    .pagination button:hover { border-color: #f97316; color: #f97316; }
+    .pagination button:hover:not(:disabled) { border-color: var(--accent); color: var(--accent); }
     .pagination button:disabled { opacity: 0.3; cursor: default; }
-    .pagination button:disabled:hover { border-color: #262626; color: #888; }
+
+    .pagination .page-info {
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--text-dim);
+      padding: 0 8px;
+    }
+
+    /* --- LOADING --- */
+    .loading {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--text-dim);
+    }
+
+    .spinner {
+      width: 24px; height: 24px;
+      border: 2px solid var(--border);
+      border-top-color: var(--accent);
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      margin: 0 auto 12px;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-dim);
+    }
+
+    /* --- RESPONSIVE --- */
+    @media (max-width: 700px) {
+      .table-header { grid-template-columns: 36px 1fr 80px; }
+      .skill-row { grid-template-columns: 36px 1fr 80px; }
+      .table-header .col-license,
+      .table-header .col-date,
+      .skill-license,
+      .skill-date { display: none; }
+      .search-box { width: 180px; }
+      .stats-bar { gap: 24px; }
+      .stat-num { font-size: 24px; }
+    }
   </style>
 </head>
 <body>
 
-<div class="hero">
-  <h1><span>Skill</span> Crawler</h1>
-  <p>Tracking every open-source SKILL.md on GitHub</p>
-  <div class="counter-box">
-    <span class="counter-number" id="total">-</span>
-    <span class="counter-label">skills discovered</span>
+<!-- NAV -->
+<nav>
+  <div class="nav-left">
+    <span>&#9670;</span>
+    <div class="sep"></div>
+    <span>skill-crawler</span>
   </div>
-  <div class="meta" id="updated"></div>
-  <div>
-    <a class="subscribe" href="feed.xml">
-      <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><circle cx="6.18" cy="17.82" r="2.18"/><path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/></svg>
-      Subscribe via RSS
-    </a>
+  <div class="nav-right">
+    <a href="https://github.com/tao-shen/skill-crawler" target="_blank">GitHub</a>
+    <a href="feed.xml">RSS <span class="badge">Feed</span></a>
+  </div>
+</nav>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="ascii-art">
+ ____  _  ___ _     _        ____ ____      ___        ___     _____ ____
+/ ___|| |/ (_) |   | |      / ___|  _ \    / \ \      / / |   | ____|  _ \
+\___ \| ' /| | |   | |     | |   | |_) |  / _ \ \ /\ / /| |   |  _| | |_) |
+ ___) | . \| | |___| |___  | |___|  _ <  / ___ \ V  V / | |___| |___|  _ <
+|____/|_|\_\_|_____|_____|  \____|_| \_\/_/   \_\_/\_/  |_____|_____|_| \_\</div>
+  <p class="hero-sub">Indexing every open-source SKILL.md on GitHub</p>
+  <div class="hero-install">
+    <span class="dollar">$</span>
+    <span class="cmd">git clone https://github.com/tao-shen/skill-crawler</span>
+  </div>
+  <div class="agents-row">
+    <span class="agent-tag">Claude Code</span>
+    <span class="agent-tag">Cursor</span>
+    <span class="agent-tag">Codex</span>
+    <span class="agent-tag">Gemini CLI</span>
+    <span class="agent-tag">Copilot</span>
+    <span class="agent-tag">Windsurf</span>
+    <span class="agent-tag">Antigravity</span>
   </div>
 </div>
 
+<!-- STATS -->
+<div class="stats-bar">
+  <div class="stat">
+    <div class="stat-num accent" id="totalCount">-</div>
+    <div class="stat-label">Skills Indexed</div>
+  </div>
+  <div class="stat">
+    <div class="stat-num" id="repoCount">-</div>
+    <div class="stat-label">Repositories</div>
+  </div>
+  <div class="stat">
+    <div class="stat-num" id="ownerCount">-</div>
+    <div class="stat-label">Authors</div>
+  </div>
+  <div class="stat">
+    <div class="stat-num" id="licensedCount">-</div>
+    <div class="stat-label">Licensed</div>
+  </div>
+</div>
+
+<!-- MAIN -->
 <div class="container">
   <div class="toolbar">
-    <h2 id="showing">All Skills</h2>
-    <div style="display:flex;gap:8px;align-items:center;">
-      <input class="search-box" id="search" type="text" placeholder="Search skills..." />
-      <button class="sort-btn active" id="sortNew" onclick="sortBy('new')">Newest</button>
-      <button class="sort-btn" id="sortStars" onclick="sortBy('stars')">Stars</button>
-      <button class="sort-btn" id="sortName" onclick="sortBy('name')">A-Z</button>
+    <div class="tabs">
+      <button class="tab active" data-sort="stars">By Stars</button>
+      <button class="tab" data-sort="new">Newest</button>
+      <button class="tab" data-sort="name">A — Z</button>
     </div>
+    <div class="search-wrap">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input class="search-box" id="search" type="text" placeholder="Search skills..." />
+    </div>
+  </div>
+
+  <!-- Table header -->
+  <div class="table-header">
+    <span>#</span>
+    <span>Skill</span>
+    <span class="col-right">Stars</span>
+    <span class="col-right col-license">License</span>
+    <span class="col-right col-date">Found</span>
   </div>
 
   <div id="content">
     <div class="loading">
       <div class="spinner"></div>
-      Loading skills data...
+      Loading skills index...
     </div>
   </div>
 
@@ -270,9 +522,9 @@
 <script>
   let allSkills = [];
   let filtered = [];
-  let currentSort = 'new';
+  let currentSort = 'stars';
   let currentPage = 1;
-  const PAGE_SIZE = 30;
+  const PAGE_SIZE = 50;
 
   async function init() {
     try {
@@ -280,31 +532,46 @@
       const data = await res.json();
       allSkills = data.skills || [];
 
-      document.getElementById('total').textContent = data.total_count.toLocaleString();
-      if (data.last_updated) {
-        const d = new Date(data.last_updated);
-        document.getElementById('updated').textContent = `Last crawl: ${d.toLocaleString()}`;
-      }
+      // Stats
+      document.getElementById('totalCount').textContent = data.total_count.toLocaleString();
+      const repos = new Set(allSkills.map(s => s.repo));
+      document.getElementById('repoCount').textContent = repos.size.toLocaleString();
+      const owners = new Set(allSkills.map(s => s.owner));
+      document.getElementById('ownerCount').textContent = owners.size.toLocaleString();
+      const licensed = allSkills.filter(s => s.license && s.license !== 'None' && s.license !== 'Unknown' && s.license !== 'NOASSERTION');
+      document.getElementById('licensedCount').textContent = licensed.length.toLocaleString();
 
       filtered = [...allSkills];
-      sortBy('new');
+      sortBy('stars');
     } catch (e) {
       document.getElementById('content').innerHTML =
-        '<div class="empty-state">No data yet. Run the crawler first: <code>npm run crawl</code></div>';
+        '<div class="empty-state">No data yet. Waiting for first crawl...</div>';
     }
   }
 
   function sortBy(mode) {
     currentSort = mode;
     currentPage = 1;
-    document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
-    document.getElementById('sort' + mode.charAt(0).toUpperCase() + mode.slice(1)).classList.add('active');
-
-    if (mode === 'new') filtered.sort((a, b) => new Date(b.discovered_at) - new Date(a.discovered_at));
-    else if (mode === 'stars') filtered.sort((a, b) => b.stars - a.stars);
+    document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.sort === mode));
+    if (mode === 'stars') filtered.sort((a, b) => b.stars - a.stars || a.name.localeCompare(b.name));
+    else if (mode === 'new') filtered.sort((a, b) => new Date(b.discovered_at) - new Date(a.discovered_at));
     else if (mode === 'name') filtered.sort((a, b) => a.name.localeCompare(b.name));
-
     render();
+  }
+
+  function licenseClass(lic) {
+    if (!lic || lic === 'None' || lic === 'Unknown') return 'none';
+    const l = lic.toLowerCase();
+    if (l.includes('mit')) return 'mit';
+    if (l.includes('apache')) return 'apache';
+    if (l.includes('gpl') || l.includes('agpl') || l.includes('lgpl')) return 'gpl';
+    return '';
+  }
+
+  function fmtDate(iso) {
+    const d = new Date(iso);
+    const m = d.toLocaleString('en', { month: 'short' });
+    return `${m} ${d.getDate()}`;
   }
 
   function render() {
@@ -312,39 +579,40 @@
     const page = filtered.slice(start, start + PAGE_SIZE);
     const totalPages = Math.ceil(filtered.length / PAGE_SIZE);
 
-    document.getElementById('showing').textContent =
-      filtered.length === allSkills.length
-        ? `All Skills (${filtered.length})`
-        : `${filtered.length} results`;
-
     if (page.length === 0) {
-      document.getElementById('content').innerHTML =
-        '<div class="empty-state">No skills found</div>';
+      document.getElementById('content').innerHTML = '<div class="empty-state">No skills match your search</div>';
       document.getElementById('pagination').innerHTML = '';
       return;
     }
 
-    document.getElementById('content').innerHTML =
-      '<div class="skills-grid">' + page.map(s => `
-        <div class="skill-card">
-          <div class="skill-name">${esc(s.name)}</div>
-          <a class="skill-repo" href="${esc(s.file_url)}" target="_blank">${esc(s.repo)}</a>
-          ${s.description ? `<div class="skill-desc">${esc(s.description)}</div>` : ''}
-          <div class="skill-footer">
-            <span class="stars">${s.stars > 0 ? '&#9733; ' + s.stars : ''}</span>
-            <span>${new Date(s.discovered_at).toLocaleDateString()}</span>
+    document.getElementById('content').innerHTML = page.map((s, i) => {
+      const rank = start + i + 1;
+      const lic = s.license || '';
+      const licLabel = (!lic || lic === 'None' || lic === 'Unknown' || lic === 'NOASSERTION') ? '—' : lic;
+      return `
+        <div class="skill-row">
+          <span class="rank">${rank}</span>
+          <div class="skill-info">
+            <div class="skill-name-row">
+              ${s.avatar ? `<img class="skill-avatar" src="${esc(s.avatar)}" alt="" loading="lazy" />` : ''}
+              <a class="skill-name" href="${esc(s.file_url)}" target="_blank">${esc(s.name)}</a>
+            </div>
+            <a class="skill-repo-link" href="${esc(s.repo_url)}" target="_blank">${esc(s.repo)}</a>
           </div>
-        </div>
-      `).join('') + '</div>';
+          <span class="skill-stars">${s.stars > 0 ? '&#9733; ' + s.stars.toLocaleString() : '—'}</span>
+          <span class="skill-license"><span class="license-tag ${licenseClass(lic)}">${esc(licLabel)}</span></span>
+          <span class="skill-date">${fmtDate(s.discovered_at)}</span>
+        </div>`;
+    }).join('');
 
     document.getElementById('pagination').innerHTML = totalPages > 1 ? `
       <button onclick="goPage(${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>Prev</button>
-      <span style="color:#555;padding:6px">${currentPage} / ${totalPages}</span>
+      <span class="page-info">${currentPage} / ${totalPages}</span>
       <button onclick="goPage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}>Next</button>
     ` : '';
   }
 
-  function goPage(p) { currentPage = p; render(); window.scrollTo(0, 400); }
+  function goPage(p) { currentPage = p; render(); window.scrollTo({ top: 320, behavior: 'smooth' }); }
 
   function esc(s) {
     const d = document.createElement('div');
@@ -352,13 +620,22 @@
     return d.innerHTML;
   }
 
+  // Tabs
+  document.querySelectorAll('.tab').forEach(t => {
+    t.addEventListener('click', () => sortBy(t.dataset.sort));
+  });
+
+  // Search
   document.getElementById('search').addEventListener('input', (e) => {
-    const q = e.target.value.toLowerCase();
-    filtered = allSkills.filter(s =>
-      s.name.toLowerCase().includes(q) ||
-      s.repo.toLowerCase().includes(q) ||
-      (s.description || '').toLowerCase().includes(q)
-    );
+    const q = e.target.value.toLowerCase().trim();
+    filtered = q
+      ? allSkills.filter(s =>
+          s.name.toLowerCase().includes(q) ||
+          s.repo.toLowerCase().includes(q) ||
+          (s.description || '').toLowerCase().includes(q) ||
+          (s.license || '').toLowerCase().includes(q)
+        )
+      : [...allSkills];
     currentPage = 1;
     sortBy(currentSort);
   });
