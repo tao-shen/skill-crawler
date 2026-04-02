@@ -2,8 +2,18 @@ name: Crawl GitHub Skills
 
 on:
   schedule:
-    - cron: '0 */2 * * *'  # Every 2 hours (crawler now takes longer due to license fetching)
-  workflow_dispatch: # Allow manual trigger
+    - cron: '0 */2 * * *'   # Incremental: every 2 hours
+    - cron: '0 3 * * 0'     # Full: every Sunday 3am UTC
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Crawl mode'
+        required: false
+        default: 'incremental'
+        type: choice
+        options:
+          - incremental
+          - full
 
 permissions:
   contents: write
@@ -22,9 +32,21 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Determine crawl mode
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ inputs.mode }}" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "0 3 * * 0" ]; then
+            echo "mode=full" >> $GITHUB_OUTPUT
+          else
+            echo "mode=incremental" >> $GITHUB_OUTPUT
+          fi
+
       - name: Run crawler
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CRAWL_MODE: ${{ steps.mode.outputs.mode }}
         run: node scripts/crawl.js
 
       - name: Commit and push changes
@@ -36,6 +58,7 @@ jobs:
             echo "No new skills found"
           else
             TOTAL=$(python3 -c "import json; print(json.load(open('data/skills.json'))['total_count'])")
-            git commit -m "chore: update skills data — ${TOTAL} skills ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            MODE="${{ steps.mode.outputs.mode }}"
+            git commit -m "chore: update skills data — ${TOTAL} skills [${MODE}] ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
             git push
           fi
