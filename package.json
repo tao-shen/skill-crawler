@@ -1,0 +1,10 @@
+{
+  "name": "skill-crawler",
+  "version": "1.0.0",
+  "description": "Crawl GitHub for all open-source SKILL.md files and track them",
+  "scripts": {
+    "crawl": "node scripts/crawl.js",
+    "serve": "npx serve ."
+  },
+  "dependencies": {}
+}
