@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-19T21:15:27.011Z",
-  "total_count": 25935,
+  "last_updated": "2026-04-19T21:53:28.959Z",
+  "total_count": 25943,
   "skills": [
     {
       "id": "nativewind/nativewind:.claude/skills/debug-nw/skill.md",
@@ -357145,6 +357145,118 @@
       "stars": 0,
       "license": "None",
       "discovered_at": "2026-04-19T21:07:48.437Z"
+    },
+    {
+      "id": "affaan-m/everything-claude-code:.cursor/skills/mcp-server-patterns/skill.md",
+      "repo": "affaan-m/everything-claude-code",
+      "repo_url": "https://github.com/affaan-m/everything-claude-code",
+      "path": ".cursor/skills/mcp-server-patterns/SKILL.md",
+      "file_url": "https://github.com/affaan-m/everything-claude-code/blob/8bdf88e5ad8877bcd00a4aba7ccbfb50f235f10f/.cursor/skills/mcp-server-patterns/SKILL.md",
+      "name": "mcp-server-patterns",
+      "owner": "affaan-m",
+      "avatar": "https://avatars.githubusercontent.com/u/124439313?v=4",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "stars": 0,
+      "license": "MIT",
+      "discovered_at": "2026-04-19T21:47:35.459Z"
+    },
+    {
+      "id": "pancakeswap/pancake-frontend:.cursor/skills/browser-testing-automation/skill.md",
+      "repo": "pancakeswap/pancake-frontend",
+      "repo_url": "https://github.com/pancakeswap/pancake-frontend",
+      "path": ".cursor/skills/browser-testing-automation/SKILL.md",
+      "file_url": "https://github.com/pancakeswap/pancake-frontend/blob/380e0d9a8421d2bf139c2997415bf91dba0318c2/.cursor/skills/browser-testing-automation/SKILL.md",
+      "name": "browser-testing-automation",
+      "owner": "pancakeswap",
+      "avatar": "https://avatars.githubusercontent.com/u/71247426?v=4",
+      "description": ":pancakes: Pancake main features (farms, pools, IFO, lottery, profiles)",
+      "stars": 0,
+      "license": "GPL-3.0",
+      "discovered_at": "2026-04-19T21:47:35.459Z"
+    },
+    {
+      "id": "alibaba/loongcollector:.cursor/skills/e2e-manual/skill.md",
+      "repo": "alibaba/loongcollector",
+      "repo_url": "https://github.com/alibaba/loongcollector",
+      "path": ".cursor/skills/e2e-manual/SKILL.md",
+      "file_url": "https://github.com/alibaba/loongcollector/blob/c9608098b7fc43cb1ba9acd8052f3aeb2057895a/.cursor/skills/e2e-manual/SKILL.md",
+      "name": "e2e-manual",
+      "owner": "alibaba",
+      "avatar": "https://avatars.githubusercontent.com/u/1961952?v=4",
+      "description": "Fast and Lightweight Observability Data Collector",
+      "stars": 0,
+      "license": "Apache-2.0",
+      "discovered_at": "2026-04-19T21:47:35.459Z"
+    },
+    {
+      "id": "nealcaren/social-data-analysis:plugins/methods-writer/skills/methods-writer/skill.md",
+      "repo": "nealcaren/social-data-analysis",
+      "repo_url": "https://github.com/nealcaren/social-data-analysis",
+      "path": "plugins/methods-writer/skills/methods-writer/SKILL.md",
+      "file_url": "https://github.com/nealcaren/social-data-analysis/blob/0e22c29faaa600621ad6a9ee394fa2bf7a9f595d/plugins/methods-writer/skills/methods-writer/SKILL.md",
+      "name": "methods-writer",
+      "owner": "nealcaren",
+      "avatar": "https://avatars.githubusercontent.com/u/1250553?v=4",
+      "description": "Claude Code plugins for quantitative and qualitative sociological research",
+      "stars": 0,
+      "license": "MIT",
+      "discovered_at": "2026-04-19T21:47:51.689Z"
+    },
+    {
+      "id": "techsiocz/smart-address:.ai/skills/frontend-skill.md",
+      "repo": "TechsioCZ/smart-address",
+      "repo_url": "https://github.com/TechsioCZ/smart-address",
+      "path": ".ai/skills/frontend-skill.md",
+      "file_url": "https://github.com/TechsioCZ/smart-address/blob/85c6883c799d53926ad381784a56b75cda49b4ae/.ai/skills/frontend-skill.md",
+      "name": "smart-address",
+      "owner": "TechsioCZ",
+      "avatar": "https://avatars.githubusercontent.com/u/189850850?v=4",
+      "description": "Reliable address suggestions for checkout and onboarding.",
+      "stars": 0,
+      "license": "None",
+      "discovered_at": "2026-04-19T21:48:31.437Z"
+    },
+    {
+      "id": "waytid-way/autoacct:.ai/skills/backend/archived/03-service-layer.skill.md",
+      "repo": "Waytid-way/AutoAcct",
+      "repo_url": "https://github.com/Waytid-way/AutoAcct",
+      "path": ".ai/skills/backend/archived/03-service-layer.skill.md",
+      "file_url": "https://github.com/Waytid-way/AutoAcct/blob/a6f46caf50a53db06905ea7a689145d3ad482ed7/.ai/skills/backend/archived/03-service-layer.skill.md",
+      "name": "03-service-layer",
+      "owner": "Waytid-way",
+      "avatar": "https://avatars.githubusercontent.com/u/233924082?v=4",
+      "description": "",
+      "stars": 0,
+      "license": "None",
+      "discovered_at": "2026-04-19T21:48:31.437Z"
+    },
+    {
+      "id": "openlittermap/openlittermap-web:.ai/skills/v5-migration/skill.md",
+      "repo": "OpenLitterMap/openlittermap-web",
+      "repo_url": "https://github.com/OpenLitterMap/openlittermap-web",
+      "path": ".ai/skills/v5-migration/SKILL.md",
+      "file_url": "https://github.com/OpenLitterMap/openlittermap-web/blob/95f5994d892fea89a518cf736e87e5ccca265d77/.ai/skills/v5-migration/SKILL.md",
+      "name": "v5-migration",
+      "owner": "OpenLitterMap",
+      "avatar": "https://avatars.githubusercontent.com/u/62770201?v=4",
+      "description": "https://opengeospatialdata.springeropen.com/articles/10.1186/s40965-018-0050-y",
+      "stars": 0,
+      "license": "GPL-3.0",
+      "discovered_at": "2026-04-19T21:48:31.437Z"
+    },
+    {
+      "id": "spinen/connectwise-system-php-client:docs/model/skill.md",
+      "repo": "spinen/connectwise-system-php-client",
+      "repo_url": "https://github.com/spinen/connectwise-system-php-client",
+      "path": "docs/Model/Skill.md",
+      "file_url": "https://github.com/spinen/connectwise-system-php-client/blob/0ef2797cd4735e5d42a5c616003c0e65b46231a4/docs/Model/Skill.md",
+      "name": "Model",
+      "owner": "spinen",
+      "avatar": "https://avatars.githubusercontent.com/u/4213709?v=4",
+      "description": "Spinen';s PHP ConnectWise Client for System API generated by Swagger Code Generator.",
+      "stars": 0,
+      "license": "None",
+      "discovered_at": "2026-04-19T21:52:13.143Z"
     }
   ]
 }
