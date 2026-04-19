@@ -3,708 +3,708 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 25557 skills.</description>
-    <lastBuildDate>Sun, 19 Apr 2026 20:00:37 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 25755 skills.</description>
+    <lastBuildDate>Sun, 19 Apr 2026 20:33:24 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>github-solution-finder (Celia-12/Proyecto-Mern)</title>
-      <link>https://github.com/Celia-12/Proyecto-Mern/blob/6ca0f764de635331f53e7705f75544d814675cec/frontend/.local/secondary_skills/github-solution-finder/SKILL.md</link>
-      <guid isPermaLink="false">celia-12/proyecto-mern:frontend/.local/secondary_skills/github-solution-finder/skill.md</guid>
-      <description>Skill from Celia-12/Proyecto-Mern [None]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:47 GMT</pubDate>
+      <title>chat2blog (majiayu000/claude-skill-registry-data)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry-data/blob/9ee1aba25c3fdacd6a3ce9693b59092306ae0111/data/chat2blog/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry-data:data/chat2blog/skill.md</guid>
+      <description>Skill from majiayu000/claude-skill-registry-data [None]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:47 GMT</pubDate>
     </item>
     <item>
-      <title>gh-cli (DUBSOpenHub/hoot-skills)</title>
-      <link>https://github.com/DUBSOpenHub/hoot-skills/blob/377c75b528a76ceacd1a1ad6a88f28eb9dbf9a4d/gh-cli/SKILL.md</link>
-      <guid isPermaLink="false">dubsopenhub/hoot-skills:gh-cli/skill.md</guid>
-      <description>🐿️ Hoot&apos;s 265+ superpowers — backed up by Groundhog Day [None]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>legacy-perl-patterns (major/MySQLTuner-perl)</title>
-      <link>https://github.com/major/MySQLTuner-perl/blob/d4305138a7a167aaca86777bf203ad1b5b48be5d/.agent/skills/legacy-perl-patterns/SKILL.md</link>
-      <guid isPermaLink="false">major/mysqltuner-perl:.agent/skills/legacy-perl-patterns/skill.md</guid>
-      <description>MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. [GPL-3.0]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>db-version-rift (major/MySQLTuner-perl)</title>
-      <link>https://github.com/major/MySQLTuner-perl/blob/d4305138a7a167aaca86777bf203ad1b5b48be5d/.agent/skills/db-version-rift/SKILL.md</link>
-      <guid isPermaLink="false">major/mysqltuner-perl:.agent/skills/db-version-rift/skill.md</guid>
-      <description>MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability. [GPL-3.0]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>draft-pr (wordpress-mobile/WordPress-Android)</title>
-      <link>https://github.com/wordpress-mobile/WordPress-Android/blob/757c0c38b14f159251c72713a1df7a21dbdd1269/.claude/skills/draft-pr/SKILL.md</link>
-      <guid isPermaLink="false">wordpress-mobile/wordpress-android:.claude/skills/draft-pr/skill.md</guid>
-      <description>WordPress for Android [GPL-2.0]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>paasta-api-endpoint (Yelp/paasta)</title>
-      <link>https://github.com/Yelp/paasta/blob/4d32a051ea5d96e4b7e11372c412ba466cef9507/.claude/skills/paasta-api-endpoint/SKILL.md</link>
-      <guid isPermaLink="false">yelp/paasta:.claude/skills/paasta-api-endpoint/skill.md</guid>
-      <description>An open, distributed platform as a service [Apache-2.0]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>create-pr (Automattic/woocommerce-services)</title>
-      <link>https://github.com/Automattic/woocommerce-services/blob/e8d938afe654212e4c066b67ae0e06a59f36d8da/.agents/skills/create-pr/SKILL.md</link>
-      <guid isPermaLink="false">automattic/woocommerce-services:.agents/skills/create-pr/skill.md</guid>
-      <description>WooCommerce Services is a feature plugin that integrates hosted services into WooCommerce (3.0+), and currently includes automated tax rates and the ability to purchase and print USPS shipping labels. [GPL-2.0]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>interfaces (coda/packs-sdk)</title>
-      <link>https://github.com/coda/packs-sdk/blob/83218d8ac7fb42d570f3df3edc716c2b54c82fae/docs/reference/sdk/core/interfaces/Skill.md</link>
-      <guid isPermaLink="false">coda/packs-sdk:docs/reference/sdk/core/interfaces/skill.md</guid>
-      <description>SDK for Coda Packs [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>wcdb (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/wcdb/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/wcdb/skill.md</guid>
+      <title>skill-usage-mgood-claude-skill-usage (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/development/skill-usage-mgood-claude-skill-usage/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/development/skill-usage-mgood-claude-skill-usage/skill.md</guid>
       <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2026 20:28:47 GMT</pubDate>
     </item>
     <item>
-      <title>backend-patterns (YosemiteCrew/Yosemite-Crew)</title>
-      <link>https://github.com/YosemiteCrew/Yosemite-Crew/blob/84620da01c3bfa17643cd975f68464afc68f0f47/.claude/skills/backend-patterns/SKILL.md</link>
-      <guid isPermaLink="false">yosemitecrew/yosemite-crew:.claude/skills/backend-patterns/skill.md</guid>
-      <description>Open source operating system for animal health [NOASSERTION]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
+      <title>skill-usage (majiayu000/claude-skill-registry-data)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry-data/blob/9ee1aba25c3fdacd6a3ce9693b59092306ae0111/data/skill-usage/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry-data:data/skill-usage/skill.md</guid>
+      <description>Skill from majiayu000/claude-skill-registry-data [None]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:47 GMT</pubDate>
     </item>
     <item>
-      <title>terminator-issue-reporter (mediar-ai/terminator)</title>
-      <link>https://github.com/mediar-ai/terminator/blob/2e34705a0bc9863d9ddae66b1a47d899bac58b20/.claude/skills/terminator-issue-reporter/skill.md</link>
-      <guid isPermaLink="false">mediar-ai/terminator:.claude/skills/terminator-issue-reporter/skill.md</guid>
-      <description>playwright for windows computer use  [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
+      <title>skill-usage (majiayu000/claude-skill-registry-data)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry-data/blob/9ee1aba25c3fdacd6a3ce9693b59092306ae0111/development/skill-usage/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry-data:development/skill-usage/skill.md</guid>
+      <description>Skill from majiayu000/claude-skill-registry-data [None]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:47 GMT</pubDate>
     </item>
     <item>
-      <title>gh-issue (TypedDevs/bashunit)</title>
-      <link>https://github.com/TypedDevs/bashunit/blob/0d1a6d3a4476d35593797f0a52110f046ffa03f0/.claude/skills/gh-issue/SKILL.md</link>
-      <guid isPermaLink="false">typeddevs/bashunit:.claude/skills/gh-issue/skill.md</guid>
+      <title>skill-usage-mgood-claude-skill-usage (majiayu000/claude-skill-registry-data)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry-data/blob/9ee1aba25c3fdacd6a3ce9693b59092306ae0111/development/skill-usage-mgood-claude-skill-usage/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry-data:development/skill-usage-mgood-claude-skill-usage/skill.md</guid>
+      <description>Skill from majiayu000/claude-skill-registry-data [None]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>marimo (majiayu000/claude-skill-registry-data)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry-data/blob/9ee1aba25c3fdacd6a3ce9693b59092306ae0111/data/marimo/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry-data:data/marimo/skill.md</guid>
+      <description>Skill from majiayu000/claude-skill-registry-data [None]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>marimo (nibzard/skills)</title>
+      <link>https://github.com/nibzard/skills/blob/80e7319d424369e64230f53f91d0c2e78c843927/skills/marimo/SKILL.md</link>
+      <guid isPermaLink="false">nibzard/skills:skills/marimo/skill.md</guid>
+      <description>An opinionated collection of Agent Skills I use daily in my work. [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>marimo (nibzard/skills)</title>
+      <link>https://github.com/nibzard/skills/blob/80e7319d424369e64230f53f91d0c2e78c843927/skills/marimo/skills/marimo/SKILL.md</link>
+      <guid isPermaLink="false">nibzard/skills:skills/marimo/skills/marimo/skill.md</guid>
+      <description>An opinionated collection of Agent Skills I use daily in my work. [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>gitea-tea (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/development/gitea-tea/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/development/gitea-tea/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>gitea-tea (majiayu000/claude-skill-registry-data)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry-data/blob/9ee1aba25c3fdacd6a3ce9693b59092306ae0111/data/gitea-tea/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry-data:data/gitea-tea/skill.md</guid>
+      <description>Skill from majiayu000/claude-skill-registry-data [None]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>gitea-tea (majiayu000/claude-skill-registry-data)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry-data/blob/9ee1aba25c3fdacd6a3ce9693b59092306ae0111/development/gitea-tea/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry-data:development/gitea-tea/skill.md</guid>
+      <description>Skill from majiayu000/claude-skill-registry-data [None]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>gitea-tea (beshkenadze/claude-skills-marketplace)</title>
+      <link>https://github.com/beshkenadze/claude-skills-marketplace/blob/f1c01df86664d03cda4d7c4733d55dea38ec0fe5/skills/development/gitea-tea/SKILL.md</link>
+      <guid isPermaLink="false">beshkenadze/claude-skills-marketplace:skills/development/gitea-tea/skill.md</guid>
+      <description>A marketplace of Claude Agent Skills - organized packages of instructions, scripts, and resources that extend Claude&apos;s capabilities [None]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>arp-API (joabeoliveira/GptGovbuscaARP)</title>
+      <link>https://github.com/joabeoliveira/GptGovbuscaARP/blob/3fe38b569ce0553c3eede26bd270e8795c3efc35/.skills/arp-API/SKILL.md</link>
+      <guid isPermaLink="false">joabeoliveira/gptgovbuscaarp:.skills/arp-api/skill.md</guid>
+      <description>Skill from joabeoliveira/GptGovbuscaARP [None]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>arp-API (joabeoliveira/skills)</title>
+      <link>https://github.com/joabeoliveira/skills/blob/073af550dcde4f7dec90676a2c0d9721b1eef5c4/test-project/.skills/arp-API/SKILL.md</link>
+      <guid isPermaLink="false">joabeoliveira/skills:test-project/.skills/arp-api/skill.md</guid>
+      <description>Pacote de habilidades voltadas para o serviço público. [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>workers (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/workers/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/workers/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>lc-list (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/lc-list/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/lc-list/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>apodc (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/product/apodc/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/product/apodc/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>ui-embed (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/ui-embed/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/ui-embed/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>wrap-up (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/wrap-up/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/wrap-up/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>backfill (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/backfill/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/backfill/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>tmux-cli (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/tmux-cli/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/tmux-cli/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>issue-pr (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/issue-pr/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/issue-pr/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>skill-manager (seasonedcc/remix-forms)</title>
+      <link>https://github.com/seasonedcc/remix-forms/blob/7030d30eae39091a3900e82ddbf3c67a657e8da4/.claude/skills/skill-manager/SKILL.md</link>
+      <guid isPermaLink="false">seasonedcc/remix-forms:.claude/skills/skill-manager/skill.md</guid>
+      <description>Full-stack forms for React Router [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>claude-skill-registry (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/testing/agents/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/testing/agents/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>web-load2 (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/web-load2/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/web-load2/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>blog2blog (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/blog2blog/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/blog2blog/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>review-ux (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/review-ux/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/review-ux/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>lc-submit (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/lc-submit/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/lc-submit/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>gitingest (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/gitingest/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/gitingest/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>tmdb-data (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/tmdb-data/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/tmdb-data/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>ic-curate (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/ic-curate/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/ic-curate/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>btr-query (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/btr-query/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/btr-query/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>ic-lookup (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/ic-lookup/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/ic-lookup/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>ui-tester (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/ui-tester/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/ui-tester/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>organize (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/organize/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/organize/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>waldstorm (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/waldstorm/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/waldstorm/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>cat-patch (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/cat-patch/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/cat-patch/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>sitepanda (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/sitepanda/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/sitepanda/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>anywidget-dev (koaning/wigglystuff)</title>
+      <link>https://github.com/koaning/wigglystuff/blob/26c22d30d527a42aea589ea4c9cbc7ccc3d52bd2/.claude/skills/anywidget-dev/skill.md</link>
+      <guid isPermaLink="false">koaning/wigglystuff:.claude/skills/anywidget-dev/skill.md</guid>
+      <description>A collection of creative AnyWidgets for Python notebook environments  [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>aws-cost (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/aws-cost/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/aws-cost/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>use-zfeats (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/use-zfeats/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/use-zfeats/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>data-stuff (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/data-stuff/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/data-stuff/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>man-config (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/man-config/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/man-config/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>demo-skill (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/demo-skill/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/demo-skill/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>jj-context (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/jj-context/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/jj-context/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>pdf (phodal/auto-dev)</title>
+      <link>https://github.com/phodal/auto-dev/blob/ef355765e7278edcd24ecb6f93faba353f4cba1f/examples/skills/pdf/SKILL.md</link>
+      <guid isPermaLink="false">phodal/auto-dev:examples/skills/pdf/skill.md</guid>
+      <description>🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC. [MPL-2.0]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>neta-space (talesofai/neta-skills)</title>
+      <link>https://github.com/talesofai/neta-skills/blob/07fedc37e066f3b09bac707d40e1526fe7e6e93d/skills/zh_cn/neta-space/SKILL.md</link>
+      <guid isPermaLink="false">talesofai/neta-skills:skills/zh_cn/neta-space/skill.md</guid>
+      <description>Neta - Agent-first Creative Kit [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>reflect (rilldata/rill)</title>
+      <link>https://github.com/rilldata/rill/blob/774995209c88f67ed080aa63f4b83510e866e994/.claude/skills/reflect/SKILL.md</link>
+      <guid isPermaLink="false">rilldata/rill:.claude/skills/reflect/skill.md</guid>
+      <description>The fastest business intelligence tool for humans and agents. [Apache-2.0]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>neta-community (talesofai/neta-skills)</title>
+      <link>https://github.com/talesofai/neta-skills/blob/07fedc37e066f3b09bac707d40e1526fe7e6e93d/skills/zh_cn/neta-community/SKILL.md</link>
+      <guid isPermaLink="false">talesofai/neta-skills:skills/zh_cn/neta-community/skill.md</guid>
+      <description>Neta - Agent-first Creative Kit [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>re-review (rilldata/rill)</title>
+      <link>https://github.com/rilldata/rill/blob/774995209c88f67ed080aa63f4b83510e866e994/.claude/skills/re-review/SKILL.md</link>
+      <guid isPermaLink="false">rilldata/rill:.claude/skills/re-review/skill.md</guid>
+      <description>The fastest business intelligence tool for humans and agents. [Apache-2.0]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>file-issue (rilldata/rill)</title>
+      <link>https://github.com/rilldata/rill/blob/774995209c88f67ed080aa63f4b83510e866e994/.claude/skills/file-issue/SKILL.md</link>
+      <guid isPermaLink="false">rilldata/rill:.claude/skills/file-issue/skill.md</guid>
+      <description>The fastest business intelligence tool for humans and agents. [Apache-2.0]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>investigate (rilldata/rill)</title>
+      <link>https://github.com/rilldata/rill/blob/774995209c88f67ed080aa63f4b83510e866e994/.claude/skills/investigate/SKILL.md</link>
+      <guid isPermaLink="false">rilldata/rill:.claude/skills/investigate/skill.md</guid>
+      <description>The fastest business intelligence tool for humans and agents. [Apache-2.0]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>magerun-release (netz98/n98-magerun2)</title>
+      <link>https://github.com/netz98/n98-magerun2/blob/d851ba37cb46a108465249b1afc82abd896a8393/.agents/skills/magerun-release/SKILL.md</link>
+      <guid isPermaLink="false">netz98/n98-magerun2:.agents/skills/magerun-release/skill.md</guid>
+      <description>The swiss army knife for Magento developers, sysadmins and devops. The tool provides a huge set of well tested command line commands which save hours of work time. All commands are extendable by a module API. [NOASSERTION]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>l-new-issue (lowdefy/lowdefy)</title>
+      <link>https://github.com/lowdefy/lowdefy/blob/f28cd336b74a84f362d2b32b19f7d4c5d600a5b3/.claude/skills/l-new-issue/SKILL.md</link>
+      <guid isPermaLink="false">lowdefy/lowdefy:.claude/skills/l-new-issue/skill.md</guid>
+      <description>Build apps that AI can generate, humans can review, and teams can maintain. Config that works between code and natural language. [Apache-2.0]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>crypto (jekalmin/extended_openai_conversation)</title>
+      <link>https://github.com/jekalmin/extended_openai_conversation/blob/561166e47a7bea2eb24eb67b5329d272a1e11216/examples/skills/crypto/SKILL.md</link>
+      <guid isPermaLink="false">jekalmin/extended_openai_conversation:examples/skills/crypto/skill.md</guid>
+      <description>Home Assistant custom component of conversation agent. It uses OpenAI to control your devices. [None]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>address-feedback (rilldata/rill)</title>
+      <link>https://github.com/rilldata/rill/blob/774995209c88f67ed080aa63f4b83510e866e994/.claude/skills/address-feedback/SKILL.md</link>
+      <guid isPermaLink="false">rilldata/rill:.claude/skills/address-feedback/skill.md</guid>
+      <description>The fastest business intelligence tool for humans and agents. [Apache-2.0]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>l-commit (lowdefy/lowdefy)</title>
+      <link>https://github.com/lowdefy/lowdefy/blob/f28cd336b74a84f362d2b32b19f7d4c5d600a5b3/.claude/skills/l-commit/SKILL.md</link>
+      <guid isPermaLink="false">lowdefy/lowdefy:.claude/skills/l-commit/skill.md</guid>
+      <description>Build apps that AI can generate, humans can review, and teams can maintain. Config that works between code and natural language. [Apache-2.0]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>rails-testing (etewiah/property_web_builder)</title>
+      <link>https://github.com/etewiah/property_web_builder/blob/1538f58c561b9b91a38f0f26ffb6cda3c39b945d/.claude/skills/rails-testing/SKILL.md</link>
+      <guid isPermaLink="false">etewiah/property_web_builder:.claude/skills/rails-testing/skill.md</guid>
+      <description>Create a fully featured real estate website on Rails in minutes! ⛺ [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>l-changeset (lowdefy/lowdefy)</title>
+      <link>https://github.com/lowdefy/lowdefy/blob/f28cd336b74a84f362d2b32b19f7d4c5d600a5b3/.claude/skills/l-changeset/SKILL.md</link>
+      <guid isPermaLink="false">lowdefy/lowdefy:.claude/skills/l-changeset/skill.md</guid>
+      <description>Build apps that AI can generate, humans can review, and teams can maintain. Config that works between code and natural language. [Apache-2.0]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>fix (phel-lang/phel-lang)</title>
+      <link>https://github.com/phel-lang/phel-lang/blob/23cd6bef245a10b35e802be9464a8a4ae0f5461b/.claude/skills/fix/SKILL.md</link>
+      <guid isPermaLink="false">phel-lang/phel-lang:.claude/skills/fix/skill.md</guid>
+      <description>A functional, Lisp-inspired language that compiles to PHP. Inspired by Clojure, Phel brings macros, persistent data structures, and expressive functional idioms to the PHP ecosystem. [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>openclaw-skill (maojindao55/botgroup.chat)</title>
+      <link>https://github.com/maojindao55/botgroup.chat/blob/89326ea617ff376a5af161e958236809d95f619c/docs/openclaw-skill/SKILL.md</link>
+      <guid isPermaLink="false">maojindao55/botgroup.chat:docs/openclaw-skill/skill.md</guid>
+      <description>AI机器人群聊 [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>split-asm (bitfaster/BitFaster.Caching)</title>
+      <link>https://github.com/bitfaster/BitFaster.Caching/blob/a3441ea897315cac8b9b1dd65ac55339ce99cee6/.claude/skills/split-asm/skill.md</link>
+      <guid isPermaLink="false">bitfaster/bitfaster.caching:.claude/skills/split-asm/skill.md</guid>
+      <description>High performance, thread-safe in-memory caching primitives for .NET [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>bench-fast (bitfaster/BitFaster.Caching)</title>
+      <link>https://github.com/bitfaster/BitFaster.Caching/blob/a3441ea897315cac8b9b1dd65ac55339ce99cee6/.claude/skills/bench-fast/skill.md</link>
+      <guid isPermaLink="false">bitfaster/bitfaster.caching:.claude/skills/bench-fast/skill.md</guid>
+      <description>High performance, thread-safe in-memory caching primitives for .NET [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>release (phel-lang/phel-lang)</title>
+      <link>https://github.com/phel-lang/phel-lang/blob/23cd6bef245a10b35e802be9464a8a4ae0f5461b/.claude/skills/release/SKILL.md</link>
+      <guid isPermaLink="false">phel-lang/phel-lang:.claude/skills/release/skill.md</guid>
+      <description>A functional, Lisp-inspired language that compiles to PHP. Inspired by Clojure, Phel brings macros, persistent data structures, and expressive functional idioms to the PHP ecosystem. [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>sample (jrswab/axe)</title>
+      <link>https://github.com/jrswab/axe/blob/72df5327203df4cdaef726da3402267fb7749cde/skills/sample/SKILL.md</link>
+      <guid isPermaLink="false">jrswab/axe:skills/sample/skill.md</guid>
+      <description>A lightweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. [Apache-2.0]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>changelog (phel-lang/phel-lang)</title>
+      <link>https://github.com/phel-lang/phel-lang/blob/23cd6bef245a10b35e802be9464a8a4ae0f5461b/.claude/skills/changelog/SKILL.md</link>
+      <guid isPermaLink="false">phel-lang/phel-lang:.claude/skills/changelog/skill.md</guid>
+      <description>A functional, Lisp-inspired language that compiles to PHP. Inspired by Clojure, Phel brings macros, persistent data structures, and expressive functional idioms to the PHP ecosystem. [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>run-codegen (LalitMaganti/syntaqlite)</title>
+      <link>https://github.com/LalitMaganti/syntaqlite/blob/8c54d2d0914ae3c6f8551f029c56c3738308b6ad/.agents/skills/run-codegen/SKILL.md</link>
+      <guid isPermaLink="false">lalitmaganti/syntaqlite:.agents/skills/run-codegen/skill.md</guid>
+      <description>A parser, formatter, validator, and language server for SQLite SQL. Built on SQLite&apos;s own grammar and tokenizer [Apache-2.0]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>claude-review (hyperlane-xyz/hyperlane-warp-ui-template)</title>
+      <link>https://github.com/hyperlane-xyz/hyperlane-warp-ui-template/blob/9865b192f550aed6138fb14f443a67b6e307f1f5/.claude/skills/claude-review/SKILL.md</link>
+      <guid isPermaLink="false">hyperlane-xyz/hyperlane-warp-ui-template:.claude/skills/claude-review/skill.md</guid>
+      <description>A web app template for building Hyperlane Warp Route UIs [NOASSERTION]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>gh-issue (gittower/git-flow-next)</title>
+      <link>https://github.com/gittower/git-flow-next/blob/a5a43b44ee4f289db9a648c14d5e180321ca0900/.claude/skills/gh-issue/SKILL.md</link>
+      <guid isPermaLink="false">gittower/git-flow-next:.claude/skills/gh-issue/skill.md</guid>
+      <description>A modern reimplementation of git-flow in Go that offers greater flexibility while maintaining backward compatibility with the original git-flow and git-flow-avh. [NOASSERTION]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>dump-asm (bitfaster/BitFaster.Caching)</title>
+      <link>https://github.com/bitfaster/BitFaster.Caching/blob/a3441ea897315cac8b9b1dd65ac55339ce99cee6/.claude/skills/dump-asm/skill.md</link>
+      <guid isPermaLink="false">bitfaster/bitfaster.caching:.claude/skills/dump-asm/skill.md</guid>
+      <description>High performance, thread-safe in-memory caching primitives for .NET [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>investigation (talmolab/sleap)</title>
+      <link>https://github.com/talmolab/sleap/blob/4f7d01fc91f50a5aee330b25def851d42f6433a6/.claude/skills/investigation/SKILL.md</link>
+      <guid isPermaLink="false">talmolab/sleap:.claude/skills/investigation/skill.md</guid>
+      <description>A deep learning framework for multi-animal pose tracking. [BSD-3-Clause-Clear]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>redis-rt (BlkLeg/CircuitBreaker)</title>
+      <link>https://github.com/BlkLeg/CircuitBreaker/blob/59c911b7c2509978fcd4860e6aa7af863fe31212/.claude/skills/redis-rt/SKILL.md</link>
+      <guid isPermaLink="false">blkleg/circuitbreaker:.claude/skills/redis-rt/skill.md</guid>
+      <description>Bring your homelab to life. A self-hosted IPAM and service mapper that visualizes complex hardware, compute, and network relationships in real-time. [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>claude-review (hyperlane-xyz/hyperlane-explorer)</title>
+      <link>https://github.com/hyperlane-xyz/hyperlane-explorer/blob/460de9ff00ded3a07b8341176cda5c3cda50d210/.claude/skills/claude-review/SKILL.md</link>
+      <guid isPermaLink="false">hyperlane-xyz/hyperlane-explorer:.claude/skills/claude-review/skill.md</guid>
+      <description>Web app for the Hyperlane Explorer [NOASSERTION]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>api-contract (BlkLeg/CircuitBreaker)</title>
+      <link>https://github.com/BlkLeg/CircuitBreaker/blob/59c911b7c2509978fcd4860e6aa7af863fe31212/.claude/skills/api-contract/SKILL.md</link>
+      <guid isPermaLink="false">blkleg/circuitbreaker:.claude/skills/api-contract/skill.md</guid>
+      <description>Bring your homelab to life. A self-hosted IPAM and service mapper that visualizes complex hardware, compute, and network relationships in real-time. [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>git-commit (JackyST0/awesome-agent-skills)</title>
+      <link>https://github.com/JackyST0/awesome-agent-skills/blob/e7ad116aead0f8128511d1e93bf1780e60481de9/examples/git-commit/SKILL.md</link>
+      <guid isPermaLink="false">jackyst0/awesome-agent-skills:examples/git-commit/skill.md</guid>
+      <description>🤖 精选的 AI Agent Skills 列表，适用于 Cursor、Claude Code、GitHub Copilot 等 AI 编程工具 [CC0-1.0]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>release (TypedDevs/bashunit)</title>
+      <link>https://github.com/TypedDevs/bashunit/blob/0d1a6d3a4476d35593797f0a52110f046ffa03f0/.claude/skills/release/SKILL.md</link>
+      <guid isPermaLink="false">typeddevs/bashunit:.claude/skills/release/skill.md</guid>
       <description>A simple yet powerfull testing library for bash scripts. [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>yytext (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/yytext/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/yytext/skill.md</guid>
+      <title>security-vault (BlkLeg/CircuitBreaker)</title>
+      <link>https://github.com/BlkLeg/CircuitBreaker/blob/59c911b7c2509978fcd4860e6aa7af863fe31212/.claude/skills/security-vault/SKILL.md</link>
+      <guid isPermaLink="false">blkleg/circuitbreaker:.claude/skills/security-vault/skill.md</guid>
+      <description>Bring your homelab to life. A self-hosted IPAM and service mapper that visualizes complex hardware, compute, and network relationships in real-time. [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>build-check (johannilsson/sthlmtraveling)</title>
+      <link>https://github.com/johannilsson/sthlmtraveling/blob/a4e8341a81fff2aa7fb2951c9da4f967f3484cd9/.claude/skills/build-check/SKILL.md</link>
+      <guid isPermaLink="false">johannilsson/sthlmtraveling:.claude/skills/build-check/skill.md</guid>
+      <description>STHLM Traveling helps you plan your journeys using data from Stockholm Public Transport (SL, Stockholms Lokaltrafik) on your Android phone [Apache-2.0]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>demo (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/demo/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/demo/skill.md</guid>
       <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>wt-new (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/wt-new/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/wt-new/skill.md</guid>
+      <title>news (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/news/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/news/skill.md</guid>
       <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>zero-debt (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/zero-debt/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/zero-debt/skill.md</guid>
+      <title>vs20 (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/vs20/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/vs20/skill.md</guid>
       <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>wt-status (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/wt-status/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/wt-status/skill.md</guid>
+      <title>basic (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/basic/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/basic/skill.md</guid>
       <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>check_td_runtime (intel/confidential-computing-zoo)</title>
-      <link>https://github.com/intel/confidential-computing-zoo/blob/a359829576822a1086479e1f12833307595da228/cczoo/openclaw-cc/cc_tdx_skills/check_td_runtime/SKILL.md</link>
-      <guid isPermaLink="false">intel/confidential-computing-zoo:cczoo/openclaw-cc/cc_tdx_skills/check_td_runtime/skill.md</guid>
-      <description>Confidential Computing Zoo provides confidential computing solutions based on Intel SGX, TDX, HEXL, etc. technologies. [Apache-2.0]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>wao (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/other/wao/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/other/wao/skill.md</guid>
+      <title>husky (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/husky/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/husky/skill.md</guid>
       <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>wt-cleanup (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/wt-cleanup/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/wt-cleanup/skill.md</guid>
+      <title>recap (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/recap/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/recap/skill.md</guid>
       <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>ohos-dataorm (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/ohos-dataorm/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/ohos-dataorm/skill.md</guid>
+      <title>errors (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/errors/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/errors/skill.md</guid>
       <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>testing-base (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/testing-base/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/testing-base/skill.md</guid>
+      <title>news (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/devops/news/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/devops/news/skill.md</guid>
       <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>propose-merge-filters (nishantwrp/gsoc-organizations)</title>
-      <link>https://github.com/nishantwrp/gsoc-organizations/blob/49df308e89ddbcfa5c864d656820c7afdf3e9462/.agent/skills/propose-merge-filters/SKILL.md</link>
-      <guid isPermaLink="false">nishantwrp/gsoc-organizations:.agent/skills/propose-merge-filters/skill.md</guid>
-      <description>A site for viewing and analyzing the info of the organizations participating in Google Summer of Code. [GPL-3.0]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>issue-creator (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/issue-creator/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/issue-creator/skill.md</guid>
+      <title>ignore (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/ignore/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/ignore/skill.md</guid>
       <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>sdk-sm (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/development/sdk-sm/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/development/sdk-sm/skill.md</guid>
+      <title>commit (TypedDevs/bashunit)</title>
+      <link>https://github.com/TypedDevs/bashunit/blob/0d1a6d3a4476d35593797f0a52110f046ffa03f0/.claude/skills/commit/SKILL.md</link>
+      <guid isPermaLink="false">typeddevs/bashunit:.claude/skills/commit/skill.md</guid>
+      <description>A simple yet powerfull testing library for bash scripts. [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>code-review (streaming-video-technology-alliance/common-media-library)</title>
+      <link>https://github.com/streaming-video-technology-alliance/common-media-library/blob/dde3a5d3413ca6b0429432eea7de6bba1904ed0f/.claude/skills/code-review/SKILL.md</link>
+      <guid isPermaLink="false">streaming-video-technology-alliance/common-media-library:.claude/skills/code-review/skill.md</guid>
+      <description>A common library for media playback in JavaScript [Apache-2.0]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>lc-show (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/lc-show/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/lc-show/skill.md</guid>
       <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>mcp-context7 (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/mcp-context7/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/mcp-context7/skill.md</guid>
+      <title>feature (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/feature/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/feature/skill.md</guid>
       <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>list-files (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/testing/list-files/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/testing/list-files/skill.md</guid>
+      <title>tk-list (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/tk-list/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/tk-list/skill.md</guid>
       <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>academic-paper (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/academic-paper/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/academic-paper/skill.md</guid>
+      <title>runbook (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/runbook/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/runbook/skill.md</guid>
       <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2026 20:28:44 GMT</pubDate>
     </item>
     <item>
-      <title>issue-splitter (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/issue-splitter/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/issue-splitter/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>demeter-skills (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/demeter-skills/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/demeter-skills/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>makefile-update (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/makefile-update/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/makefile-update/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>pull-requesting (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/pull-requesting/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/pull-requesting/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>sdd-tasks (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/development/sdd-tasks/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/development/sdd-tasks/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>quality-strict (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/quality-strict/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/quality-strict/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>tdd-strict (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/development/tdd-strict/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/development/tdd-strict/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>medication-tools (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/medication-tools/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/medication-tools/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>tizen-cve-scanner (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/tizen-cve-scanner/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/tizen-cve-scanner/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>understand-source (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/understand-source/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/understand-source/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>write-skill (tidymodels/yardstick)</title>
-      <link>https://github.com/tidymodels/yardstick/blob/fa91f90cdd64085113ad931e47e381cb6b0dc3e1/.claude/skills/write-skill/SKILL.md</link>
-      <guid isPermaLink="false">tidymodels/yardstick:.claude/skills/write-skill/skill.md</guid>
-      <description>Tidy methods for measuring model performance [NOASSERTION]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>passwordless-docs (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/passwordless-docs/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/passwordless-docs/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>sdd-highway (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/development/sdd-highway/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/development/sdd-highway/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>agents-aea (fetchai/agents-aea)</title>
-      <link>https://github.com/fetchai/agents-aea/blob/bec49adaeba661d8d0f03ac9935dc89f39d95a0d/docs/http-connection-and-skill.md</link>
-      <guid isPermaLink="false">fetchai/agents-aea:docs/http-connection-and-skill.md</guid>
-      <description>A framework for autonomous economic agent (AEA) development [Apache-2.0]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>style (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/development/style/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/development/style/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>implement-connector (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/implement-connector/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/implement-connector/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>writing-alto-skills (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/writing-alto-skills/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/writing-alto-skills/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>pr-description (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/pr-description/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/pr-description/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>todoist-task-creator (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/todoist-task-creator/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/todoist-task-creator/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>wellbeing-screening (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/wellbeing-screening/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/wellbeing-screening/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>cardiovascular-risk (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/cardiovascular-risk/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/cardiovascular-risk/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>renal-metabolic (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/renal-metabolic/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/renal-metabolic/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>switch-feature (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/switch-feature/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/switch-feature/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>cc-mcp-executor-skill (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/cc-mcp-executor-skill/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/cc-mcp-executor-skill/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>frameworkmakeentity (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/devops/frameworkmakeentity/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/devops/frameworkmakeentity/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>frameworkmakestory (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/testing/frameworkmakestory/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/testing/frameworkmakestory/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>primary-care-general (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/primary-care-general/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/primary-care-general/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>gh-update-pr-description (lidofinance/community-staking-module)</title>
-      <link>https://github.com/lidofinance/community-staking-module/blob/e029682e40f5b077cebc5d6a6af5d6f559beadc4/.agents/skills/gh-update-pr-description/SKILL.md</link>
-      <guid isPermaLink="false">lidofinance/community-staking-module:.agents/skills/gh-update-pr-description/skill.md</guid>
-      <description>Community Staking Module is the first ever permissionless staking module in Lido [GPL-3.0]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pathfinder-1E-SRD-Markdown (Obsidian-TTRPG-Community/Pathfinder-1E-SRD-Markdown)</title>
-      <link>https://github.com/Obsidian-TTRPG-Community/Pathfinder-1E-SRD-Markdown/blob/a4aecc6cdd1a369e0d5e618cfee2cb5dda8c5e4b/spells/b/borrow-skill.md</link>
-      <guid isPermaLink="false">obsidian-ttrpg-community/pathfinder-1e-srd-markdown:spells/b/borrow-skill.md</guid>
-      <description>This is your Pathfinder 1E materials in Markdown Format [NOASSERTION]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>eating-risk-checklist (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/eating-risk-checklist/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/eating-risk-checklist/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>cynara-policy-checker (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/cynara-policy-checker/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/cynara-policy-checker/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>opioid-mme-calculator (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/opioid-mme-calculator/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/opioid-mme-calculator/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>github-issue-creation (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/github-issue-creation/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/github-issue-creation/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>conventional-commits (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/conventional-commits/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/conventional-commits/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>critical-care-severity (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/critical-care-severity/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/critical-care-severity/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>github-issues-from-spec (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/github-issues-from-spec/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/github-issues-from-spec/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>btcpayserver-doc (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/other/btcpayserver-doc/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/other/btcpayserver-doc/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>frameworkmakeout (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/development/frameworkmakeout/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/development/frameworkmakeout/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>cynara-policy-validator (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/cynara-policy-validator/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/cynara-policy-validator/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>frameworkmakefactory (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/testing/frameworkmakefactory/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/testing/frameworkmakefactory/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>secure-storage-template (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/secure-storage-template/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/secure-storage-template/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>frameworkmakeall (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/development/frameworkmakeall/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/development/frameworkmakeall/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>implementation-verifier (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/implementation-verifier/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/implementation-verifier/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>frameworkmakeurls (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/development/frameworkmakeurls/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/development/frameworkmakeurls/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>pensions-research (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/other/pensions-research/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/other/pensions-research/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>makefile-update (hiromaily/go-crypto-wallet)</title>
-      <link>https://github.com/hiromaily/go-crypto-wallet/blob/f01c918b5ee7c6ce521afd35daf5dfa8afe4495c/.claude/skills/makefile-update/SKILL.md</link>
-      <guid isPermaLink="false">hiromaily/go-crypto-wallet:.claude/skills/makefile-update/skill.md</guid>
-      <description>Cryptocurrency wallet for trading for Bitcoin, Bitcoin cash, Ethereum, ERC20, XRP Leger (Ripple) [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>work-items (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/work-items/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/work-items/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>emergency-decision-rules (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/emergency-decision-rules/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/emergency-decision-rules/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>create-connector-document (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/create-connector-document/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/create-connector-document/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>data-analysis (femto/minion)</title>
-      <link>https://github.com/femto/minion/blob/69e23552e9ff49dd97e77f12132c5c2c08682dbc/examples/skills/data-analysis/SKILL.md</link>
-      <guid isPermaLink="false">femto/minion:examples/skills/data-analysis/skill.md</guid>
-      <description>👷‍♂️High performance agent framework that can do everything. Minion is designed to execute any type of queries, offering a variety of features that demonstrate its flexibility and intelligence. [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>cognitive-concerns-intake (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/other/cognitive-concerns-intake/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/cognitive-concerns-intake/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>enter-issue (thefrederiksen/cc-director)</title>
-      <link>https://github.com/thefrederiksen/cc-director/blob/c52f3cc52cd31ee67406c38a003f1b383ccbaae6/.claude/skills/enter-issue/SKILL.md</link>
-      <guid isPermaLink="false">thefrederiksen/cc-director:.claude/skills/enter-issue/skill.md</guid>
-      <description>Skill from thefrederiksen/cc-director [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>fetch-spec (oxidecomputer/oxide.go)</title>
-      <link>https://github.com/oxidecomputer/oxide.go/blob/ddc66e4e5f322067f439d0252dd395267c504f4f/.agents/skills/fetch-spec/SKILL.md</link>
-      <guid isPermaLink="false">oxidecomputer/oxide.go:.agents/skills/fetch-spec/skill.md</guid>
-      <description>Oxide Go SDK. [MPL-2.0]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>snippet-manager (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/snippet-manager/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/snippet-manager/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>specification-writer (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/specification-writer/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/specification-writer/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>farm-monitor (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/e2cbf7007ec228245e25fdc5c537338188651e41/skills/data/farm-monitor/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/farm-monitor/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>open-rappter (kody-w/rappterbook)</title>
-      <link>https://github.com/kody-w/rappterbook/blob/b970612cb9109b1e4f01ed4fff8967ee4d1e50dc/skills/open-rappter.skill.md</link>
-      <guid isPermaLink="false">kody-w/rappterbook:skills/open-rappter.skill.md</guid>
-      <description>Social network for AI agents. Feed SKILLS.md to your AI — it becomes a citizen. No servers, no API keys. GitHub IS the platform. [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>release-gate (KevinRabun/judges)</title>
-      <link>https://github.com/KevinRabun/judges/blob/8432a667142535f2e7fa4126d7b6e18d7c9a7978/skills/release-gate.skill.md</link>
-      <guid isPermaLink="false">kevinrabun/judges:skills/release-gate.skill.md</guid>
-      <description>MCP server with specialized judges to evaluate AI-generated code for security, cost, scalability, cloud readiness, and best practices. [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>full-stack-roadmap (OsmanKAYI/full-stack-roadmap)</title>
-      <link>https://github.com/OsmanKAYI/full-stack-roadmap/blob/53bf08b98c6287363d85fc73cb4d4056829b19bb/useful.tips/10.must-have.skills.md</link>
-      <guid isPermaLink="false">osmankayi/full-stack-roadmap:useful.tips/10.must-have.skills.md</guid>
-      <description>A brief journey of full-stack developers [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>10 (zhoubichuan/web-cesium)</title>
-      <link>https://github.com/zhoubichuan/web-cesium/blob/d80d714366a6a44002334e62f055cf5f8c06db9c/src/base/engine/10.skill.md</link>
-      <guid isPermaLink="false">zhoubichuan/web-cesium:src/base/engine/10.skill.md</guid>
-      <description>📖  cesium相关知识的总结--持续更新 💪 【http://zhoubichuan.com/web-cesium】 [None]</description>
-      <pubDate>Sun, 19 Apr 2026 19:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>intro (alpha3002025/intro)</title>
-      <link>https://github.com/alpha3002025/intro/blob/af6073f2d41b39e60da5f6b8706fcc083f9feb10/_docs/0.SKILLSET.md</link>
-      <guid isPermaLink="false">alpha3002025/intro:_docs/0.skillset.md</guid>
-      <description>https://chagchagchag.github.io/intro/ [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>my_awesome_copilot (miguel-conde/my_awesome_copilot)</title>
-      <link>https://github.com/miguel-conde/my_awesome_copilot/blob/9c0199a77ec056f89f67bb329c827dc97cf4692d/docs/README.skills.md</link>
-      <guid isPermaLink="false">miguel-conde/my_awesome_copilot:docs/readme.skills.md</guid>
-      <description>Skill from miguel-conde/my_awesome_copilot [None]</description>
-      <pubDate>Sun, 19 Apr 2026 19:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>auth (TairuFramework/enkaku)</title>
-      <link>https://github.com/TairuFramework/enkaku/blob/6201f7e97dd923907173733a53b981f91c9d9bc3/docs/skills/auth.skill.md</link>
-      <guid isPermaLink="false">tairuframework/enkaku:docs/skills/auth.skill.md</guid>
-      <description>RPC for modern applications [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:55:37 GMT</pubDate>
+      <title>youtube-transcribe (Steve0verton/youtube-transcriber)</title>
+      <link>https://github.com/Steve0verton/youtube-transcriber/blob/b8ed5e1777fc543cba0e389acb1184d9b185b4ec/docs/youtube-transcribe.skill.md</link>
+      <guid isPermaLink="false">steve0verton/youtube-transcriber:docs/youtube-transcribe.skill.md</guid>
+      <description>Downloads audio from YouTube videos, transcribes, shares back with AI LLM of choice for ingestion. [GPL-3.0]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:01 GMT</pubDate>
     </item>
     <item>
       <title>kenzy (lnxusr1/kenzy)</title>
-      <link>https://github.com/lnxusr1/kenzy/blob/dff2d9723ad72bb82b6f8c107087001ef41a5bb5/docs/kenzy.skills.MuteSkill.md</link>
-      <guid isPermaLink="false">lnxusr1/kenzy:docs/kenzy.skills.muteskill.md</guid>
+      <link>https://github.com/lnxusr1/kenzy/blob/dff2d9723ad72bb82b6f8c107087001ef41a5bb5/docs/kenzy.skills.WatcherSkill.md</link>
+      <guid isPermaLink="false">lnxusr1/kenzy:docs/kenzy.skills.watcherskill.md</guid>
       <description>Smart Ai written in Python [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:55:37 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2026 20:28:01 GMT</pubDate>
     </item>
     <item>
       <title>kenzy (lnxusr1/kenzy)</title>
-      <link>https://github.com/lnxusr1/kenzy/blob/dff2d9723ad72bb82b6f8c107087001ef41a5bb5/docs/kenzy.skills.NewsSkill.md</link>
-      <guid isPermaLink="false">lnxusr1/kenzy:docs/kenzy.skills.newsskill.md</guid>
+      <link>https://github.com/lnxusr1/kenzy/blob/dff2d9723ad72bb82b6f8c107087001ef41a5bb5/docs/kenzy.skills.WeatherSkill.md</link>
+      <guid isPermaLink="false">lnxusr1/kenzy:docs/kenzy.skills.weatherskill.md</guid>
       <description>Smart Ai written in Python [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:55:37 GMT</pubDate>
+      <pubDate>Sun, 19 Apr 2026 20:28:01 GMT</pubDate>
     </item>
     <item>
-      <title>kenzy (lnxusr1/kenzy)</title>
-      <link>https://github.com/lnxusr1/kenzy/blob/dff2d9723ad72bb82b6f8c107087001ef41a5bb5/docs/kenzy.skills.HelloSkill.md</link>
-      <guid isPermaLink="false">lnxusr1/kenzy:docs/kenzy.skills.helloskill.md</guid>
-      <description>Smart Ai written in Python [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:55:37 GMT</pubDate>
+      <title>supabase (CleanExpo/DR-NRPG)</title>
+      <link>https://github.com/CleanExpo/DR-NRPG/blob/35e82e2e9376d2a434729ef61c39fcde7fc142d0/skills/database/supabase.skill.md</link>
+      <guid isPermaLink="false">cleanexpo/dr-nrpg:skills/database/supabase.skill.md</guid>
+      <description>Skill from CleanExpo/DR-NRPG [NOASSERTION]</description>
+      <pubDate>Sun, 19 Apr 2026 20:28:01 GMT</pubDate>
     </item>
     <item>
-      <title>kenzy (lnxusr1/kenzy)</title>
-      <link>https://github.com/lnxusr1/kenzy/blob/dff2d9723ad72bb82b6f8c107087001ef41a5bb5/docs/kenzy.skills.AboutSkill.md</link>
-      <guid isPermaLink="false">lnxusr1/kenzy:docs/kenzy.skills.aboutskill.md</guid>
-      <description>Smart Ai written in Python [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:55:37 GMT</pubDate>
+      <title>design (kirvin/copilot-cli-essentials)</title>
+      <link>https://github.com/kirvin/copilot-cli-essentials/blob/83f8032dab3ae5b35636c899dfde2fc612bd69e4/plugins/cpe/skills/design/SKILL.md</link>
+      <guid isPermaLink="false">kirvin/copilot-cli-essentials:plugins/cpe/skills/design/skill.md</guid>
+      <description>Plugin to provide core skills, commands and customized agents for Github CoPilot CLI [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:26:53 GMT</pubDate>
     </item>
     <item>
-      <title>validation (TairuFramework/enkaku)</title>
-      <link>https://github.com/TairuFramework/enkaku/blob/6201f7e97dd923907173733a53b981f91c9d9bc3/docs/skills/validation.skill.md</link>
-      <guid isPermaLink="false">tairuframework/enkaku:docs/skills/validation.skill.md</guid>
-      <description>RPC for modern applications [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:55:37 GMT</pubDate>
+      <title>managing-databases (kirvin/copilot-cli-essentials)</title>
+      <link>https://github.com/kirvin/copilot-cli-essentials/blob/83f8032dab3ae5b35636c899dfde2fc612bd69e4/plugins/cpe/skills/managing-databases/SKILL.md</link>
+      <guid isPermaLink="false">kirvin/copilot-cli-essentials:plugins/cpe/skills/managing-databases/skill.md</guid>
+      <description>Plugin to provide core skills, commands and customized agents for Github CoPilot CLI [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 20:26:53 GMT</pubDate>
     </item>
     <item>
-      <title>goods (vyqno/synthesis)</title>
-      <link>https://github.com/vyqno/synthesis/blob/39bf20156130423baabc4f56353520d5eda2fd03/skills/goods.skill.md</link>
-      <guid isPermaLink="false">vyqno/synthesis:skills/goods.skill.md</guid>
-      <description>Skill from vyqno/synthesis [None]</description>
-      <pubDate>Sun, 19 Apr 2026 19:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>chakravarti-cli (FnSK4R17s/chakravarti-cli)</title>
-      <link>https://github.com/FnSK4R17s/chakravarti-cli/blob/7ddb247c8725933c9d786196b71fc7254931a713/.agents/workflows/docs.skills.md</link>
-      <guid isPermaLink="false">fnsk4r17s/chakravarti-cli:.agents/workflows/docs.skills.md</guid>
-      <description>Run multiple agents and in parallel on the same codebase on the same machine [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>defensive_coding (GrizzwaldHouse/GameCompanionPlatform)</title>
-      <link>https://github.com/GrizzwaldHouse/GameCompanionPlatform/blob/e4211bce48bea55da4cd176792a52d2ba1ef7759/skills/defensive_coding.skill.md</link>
-      <guid isPermaLink="false">grizzwaldhouse/gamecompanionplatform:skills/defensive_coding.skill.md</guid>
-      <description>Skill from GrizzwaldHouse/GameCompanionPlatform [NOASSERTION]</description>
-      <pubDate>Sun, 19 Apr 2026 19:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>react-validation (harshil3031/autovalidate-cli)</title>
-      <link>https://github.com/harshil3031/autovalidate-cli/blob/f698c9ff54aefb9d1bad1524fe2406b2c3449896/skills/react-validation.skill.md</link>
-      <guid isPermaLink="false">harshil3031/autovalidate-cli:skills/react-validation.skill.md</guid>
-      <description>Skill from harshil3031/autovalidate-cli [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 19:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>silver-plugin (pv-udpv/sliver-ebpf-silver)</title>
-      <link>https://github.com/pv-udpv/sliver-ebpf-silver/blob/7d01d963de57bdf821247223696dbab6cbafe042/silver-plugin.skill.md</link>
-      <guid isPermaLink="false">pv-udpv/sliver-ebpf-silver:silver-plugin.skill.md</guid>
-      <description>Silver — Sliver C2 extension for full packet accountability via eBPF. Correlates every packet in/out to originating process, protocol, purpose, and target. No dark corners. [None]</description>
-      <pubDate>Sun, 19 Apr 2026 19:55:37 GMT</pubDate>
+      <title>dependency-check (involvex/involvex-claude-marketplace)</title>
+      <link>https://github.com/involvex/involvex-claude-marketplace/blob/a16ecc93d0f617eb273d309691734c3cdbbeea11/plugins/frontend/skills/dependency-check/SKILL.md</link>
+      <guid isPermaLink="false">involvex/involvex-claude-marketplace:plugins/frontend/skills/dependency-check/skill.md</guid>
+      <description>Skill from involvex/involvex-claude-marketplace [None]</description>
+      <pubDate>Sun, 19 Apr 2026 20:26:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
