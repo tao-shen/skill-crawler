@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-04-19T23:03:58.534Z",
-  "total_count": 25993,
+  "last_updated": "2026-04-19T23:43:34.462Z",
+  "total_count": 25997,
   "skills": [
     {
       "id": "nativewind/nativewind:.claude/skills/debug-nw/skill.md",
@@ -357957,6 +357957,62 @@
       "stars": 0,
       "license": "None",
       "discovered_at": "2026-04-19T23:00:32.364Z"
+    },
+    {
+      "id": "rileyhilliard/claude-essentials:plugins/ce/skills/managing-pipelines/skill.md",
+      "repo": "rileyhilliard/claude-essentials",
+      "repo_url": "https://github.com/rileyhilliard/claude-essentials",
+      "path": "plugins/ce/skills/managing-pipelines/SKILL.md",
+      "file_url": "https://github.com/rileyhilliard/claude-essentials/blob/13a78f3ce17577a47d38658992717596922ff021/plugins/ce/skills/managing-pipelines/SKILL.md",
+      "name": "managing-pipelines",
+      "owner": "rileyhilliard",
+      "avatar": "https://avatars.githubusercontent.com/u/2060731?v=4",
+      "description": "",
+      "stars": 0,
+      "license": "MIT",
+      "discovered_at": "2026-04-19T23:37:57.759Z"
+    },
+    {
+      "id": "rileyhilliard/claude-essentials:plugins/ce/skills/configuring-claude/skill.md",
+      "repo": "rileyhilliard/claude-essentials",
+      "repo_url": "https://github.com/rileyhilliard/claude-essentials",
+      "path": "plugins/ce/skills/configuring-claude/SKILL.md",
+      "file_url": "https://github.com/rileyhilliard/claude-essentials/blob/13a78f3ce17577a47d38658992717596922ff021/plugins/ce/skills/configuring-claude/SKILL.md",
+      "name": "configuring-claude",
+      "owner": "rileyhilliard",
+      "avatar": "https://avatars.githubusercontent.com/u/2060731?v=4",
+      "description": "",
+      "stars": 0,
+      "license": "MIT",
+      "discovered_at": "2026-04-19T23:37:57.759Z"
+    },
+    {
+      "id": "thebushidocollective/han:plugins/services/linear/skills/comment/skill.md",
+      "repo": "TheBushidoCollective/han",
+      "repo_url": "https://github.com/TheBushidoCollective/han",
+      "path": "plugins/services/linear/skills/comment/SKILL.md",
+      "file_url": "https://github.com/TheBushidoCollective/han/blob/6369f677026ec1236a20ce0f1c0b5a3c8039d27c/plugins/services/linear/skills/comment/SKILL.md",
+      "name": "comment",
+      "owner": "TheBushidoCollective",
+      "avatar": "https://avatars.githubusercontent.com/u/233175215?v=4",
+      "description": "A curated marketplace of Claude Code plugins that embody the principles of ethical and professional software development.",
+      "stars": 0,
+      "license": "NOASSERTION",
+      "discovered_at": "2026-04-19T23:37:57.759Z"
+    },
+    {
+      "id": "closedloop-ai/claude-plugins:plugins/judges/skills/eval-cache/skill.md",
+      "repo": "closedloop-ai/claude-plugins",
+      "repo_url": "https://github.com/closedloop-ai/claude-plugins",
+      "path": "plugins/judges/skills/eval-cache/SKILL.md",
+      "file_url": "https://github.com/closedloop-ai/claude-plugins/blob/44ede8e00796b4491dcff79c6f5a828b48bc1bb8/plugins/judges/skills/eval-cache/SKILL.md",
+      "name": "eval-cache",
+      "owner": "closedloop-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/48066451?v=4",
+      "description": "Open-source Claude Code plugins for multi-agent software delivery. Plan-first SDLC workflow, code review, LLM quality judges, and self-learning — grounded in your codebase.  Bootstrap, Plan, & Ship.   ",
+      "stars": 0,
+      "license": "Apache-2.0",
+      "discovered_at": "2026-04-19T23:37:57.759Z"
     }
   ]
 }

@@ -3,9 +3,37 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 25993 skills.</description>
-    <lastBuildDate>Sun, 19 Apr 2026 23:03:58 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 25997 skills.</description>
+    <lastBuildDate>Sun, 19 Apr 2026 23:43:34 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>managing-pipelines (rileyhilliard/claude-essentials)</title>
+      <link>https://github.com/rileyhilliard/claude-essentials/blob/13a78f3ce17577a47d38658992717596922ff021/plugins/ce/skills/managing-pipelines/SKILL.md</link>
+      <guid isPermaLink="false">rileyhilliard/claude-essentials:plugins/ce/skills/managing-pipelines/skill.md</guid>
+      <description>Skill from rileyhilliard/claude-essentials [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 23:37:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>configuring-claude (rileyhilliard/claude-essentials)</title>
+      <link>https://github.com/rileyhilliard/claude-essentials/blob/13a78f3ce17577a47d38658992717596922ff021/plugins/ce/skills/configuring-claude/SKILL.md</link>
+      <guid isPermaLink="false">rileyhilliard/claude-essentials:plugins/ce/skills/configuring-claude/skill.md</guid>
+      <description>Skill from rileyhilliard/claude-essentials [MIT]</description>
+      <pubDate>Sun, 19 Apr 2026 23:37:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>comment (TheBushidoCollective/han)</title>
+      <link>https://github.com/TheBushidoCollective/han/blob/6369f677026ec1236a20ce0f1c0b5a3c8039d27c/plugins/services/linear/skills/comment/SKILL.md</link>
+      <guid isPermaLink="false">thebushidocollective/han:plugins/services/linear/skills/comment/skill.md</guid>
+      <description>A curated marketplace of Claude Code plugins that embody the principles of ethical and professional software development. [NOASSERTION]</description>
+      <pubDate>Sun, 19 Apr 2026 23:37:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>eval-cache (closedloop-ai/claude-plugins)</title>
+      <link>https://github.com/closedloop-ai/claude-plugins/blob/44ede8e00796b4491dcff79c6f5a828b48bc1bb8/plugins/judges/skills/eval-cache/SKILL.md</link>
+      <guid isPermaLink="false">closedloop-ai/claude-plugins:plugins/judges/skills/eval-cache/skill.md</guid>
+      <description>Open-source Claude Code plugins for multi-agent software delivery. Plan-first SDLC workflow, code review, LLM quality judges, and self-learning — grounded in your codebase.  Bootstrap, Plan, &amp; Ship.    [Apache-2.0]</description>
+      <pubDate>Sun, 19 Apr 2026 23:37:57 GMT</pubDate>
+    </item>
     <item>
       <title>github-ops (Thomashighbaugh/opencode)</title>
       <link>https://github.com/Thomashighbaugh/opencode/blob/f24694d0a6489891ca75942ceb007131c312da8a/.opencode/skills/github-ops/SKILL.md</link>
@@ -675,34 +703,6 @@
       <title>boxed-fs (openclaw/skills)</title>
       <link>https://github.com/openclaw/skills/blob/82a5376069109c7596462cebdedf242e81c1609a/skills/guyoung/boxed-fs/SKILL.md</link>
       <guid isPermaLink="false">openclaw/skills:skills/guyoung/boxed-fs/skill.md</guid>
-      <description>All versions of all skills that are on clawhub.com archived [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 21:04:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>document-changes (PrefectHQ/prefect)</title>
-      <link>https://github.com/PrefectHQ/prefect/blob/6dd5af5d803f477bf75b0bd9b65b7623d7e0847e/.claude/skills/document-changes/SKILL.md</link>
-      <guid isPermaLink="false">prefecthq/prefect:.claude/skills/document-changes/skill.md</guid>
-      <description>Prefect is a workflow orchestration framework for building resilient data pipelines in Python. [Apache-2.0]</description>
-      <pubDate>Sun, 19 Apr 2026 21:04:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>kindle2md (openclaw/skills)</title>
-      <link>https://github.com/openclaw/skills/blob/82a5376069109c7596462cebdedf242e81c1609a/skills/henrch1/kindle2md/SKILL.md</link>
-      <guid isPermaLink="false">openclaw/skills:skills/henrch1/kindle2md/skill.md</guid>
-      <description>All versions of all skills that are on clawhub.com archived [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 21:04:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>pandoc-rs (openclaw/skills)</title>
-      <link>https://github.com/openclaw/skills/blob/82a5376069109c7596462cebdedf242e81c1609a/skills/guyoung/pandoc-rs/SKILL.md</link>
-      <guid isPermaLink="false">openclaw/skills:skills/guyoung/pandoc-rs/skill.md</guid>
-      <description>All versions of all skills that are on clawhub.com archived [MIT]</description>
-      <pubDate>Sun, 19 Apr 2026 21:04:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>ask-ai (openclaw/skills)</title>
-      <link>https://github.com/openclaw/skills/blob/82a5376069109c7596462cebdedf242e81c1609a/skills/xiaoxu1232/ask-ai/SKILL.md</link>
-      <guid isPermaLink="false">openclaw/skills:skills/xiaoxu1232/ask-ai/skill.md</guid>
       <description>All versions of all skills that are on clawhub.com archived [MIT]</description>
       <pubDate>Sun, 19 Apr 2026 21:04:26 GMT</pubDate>
     </item>
