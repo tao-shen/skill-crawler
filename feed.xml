@@ -3,9 +3,23 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 39147 skills.</description>
-    <lastBuildDate>Sat, 25 Apr 2026 21:39:32 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 39149 skills.</description>
+    <lastBuildDate>Sat, 25 Apr 2026 22:06:17 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>github-skill (novolei/if2Ai)</title>
+      <link>https://github.com/novolei/if2Ai/blob/b5c4cbf371c4b0147297859a7c98c6572c59e315/src-tauri/resources/bundled-skills/github-skill/SKILL.md</link>
+      <guid isPermaLink="false">novolei/if2ai:src-tauri/resources/bundled-skills/github-skill/skill.md</guid>
+      <description>Skill from novolei/if2Ai [None]</description>
+      <pubDate>Sat, 25 Apr 2026 22:02:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>exa (refly-ai/refly-skills)</title>
+      <link>https://github.com/refly-ai/refly-skills/blob/5a546d2f9f267f7142fd489b6971455463bff86c/skills/exa/SKILL.md</link>
+      <guid isPermaLink="false">refly-ai/refly-skills:skills/exa/skill.md</guid>
+      <description>Refly skills repository [None]</description>
+      <pubDate>Sat, 25 Apr 2026 21:59:30 GMT</pubDate>
+    </item>
     <item>
       <title>Security-List (kejaly/Security-List)</title>
       <link>https://github.com/kejaly/Security-List/blob/f4c87fe9ca7913e9cde3b9018e9a1475611b27b1/wiki_TipSkill.md</link>
@@ -691,20 +705,6 @@
       <guid isPermaLink="false">diegosouzapw/awesome-omni-skill:skills/tools/gh-cli-hocgin/skill.md</guid>
       <description>Repositorio Publico, agregador de skills [None]</description>
       <pubDate>Sat, 25 Apr 2026 15:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>skill-md-tmpl (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/dea85cea057460f47f4bdf790d50a3b376b2328f/skills/other/skill-md-tmpl/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/skill-md-tmpl/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 15:55:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>claude-skills (bolasblack/claude-skills)</title>
-      <link>https://github.com/bolasblack/claude-skills/blob/bbe3c137d61682cf328d8e0a24723abdb5a6cf25/skills/mcp-skill-generator/templates/SKILL.md.template</link>
-      <guid isPermaLink="false">bolasblack/claude-skills:skills/mcp-skill-generator/templates/skill.md.template</guid>
-      <description>Skill from bolasblack/claude-skills [None]</description>
-      <pubDate>Sat, 25 Apr 2026 15:55:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
