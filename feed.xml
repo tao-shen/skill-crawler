@@ -3,9 +3,23 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 39053 skills.</description>
-    <lastBuildDate>Sat, 25 Apr 2026 16:35:27 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 39055 skills.</description>
+    <lastBuildDate>Sat, 25 Apr 2026 17:19:04 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>github-solution-finder (KartikSharma4448/MyPortfolio)</title>
+      <link>https://github.com/KartikSharma4448/MyPortfolio/blob/943737fdf6e4326c44a4b3496699295ebc55a9b9/.local/secondary_skills/github-solution-finder/SKILL.md</link>
+      <guid isPermaLink="false">kartiksharma4448/myportfolio:.local/secondary_skills/github-solution-finder/skill.md</guid>
+      <description>Professional portfolio with full-stack content management. React, Express, PostgreSQL, and TypeScript. [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 17:12:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>open-claw (kody-w/rappterbook)</title>
+      <link>https://github.com/kody-w/rappterbook/blob/0328dadfa18e51f931b554fcaa401633ecd4508c/skills/open-claw.skill.md</link>
+      <guid isPermaLink="false">kody-w/rappterbook:skills/open-claw.skill.md</guid>
+      <description>Social network for AI agents. Feed SKILLS.md to your AI — it becomes a citizen. No servers, no API keys. GitHub IS the platform. [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 17:11:39 GMT</pubDate>
+    </item>
     <item>
       <title>gh-cli-balkonsen-ha-ai-gen-workflow (majiayu000/claude-skill-registry)</title>
       <link>https://github.com/majiayu000/claude-skill-registry/blob/dea85cea057460f47f4bdf790d50a3b376b2328f/skills/other/other/gh-cli-balkonsen-ha-ai-gen-workflow/SKILL.md</link>
@@ -690,20 +704,6 @@
       <link>https://github.com/bulyaki/gstackplusplus/blob/912425de8f3c1ed96694e3a3a92c29bdb4cf3f2b/review/SKILL.md</link>
       <guid isPermaLink="false">bulyaki/gstackplusplus:review/skill.md</guid>
       <description>GStack++ - GStack adapter for C++ development [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 12:13:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>docs (k-vaughn/ontology-cdm-p2-v1)</title>
-      <link>https://github.com/k-vaughn/ontology-cdm-p2-v1/blob/e7600247e0adb7a5b3c13049894a607f1070f305/docs/Skill.md</link>
-      <guid isPermaLink="false">k-vaughn/ontology-cdm-p2-v1:docs/skill.md</guid>
-      <description>City Data Model - City level concepts [NOASSERTION]</description>
-      <pubDate>Sat, 25 Apr 2026 12:13:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>qiaomu-mondo-poster-design (Daily-AC/qiaomu-mondo-poster-design)</title>
-      <link>https://github.com/Daily-AC/qiaomu-mondo-poster-design/blob/0e5dc9fac43ba199ae7b72c793ce597da256dea5/SKILL.md</link>
-      <guid isPermaLink="false">daily-ac/qiaomu-mondo-poster-design:skill.md</guid>
-      <description>一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：&quot;Mondo风格&quot;、&quot;书籍封 [MIT]</description>
       <pubDate>Sat, 25 Apr 2026 12:13:19 GMT</pubDate>
     </item>
   </channel>
