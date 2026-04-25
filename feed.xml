@@ -3,708 +3,708 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 38203 skills.</description>
-    <lastBuildDate>Sat, 25 Apr 2026 11:04:44 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 38924 skills.</description>
+    <lastBuildDate>Sat, 25 Apr 2026 11:50:10 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>gh-cli (aiskillstore/marketplace)</title>
-      <link>https://github.com/aiskillstore/marketplace/blob/b8917f4f8cd9ee91638ca0d6d472808ceddbfbb8/skills/github/gh-cli/SKILL.md</link>
-      <guid isPermaLink="false">aiskillstore/marketplace:skills/github/gh-cli/skill.md</guid>
-      <description>Security-audited skills for Claude, Codex &amp; Claude Code. One-click install, quality verified. [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:59:38 GMT</pubDate>
+      <title>python-expert (eitatech/gatomia-vscode)</title>
+      <link>https://github.com/eitatech/gatomia-vscode/blob/ab574e9b37b0fe8205856bd39529629b52374cc1/resources/skills/python-expert.skill.md</link>
+      <guid isPermaLink="false">eitatech/gatomia-vscode:resources/skills/python-expert.skill.md</guid>
+      <description>GatomiA - Agentic Spec-Driven Development Tool [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>gh-cli-github-awesome-copilot (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/dea85cea057460f47f4bdf790d50a3b376b2328f/skills/other/other/gh-cli-github-awesome-copilot/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/other/gh-cli-github-awesome-copilot/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:07:08 GMT</pubDate>
+      <title>api-report-run (Nshai/Public-API-Report)</title>
+      <link>https://github.com/Nshai/Public-API-Report/blob/2502ec0ff196174ca854932ef0c7de4aea94ef58/.claude/skills/api-report-run/skill.md</link>
+      <guid isPermaLink="false">nshai/public-api-report:.claude/skills/api-report-run/skill.md</guid>
+      <description>AI Project to generate comprehensive public api report. [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>gh-cli (hyecompany/ararat-web)</title>
-      <link>https://github.com/hyecompany/ararat-web/blob/e7ce558a68e2276854de39eae6721eb71712d24c/.gemini/skills/gh-cli/SKILL.md</link>
-      <guid isPermaLink="false">hyecompany/ararat-web:.gemini/skills/gh-cli/skill.md</guid>
-      <description>Take your infrastructure to its peak [Apache-2.0]</description>
-      <pubDate>Sat, 25 Apr 2026 10:07:08 GMT</pubDate>
+      <title>Wiki (AscEmu/Wiki)</title>
+      <link>https://github.com/AscEmu/Wiki/blob/0b92cfa4820740f841f56a4692364844fafc6845/_docs/standards_scripts/methods_lua/Unit_Methods/Lua_RemoveSkill.md</link>
+      <guid isPermaLink="false">ascemu/wiki:_docs/standards_scripts/methods_lua/unit_methods/lua_removeskill.md</guid>
+      <description>Official Wiki for the AscEmu project. [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>gh-cli (majiayu000/claude-skill-registry-data)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry-data/blob/d31f39df0a56fa9f9102f4badbc8c99152105dd5/data/gh-cli/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry-data:data/gh-cli/skill.md</guid>
-      <description>Skill from majiayu000/claude-skill-registry-data [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:07:08 GMT</pubDate>
+      <title>burpsuite-project-parser (plurigrid/asi)</title>
+      <link>https://github.com/plurigrid/asi/blob/ce17166f81a7e5a49a4ea404607abad125c4f28d/plugins/asi/skills/burpsuite-project-parser/SKILL.md</link>
+      <guid isPermaLink="false">plurigrid/asi:plugins/asi/skills/burpsuite-project-parser/skill.md</guid>
+      <description>everything is topological chemputer! [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>ceo-skill (guo-yu/skills)</title>
-      <link>https://github.com/guo-yu/skills/blob/890a2b217ffb2891bb23a804b7b76966aa06f9af/ceo-skill/SKILL.md</link>
-      <guid isPermaLink="false">guo-yu/skills:ceo-skill/skill.md</guid>
-      <description>My collection of skills for productivity and automation. [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:07:00 GMT</pubDate>
+      <title>competitor-ceo-intelligence (pauljbernard/headElf)</title>
+      <link>https://github.com/pauljbernard/headElf/blob/2c1e23eb08d7ce7d74981661c8c51b1bcb277dcc/skills/personas/competitive/competitor-ceo-intelligence/skill.md</link>
+      <guid isPermaLink="false">pauljbernard/headelf:skills/personas/competitive/competitor-ceo-intelligence/skill.md</guid>
+      <description>HeadElf - A comprehensive agent framework for C-suite functions and capabilities.   [NOASSERTION]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>wechat-ai-publisher (bbwdadfg/wechat-ai-publisher)</title>
-      <link>https://github.com/bbwdadfg/wechat-ai-publisher/blob/62537c44f2f1a1f8b967c692ba9923262b7ab31e/SKILL.md</link>
-      <guid isPermaLink="false">bbwdadfg/wechat-ai-publisher:skill.md</guid>
-      <description>Codex/CLaude/Gemini compatible skill: collect AI trends, write WeChat Official Account articles, generate images, publish to drafts [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:07:00 GMT</pubDate>
+      <title>cis-k8s-v200-5.2.6 (CyberStrikeus/CyberStrike)</title>
+      <link>https://github.com/CyberStrikeus/CyberStrike/blob/57c01b39522c3b99899e14b5fe579615a385f4ea/.cyberstrike/skill/CIS_benchmarks/Server_Software/Kubernetes/CIS_Kubernetes_Benchmark_v2.0.0/cis-k8s-v200-5.2.6/SKILL.md</link>
+      <guid isPermaLink="false">cyberstrikeus/cyberstrike:.cyberstrike/skill/cis_benchmarks/server_software/kubernetes/cis_kubernetes_benchmark_v2.0.0/cis-k8s-v200-5.2.6/skill.md</guid>
+      <description>AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&amp;CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team. [AGPL-3.0]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>create-agent (khw1031/ai-library)</title>
-      <link>https://github.com/khw1031/ai-library/blob/98197d35122d97f164ac519423799326777426ff/.claude/skills/create-agent/SKILL.md</link>
-      <guid isPermaLink="false">khw1031/ai-library:.claude/skills/create-agent/skill.md</guid>
-      <description>Skill from khw1031/ai-library [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
+      <title>superbeads-universal-framework (EliaAlberti/superbeads-universal-framework)</title>
+      <link>https://github.com/EliaAlberti/superbeads-universal-framework/blob/6b1cd3c427a019ee197a0a0d19af8a089eadc964/packs/python/skills/python-data-models-SKILL.md</link>
+      <guid isPermaLink="false">eliaalberti/superbeads-universal-framework:packs/python/skills/python-data-models-skill.md</guid>
+      <description>A systematic methodology for Claude Code that transforms AI collaboration into structured, verifiable productivity. [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>create-agent (khw1031/summary-bot)</title>
-      <link>https://github.com/khw1031/summary-bot/blob/28466c4ededc5b3407be93ab2536a4c4429b48dd/.claude/skills/create-agent/SKILL.md</link>
-      <guid isPermaLink="false">khw1031/summary-bot:.claude/skills/create-agent/skill.md</guid>
-      <description>Skill from khw1031/summary-bot [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
+      <title>review-pr (beekeeper-lab/claude-kit)</title>
+      <link>https://github.com/beekeeper-lab/claude-kit/blob/d3ad45476530c9b9c1aa3f7b8a6937cef8a60406/skills/internal/review-pr/SKILL.md</link>
+      <guid isPermaLink="false">beekeeper-lab/claude-kit:skills/internal/review-pr/skill.md</guid>
+      <description>Shared Claude Code configuration: skills, commands, agents, hooks [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>create-agent (khw1031/ai-toolkit)</title>
-      <link>https://github.com/khw1031/ai-toolkit/blob/37443ceb5a9eb3082145f2b6ef27c6836b81eb6a/.claude/skills/create-agent/SKILL.md</link>
-      <guid isPermaLink="false">khw1031/ai-toolkit:.claude/skills/create-agent/skill.md</guid>
-      <description>Skill from khw1031/ai-toolkit [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
+      <title>epistemology-knowledge (andreibesleaga/GABBE)</title>
+      <link>https://github.com/andreibesleaga/GABBE/blob/c5528f2b6630710fd82d30c7be7b1726529663ef/agents/skills/brain/epistemology-knowledge.skill.md</link>
+      <guid isPermaLink="false">andreibesleaga/gabbe:agents/skills/brain/epistemology-knowledge.skill.md</guid>
+      <description>Generative Architectural Brain Base Engine - Agentic Software R&amp;D Engineering Kit - development, all languages, agents, platforms, with Engineering Team &amp; Experimental Cognitive Brain, Software Engineering &amp; Architecture Best Practices [NOASSERTION]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>feature-call1800messiah-the-eighth (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/dea85cea057460f47f4bdf790d50a3b376b2328f/skills/other/feature-call1800messiah-the-eighth/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/feature-call1800messiah-the-eighth/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
+      <title>context_analyzer (mchlbrns/scas-system)</title>
+      <link>https://github.com/mchlbrns/scas-system/blob/4cb8dfdd30fff85dce28c3104f708e55a06daa74/.agent/skills/context_analyzer.skill.md</link>
+      <guid isPermaLink="false">mchlbrns/scas-system:.agent/skills/context_analyzer.skill.md</guid>
+      <description>Skill from mchlbrns/scas-system [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>feature (call1800messiah/The-Eighth)</title>
-      <link>https://github.com/call1800messiah/The-Eighth/blob/c44ce44bcb0ade41fb0ce0f541246792728ed544/.claude/skills/feature/SKILL.md</link>
-      <guid isPermaLink="false">call1800messiah/the-eighth:.claude/skills/feature/skill.md</guid>
-      <description>Skill from call1800messiah/The-Eighth [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
+      <title>entity_extraction (nomad3/servicetsunami-agents)</title>
+      <link>https://github.com/nomad3/servicetsunami-agents/blob/b62bd0b267778e241df9779b2243a5099a911e4e/apps/api/app/skills/entity_extraction/skill.md</link>
+      <guid isPermaLink="false">nomad3/servicetsunami-agents:apps/api/app/skills/entity_extraction/skill.md</guid>
+      <description>agent management for every business [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>feature-call1800messiah-the-eighth-2 (majiayu000/claude-skill-registry-data)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry-data/blob/d31f39df0a56fa9f9102f4badbc8c99152105dd5/other/feature-call1800messiah-the-eighth-2/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry-data:other/feature-call1800messiah-the-eighth-2/skill.md</guid>
-      <description>Skill from majiayu000/claude-skill-registry-data [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
+      <title>kaizen-analyse-problem (Gamezar/opencode-cek)</title>
+      <link>https://github.com/Gamezar/opencode-cek/blob/456bd3bdd54182ce457492f390399c1809b65d24/plugins/kaizen/skills/kaizen-analyse-problem/SKILL.md</link>
+      <guid isPermaLink="false">gamezar/opencode-cek:plugins/kaizen/skills/kaizen-analyse-problem/skill.md</guid>
+      <description>Skill from Gamezar/opencode-cek [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>feature-call1800messiah-the-eighth-2e368f72 (majiayu000/claude-skill-registry-data)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry-data/blob/d31f39df0a56fa9f9102f4badbc8c99152105dd5/other/feature-call1800messiah-the-eighth-2e368f72/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry-data:other/feature-call1800messiah-the-eighth-2e368f72/skill.md</guid>
-      <description>Skill from majiayu000/claude-skill-registry-data [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>ohos-dataorm (majiayu000/claude-skill-registry-data)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry-data/blob/d31f39df0a56fa9f9102f4badbc8c99152105dd5/data/ohos-dataorm/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry-data:data/ohos-dataorm/skill.md</guid>
-      <description>Skill from majiayu000/claude-skill-registry-data [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>discovery (Smith-Happens/xlightsfpptester)</title>
-      <link>https://github.com/Smith-Happens/xlightsfpptester/blob/7c134130e7640d62bafb3a94152ec5a9f051f88c/skills/discovery/SKILL.md</link>
-      <guid isPermaLink="false">smith-happens/xlightsfpptester:skills/discovery/skill.md</guid>
-      <description>Skill from Smith-Happens/xlightsfpptester [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>discovery-smith-happens-xlightsfpptester (majiayu000/claude-skill-registry-data)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry-data/blob/d31f39df0a56fa9f9102f4badbc8c99152105dd5/other/discovery-smith-happens-xlightsfpptester/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry-data:other/discovery-smith-happens-xlightsfpptester/skill.md</guid>
-      <description>Skill from majiayu000/claude-skill-registry-data [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>univariate-genetics-modeling (NeuralBlitz/ncx)</title>
-      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/univariate-genetics-modeling/SKILL.md</link>
-      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/univariate-genetics-modeling/skill.md</guid>
+      <title>advanced-astrometry-implementation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/advanced-astrometry-implementation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/advanced-astrometry-implementation/skill.md</guid>
       <description>Skill from NeuralBlitz/ncx [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>cis-ocp-v180-1.1.12 (CyberStrikeus/CyberStrike)</title>
-      <link>https://github.com/CyberStrikeus/CyberStrike/blob/57c01b39522c3b99899e14b5fe579615a385f4ea/.cyberstrike/skill/CIS_benchmarks/Server_Software/Kubernetes/CIS_Red_Hat_OpenShift_Container_Platform_Benchmark_v1.8.0/cis-ocp-v180-1.1.12/SKILL.md</link>
-      <guid isPermaLink="false">cyberstrikeus/cyberstrike:.cyberstrike/skill/cis_benchmarks/server_software/kubernetes/cis_red_hat_openshift_container_platform_benchmark_v1.8.0/cis-ocp-v180-1.1.12/skill.md</guid>
-      <description>AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&amp;CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team. [AGPL-3.0]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
+      <title>parametric-optimization-prediction (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/parametric-optimization-prediction/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/parametric-optimization-prediction/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>create-feature (VIPER-Metrics/claude-code-skills)</title>
-      <link>https://github.com/VIPER-Metrics/claude-code-skills/blob/aab4d2a0b18cd8686c782e7d619f00c8ea82e1d0/skills/create-feature/SKILL.md</link>
-      <guid isPermaLink="false">viper-metrics/claude-code-skills:skills/create-feature/skill.md</guid>
-      <description>Claude Code skills for bug investigation, planning, implementation, and PR creation workflow [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
+      <title>discrete-causal-inference-modeling (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/discrete-causal-inference-modeling/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/discrete-causal-inference-modeling/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>opc-async-task-manager (openclaw/skills)</title>
-      <link>https://github.com/openclaw/skills/blob/2745cddeeb45ca51e64b0ce294564d898c896291/skills/coidea-sys/opc-journal-suite/opc-async-task-manager/SKILL.md</link>
-      <guid isPermaLink="false">openclaw/skills:skills/coidea-sys/opc-journal-suite/opc-async-task-manager/skill.md</guid>
-      <description>All versions of all skills that are on clawhub.com archived [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
+      <title>botany-characterization-fundamental (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/botany-characterization-fundamental/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/botany-characterization-fundamental/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>domino-model-monitoring (ToXMon/tolu)</title>
-      <link>https://github.com/ToXMon/tolu/blob/1541e7ecc1d6bb5941f13d809187086a103c8bc7/agent-zero-backup/skills/domino-model-monitoring/SKILL.md</link>
-      <guid isPermaLink="false">toxmon/tolu:agent-zero-backup/skills/domino-model-monitoring/skill.md</guid>
-      <description>Agent Zero Memory Palace &amp; Daily Backup - Portable context for AI agent frameworks [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
+      <title>discrete-math-based-classification (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/discrete-math-based-classification/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/discrete-math-based-classification/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>cis-ubuntu1604-v200-2-1-2 (CyberStrikeus/CyberStrike)</title>
-      <link>https://github.com/CyberStrikeus/CyberStrike/blob/57c01b39522c3b99899e14b5fe579615a385f4ea/.cyberstrike/skill/CIS_benchmarks/Operating_Systems/Ubuntu/CIS_Ubuntu_Linux_16.04_LTS_Benchmark_v2.0.0/cis-ubuntu1604-v200-2-1-2/skill.md</link>
-      <guid isPermaLink="false">cyberstrikeus/cyberstrike:.cyberstrike/skill/cis_benchmarks/operating_systems/ubuntu/cis_ubuntu_linux_16.04_lts_benchmark_v2.0.0/cis-ubuntu1604-v200-2-1-2/skill.md</guid>
-      <description>AI-powered offensive security agent with 7,300+ actionable security skills. Autonomous pentesting powered by MITRE ATT&amp;CK (2,000+ Atomic tests), CIS Benchmarks (1,500+ controls), OWASP, NIST. Lazy-loading, zero context pollution. Your AI red team. [AGPL-3.0]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
+      <title>surface-chemistry-based-prediction (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/surface-chemistry-based-prediction/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/surface-chemistry-based-prediction/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>ksb-d08-k0024-predictive-signal-strength-modeling (nexvigilant/.true)</title>
-      <link>https://github.com/nexvigilant/.true/blob/bdc53a909e79e62e5f89932ded7c9bfc1b3f27af/knowledge/pv-ksb/ksb-d08-k0024-predictive-signal-strength-modeling/SKILL.md</link>
-      <guid isPermaLink="false">nexvigilant/.true:knowledge/pv-ksb/ksb-d08-k0024-predictive-signal-strength-modeling/skill.md</guid>
-      <description>Skill from nexvigilant/.true [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
+      <title>analytical-neutron-stars-simulation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/analytical-neutron-stars-simulation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/analytical-neutron-stars-simulation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>fusion-searchlight-fmri (hiyenwong/ai_collection)</title>
-      <link>https://github.com/hiyenwong/ai_collection/blob/5b0a7cfae2072990e3a5ba72c7fa0c0e009dc7a2/collection/skills/fusion-searchlight-fmri/SKILL.md</link>
-      <guid isPermaLink="false">hiyenwong/ai_collection:collection/skills/fusion-searchlight-fmri/skill.md</guid>
-      <description>ai_collection [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
+      <title>experimental-algebra-implementation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/experimental-algebra-implementation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/experimental-algebra-implementation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>SKILL.competitive-analysis-with-scrapegraph-gemini (SpectreDeath/skill-flywheel)</title>
-      <link>https://github.com/SpectreDeath/skill-flywheel/blob/44cc1342764d3b383fa025a29af768ee69ba53ef/domains/ML_AI/SKILL.competitive-analysis-with-scrapegraph-gemini/SKILL.md</link>
-      <guid isPermaLink="false">spectredeath/skill-flywheel:domains/ml_ai/skill.competitive-analysis-with-scrapegraph-gemini/skill.md</guid>
-      <description>Skill from SpectreDeath/skill-flywheel [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:46 GMT</pubDate>
+      <title>computer-graphics-synthesis-expert (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/computer-graphics-synthesis-expert/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/computer-graphics-synthesis-expert/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>AchillesAgentLib (OutfinityResearch/AchillesAgentLib)</title>
-      <link>https://github.com/OutfinityResearch/AchillesAgentLib/blob/a535f78bf393402ae38f5a7011a483e332500cca/skills/ask-user/cskill.md</link>
-      <guid isPermaLink="false">outfinityresearch/achillesagentlib:skills/ask-user/cskill.md</guid>
-      <description>Skill from OutfinityResearch/AchillesAgentLib [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>distributed-systems-testing-expert (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/distributed-systems-testing-expert/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/distributed-systems-testing-expert/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>release (joelreymont/banjo)</title>
-      <link>https://github.com/joelreymont/banjo/blob/5d3477ae63a75b180276e85a0f1bb7d81b5dae4b/.claude/skills/release/SKILL.md</link>
-      <guid isPermaLink="false">joelreymont/banjo:.claude/skills/release/skill.md</guid>
-      <description>Zig implementation of Claude Code ACP adapter for Zed [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>dynamic-microbiology-classification (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/dynamic-microbiology-classification/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/dynamic-microbiology-classification/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>pr-creator (grupoprimo/claude-code-toolkit)</title>
-      <link>https://github.com/grupoprimo/claude-code-toolkit/blob/5fcf54e14b69d59866c5ce4a4bfea1ece7fb0937/commands/pr-creator/SKILL.md</link>
-      <guid isPermaLink="false">grupoprimo/claude-code-toolkit:commands/pr-creator/skill.md</guid>
-      <description>Comandos, skills e agentes do Claude Code compartilhados pelo time de desenvolvimento [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>practical-geophysics-interpretation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/practical-geophysics-interpretation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/practical-geophysics-interpretation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>tools (DarkNoah/langgraph-claude-code)</title>
-      <link>https://github.com/DarkNoah/langgraph-claude-code/blob/7e1e4fba64ab708be4b8b316c3874850577b0abf/tools/Skill.md</link>
-      <guid isPermaLink="false">darknoah/langgraph-claude-code:tools/skill.md</guid>
-      <description>Skill from DarkNoah/langgraph-claude-code [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>experimental-astrobiology-synthesis (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/experimental-astrobiology-synthesis/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/experimental-astrobiology-synthesis/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>create-agent (khw1031/ai-library)</title>
-      <link>https://github.com/khw1031/ai-library/blob/98197d35122d97f164ac519423799326777426ff/skills/create-agent/SKILL.md</link>
-      <guid isPermaLink="false">khw1031/ai-library:skills/create-agent/skill.md</guid>
-      <description>Skill from khw1031/ai-library [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>clustering-verification-fundamental (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/clustering-verification-fundamental/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/clustering-verification-fundamental/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>skill-forge (haesaa/sae__haha)</title>
-      <link>https://github.com/haesaa/sae__haha/blob/f44b0099a460116ec782252875a8a0d512bd4947/harness/skill-forge/SKILL.md</link>
-      <guid isPermaLink="false">haesaa/sae__haha:harness/skill-forge/skill.md</guid>
-      <description>Skill from haesaa/sae__haha [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>univariate-data-mining-verification (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/univariate-data-mining-verification/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/univariate-data-mining-verification/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>feature (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/dea85cea057460f47f4bdf790d50a3b376b2328f/skills/other/feature/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/feature/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>practical-bioinformatics-simulation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/practical-bioinformatics-simulation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/practical-bioinformatics-simulation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>git (Vovanthinh1208/My-claude-code-setup)</title>
-      <link>https://github.com/Vovanthinh1208/My-claude-code-setup/blob/8acbe0a8d2cea5513263caf5b0358add84985026/.claude/skills/git/SKILL.md</link>
-      <guid isPermaLink="false">vovanthinh1208/my-claude-code-setup:.claude/skills/git/skill.md</guid>
-      <description>Skill from Vovanthinh1208/My-claude-code-setup [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>experimental-a-b-testing-prediction (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/experimental-a-b-testing-prediction/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/experimental-a-b-testing-prediction/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>pr-generator (ShengPeiWilliam/git-pr-generator)</title>
-      <link>https://github.com/ShengPeiWilliam/git-pr-generator/blob/658c3a2062012e69c24c75bc9eba0af82b769fca/pr-generator/SKILL.md</link>
-      <guid isPermaLink="false">shengpeiwilliam/git-pr-generator:pr-generator/skill.md</guid>
-      <description>Generate professional PR descriptions with Claude AI [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>multivariate-paleontology-synthesis (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/multivariate-paleontology-synthesis/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/multivariate-paleontology-synthesis/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>agent-identity-skill (fizamusthafa/agent-identity-skill)</title>
-      <link>https://github.com/fizamusthafa/agent-identity-skill/blob/20c352343dfce1926d456d5d0df3dcaf90831731/SKILL.md</link>
-      <guid isPermaLink="false">fizamusthafa/agent-identity-skill:skill.md</guid>
-      <description>AI agent skill for creating and managing agent identities using Microsoft Entra Agent ID and Microsoft Graph APIs [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>practical-biochemistry-verification (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/practical-biochemistry-verification/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/practical-biochemistry-verification/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>botbot-gcal (ongspxm/mobot_skills)</title>
-      <link>https://github.com/ongspxm/mobot_skills/blob/731083f68206555e3886e2638236d63040a071f7/botbot-gcal/SKILL.md</link>
-      <guid isPermaLink="false">ongspxm/mobot_skills:botbot-gcal/skill.md</guid>
-      <description>mtai skills repo [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>finite-quantum-computing-debugging (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/finite-quantum-computing-debugging/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/finite-quantum-computing-debugging/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>meagent-update-blog (ongspxm/mobot_skills)</title>
-      <link>https://github.com/ongspxm/mobot_skills/blob/731083f68206555e3886e2638236d63040a071f7/meagent-update-blog/SKILL.md</link>
-      <guid isPermaLink="false">ongspxm/mobot_skills:meagent-update-blog/skill.md</guid>
-      <description>mtai skills repo [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>parametric-mechatronics-calculation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/parametric-mechatronics-calculation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/parametric-mechatronics-calculation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>layer_2_core (Loofy147/Boofa-skiler)</title>
-      <link>https://github.com/Loofy147/Boofa-skiler/blob/7a0719c50f3c17342197faa008a59c29d7935bc4/layers/layer_2_core/SKILL.md</link>
-      <guid isPermaLink="false">loofy147/boofa-skiler:layers/layer_2_core/skill.md</guid>
-      <description>Skill from Loofy147/Boofa-skiler [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>deterministic-soil-science-analysis (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/deterministic-soil-science-analysis/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/deterministic-soil-science-analysis/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>spec-backfill (ghostmodal/thisjustin.shop)</title>
-      <link>https://github.com/ghostmodal/thisjustin.shop/blob/59e8934778ddfe7c289bbb1f778c7b42466aab2b/skills/spec-backfill/SKILL.md</link>
-      <guid isPermaLink="false">ghostmodal/thisjustin.shop:skills/spec-backfill/skill.md</guid>
-      <description>Skill from ghostmodal/thisjustin.shop [Apache-2.0]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>volcanology-modeling-research-level (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/volcanology-modeling-research-level/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/volcanology-modeling-research-level/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>nestjs-swagger (m16khb/cc-essential)</title>
-      <link>https://github.com/m16khb/cc-essential/blob/0c50c46456d1941ee5423fe74795c87efbfad4c4/skills/nestjs-swagger/SKILL.md</link>
-      <guid isPermaLink="false">m16khb/cc-essential:skills/nestjs-swagger/skill.md</guid>
-      <description>Claude Code 필수 플러그인 - Atomic Commit, Conventional Commit 지원 [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>supervised-neutron-stars-simulation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/supervised-neutron-stars-simulation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/supervised-neutron-stars-simulation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>blueprint-plan (morris-y/blueprint-skills)</title>
-      <link>https://github.com/morris-y/blueprint-skills/blob/c4fa702ceb25cbcad01c1120a4d0f97daac0aa93/skills/blueprint-plan/SKILL.md</link>
-      <guid isPermaLink="false">morris-y/blueprint-skills:skills/blueprint-plan/skill.md</guid>
-      <description>Claude Code plugin: Trading strategy lifecycle skills with postmortem compliance (plan, develop, review, optimize) [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>univariate-black-holes-optimization (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/univariate-black-holes-optimization/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/univariate-black-holes-optimization/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>create-skill (cpave3/skills)</title>
-      <link>https://github.com/cpave3/skills/blob/132faaf356f6254792242d50e4323aaa2eb81572/create-skill/SKILL.md</link>
-      <guid isPermaLink="false">cpave3/skills:create-skill/skill.md</guid>
-      <description>Skill from cpave3/skills [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>continuous-number-theory-prediction (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/continuous-number-theory-prediction/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/continuous-number-theory-prediction/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>triage (PoleBarnes/test-travis-harness)</title>
-      <link>https://github.com/PoleBarnes/test-travis-harness/blob/bd139c3ef0fe6ba0bae28c02164b9ac71d574292/skills/triage/SKILL.md</link>
-      <guid isPermaLink="false">polebarnes/test-travis-harness:skills/triage/skill.md</guid>
-      <description>Test project for travis harness plugin v0.3.0 black-box testing [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>experimental-climate-science-design (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/experimental-climate-science-design/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/experimental-climate-science-design/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>testing (kys0213/agentos)</title>
-      <link>https://github.com/kys0213/agentos/blob/6e5adbbd738e8c445956735b93e9e51f742fc7b6/.claude/skills/testing/SKILL.md</link>
-      <guid isPermaLink="false">kys0213/agentos:.claude/skills/testing/skill.md</guid>
-      <description>A general-purpose AI Agent runtime that supports LLMs, MCP integration, and preset-based task execution. [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>numerical-quantum-mechanics-testing (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/numerical-quantum-mechanics-testing/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/numerical-quantum-mechanics-testing/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>_template (trae-community/trae-skills)</title>
-      <link>https://github.com/trae-community/trae-skills/blob/1072a5dd110e864022cfa0e68690802c9ebbea53/skills/_template/SKILL.md</link>
-      <guid isPermaLink="false">trae-community/trae-skills:skills/_template/skill.md</guid>
-      <description>AI coding execution control skills | AI 编程执行约束技能 [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>spectral-solar-physics-optimization (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/spectral-solar-physics-optimization/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/spectral-solar-physics-optimization/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>create-pr (lutzcc1/claude-skills)</title>
-      <link>https://github.com/lutzcc1/claude-skills/blob/d0fc3fa1e28c6e30dedcd01df4777fdd5b52fb8e/project/create-pr/SKILL.md</link>
-      <guid isPermaLink="false">lutzcc1/claude-skills:project/create-pr/skill.md</guid>
-      <description>Skill from lutzcc1/claude-skills [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>univariate-power-systems-estimation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/univariate-power-systems-estimation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/univariate-power-systems-estimation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>pdf (ksmuvva/Synthetic-data-generator)</title>
-      <link>https://github.com/ksmuvva/Synthetic-data-generator/blob/4d040212f8497c9dddde266bf2e061622a46ed24/.claude/skills/pdf/SKILL.md</link>
-      <guid isPermaLink="false">ksmuvva/synthetic-data-generator:.claude/skills/pdf/skill.md</guid>
-      <description>Skill from ksmuvva/Synthetic-data-generator [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>number-theory-verification-advanced (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/number-theory-verification-advanced/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/number-theory-verification-advanced/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>web-search (jverlee/agent-poc)</title>
-      <link>https://github.com/jverlee/agent-poc/blob/c7b0dd46ca2c7f99ac368b5ee2a2bdd938bab030/skills/web-search/SKILL.md</link>
-      <guid isPermaLink="false">jverlee/agent-poc:skills/web-search/skill.md</guid>
-      <description>Proof of concept for agent wrapper [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>cosmology-astro-simulation-advanced (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/cosmology-astro-simulation-advanced/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/cosmology-astro-simulation-advanced/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>create-issues (richgo/auto-reviewer)</title>
-      <link>https://github.com/richgo/auto-reviewer/blob/d9285880b1e7d811f1d93c66347300351ddbdc00/skills/create-issues/SKILL.md</link>
-      <guid isPermaLink="false">richgo/auto-reviewer:skills/create-issues/skill.md</guid>
-      <description>Adversarial, multi-model code review system — APM-packaged, self-tuning, community-extensible [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>civil-engineering-prediction-expert (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/civil-engineering-prediction-expert/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/civil-engineering-prediction-expert/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>runner (irev/cadiax)</title>
-      <link>https://github.com/irev/cadiax/blob/e11d0bf4fda7bb6e95dfb221d303a546ac9fa395/skills/runner/SKILL.md</link>
-      <guid isPermaLink="false">irev/cadiax:skills/runner/skill.md</guid>
-      <description>Cadiax is an autonomous AI agent framework designed to think, plan, and act. [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>infinite-stellar-astronomy-analysis (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/infinite-stellar-astronomy-analysis/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/infinite-stellar-astronomy-analysis/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>fetch-ticket (nicolas-codemate/claudeCodeConfig)</title>
-      <link>https://github.com/nicolas-codemate/claudeCodeConfig/blob/81a7584220d0aae31f7e9235bcb285c93e267765/skills/fetch-ticket/SKILL.md</link>
-      <guid isPermaLink="false">nicolas-codemate/claudecodeconfig:skills/fetch-ticket/skill.md</guid>
-      <description>Skill from nicolas-codemate/claudeCodeConfig [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>statistical-paleontology-estimation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/statistical-paleontology-estimation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/statistical-paleontology-estimation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>plan-review (dr-code/tessera)</title>
-      <link>https://github.com/dr-code/tessera/blob/73978a6e9d0398ee8b2eab89eaeca92f03258f79/skills/plan-review/SKILL.md</link>
-      <guid isPermaLink="false">dr-code/tessera:skills/plan-review/skill.md</guid>
-      <description>Persistent codebase memory for Claude Code — open source MCP server [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>number-theory-interpretation-expert (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/number-theory-interpretation-expert/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/number-theory-interpretation-expert/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>discovery-smith-happens-xlightsfpptester (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/dea85cea057460f47f4bdf790d50a3b376b2328f/skills/other/discovery-smith-happens-xlightsfpptester/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/discovery-smith-happens-xlightsfpptester/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>analytical-neuropsychology-modeling (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/analytical-neuropsychology-modeling/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/analytical-neuropsychology-modeling/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>thinking-vault-template (aaronvanston/thinking-vault-template)</title>
-      <link>https://github.com/aaronvanston/thinking-vault-template/blob/57f0ab1b0dc6cc0d690532b9c3c674472f8516ec/SKILL.md</link>
-      <guid isPermaLink="false">aaronvanston/thinking-vault-template:skill.md</guid>
-      <description>Skill from aaronvanston/thinking-vault-template [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>dynamic-volcanology-troubleshooting (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/dynamic-volcanology-troubleshooting/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/dynamic-volcanology-troubleshooting/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>kiro-skill (moldovancsaba/sso)</title>
-      <link>https://github.com/moldovancsaba/sso/blob/aa8fb12be28a726f0caa26b8fe84fcf26a7256fa/kiro-skill/SKILL.md</link>
-      <guid isPermaLink="false">moldovancsaba/sso:kiro-skill/skill.md</guid>
-      <description>Skill from moldovancsaba/sso [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>dynamic-control-systems-calculation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/dynamic-control-systems-calculation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/dynamic-control-systems-calculation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>make-urls (atournayre/claude-personas)</title>
-      <link>https://github.com/atournayre/claude-personas/blob/bb0335112ea0991dc1dc6a29fa5a861397a5a6f6/php/skills/make-urls/SKILL.md</link>
-      <guid isPermaLink="false">atournayre/claude-personas:php/skills/make-urls/skill.md</guid>
-      <description>Personas (rôles spécialisés) pour Claude Code : analyst, architect, reviewer, tester et plus [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>continuous-tensor-calculus-modeling (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/continuous-tensor-calculus-modeling/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/continuous-tensor-calculus-modeling/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>feedback (LesterThomas/test-github-skill-feedback)</title>
-      <link>https://github.com/LesterThomas/test-github-skill-feedback/blob/7163193fa38853a23abde422a00ce7b11b4a9a76/skills/feedback/SKILL.md</link>
-      <guid isPermaLink="false">lesterthomas/test-github-skill-feedback:skills/feedback/skill.md</guid>
-      <description>Skill from LesterThomas/test-github-skill-feedback [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:42 GMT</pubDate>
+      <title>neurophysiology-validation-advanced (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/neurophysiology-validation-advanced/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/neurophysiology-validation-advanced/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>seo-meta-optimizer (zhugez/OrbitSmith)</title>
-      <link>https://github.com/zhugez/OrbitSmith/blob/b55a6feee1c2244adcccfd7b2fc435fd8915f515/kit/.agent/skills/seo-meta-optimizer/SKILL.md</link>
-      <guid isPermaLink="false">zhugez/orbitsmith:kit/.agent/skills/seo-meta-optimizer/skill.md</guid>
-      <description>Skill from zhugez/OrbitSmith [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>linear-number-theory-interpretation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/linear-number-theory-interpretation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/linear-number-theory-interpretation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>skill-evaluator (welshofer/skill-evaluator)</title>
-      <link>https://github.com/welshofer/skill-evaluator/blob/df60f63665805cdeb79c3f43a6405e602c48a58d/SKILL.md</link>
-      <guid isPermaLink="false">welshofer/skill-evaluator:skill.md</guid>
-      <description>A Claude Code skill that evaluates other skills against Anthropic&apos;s official guidance and produces formatted markdown assessment reports [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>data-governance-derivation-advanced (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/data-governance-derivation-advanced/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/data-governance-derivation-advanced/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>Skill-Bridge-AI (Nezaal/Skill-Bridge-AI)</title>
-      <link>https://github.com/Nezaal/Skill-Bridge-AI/blob/8a6e625be1ff4bcd6813401a511d47757e031e2d/SKILL.md</link>
-      <guid isPermaLink="false">nezaal/skill-bridge-ai:skill.md</guid>
-      <description>Skill from Nezaal/Skill-Bridge-AI [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>stochastic-optimization-calculation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/stochastic-optimization-calculation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/stochastic-optimization-calculation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>system_control (yuvaraj030/project-prometheus)</title>
-      <link>https://github.com/yuvaraj030/project-prometheus/blob/19dc8462b68efc6e9b83d3e94414bb17979278f2/skills/system_control/SKILL.md</link>
-      <guid isPermaLink="false">yuvaraj030/project-prometheus:skills/system_control/skill.md</guid>
-      <description>Experimental autonomous AI agent — memory architecture, IIT Phi consciousness, recursive self-improvement, multi-agent systems. [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>deterministic-botany-troubleshooting (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/deterministic-botany-troubleshooting/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/deterministic-botany-troubleshooting/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>feature-prioritization-assistant (asankarasubramanian/pm-alfred)</title>
-      <link>https://github.com/asankarasubramanian/pm-alfred/blob/e2003340a13a07adad9e51e7ea9eb12b9da24685/.cursor/skills/feature-prioritization-assistant/SKILL.md</link>
-      <guid isPermaLink="false">asankarasubramanian/pm-alfred:.cursor/skills/feature-prioritization-assistant/skill.md</guid>
-      <description>AI product management partner for Cursor IDE. 21 PM skills, skill chains, and persistent memory. [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>causal-inference-debugging-advanced (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/causal-inference-debugging-advanced/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/causal-inference-debugging-advanced/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>code-documentation-code-explain (frank-luongt/faos-skills-marketplace)</title>
-      <link>https://github.com/frank-luongt/faos-skills-marketplace/blob/ed5511eac1c9c8b430e54725aea6420a2835c5c5/skills/cowork/code-documentation-code-explain/SKILL.md</link>
-      <guid isPermaLink="false">frank-luongt/faos-skills-marketplace:skills/cowork/code-documentation-code-explain/skill.md</guid>
-      <description>930+ AI-powered skills and 31 agent plugins for Claude Code, OpenAI Codex, Gemini CLI, GitHub Copilot, and Perplexity Computer. The largest open-source AI skills library. [Apache-2.0]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>nonlinear-tensor-calculus-debugging (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/nonlinear-tensor-calculus-debugging/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/nonlinear-tensor-calculus-debugging/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>alert-management (Supraforge/aaas-vault)</title>
-      <link>https://github.com/Supraforge/aaas-vault/blob/66ffde6c838fde82cc1afa7aeb08a3339824124a/skills/devops/alert-management/SKILL.md</link>
-      <guid isPermaLink="false">supraforge/aaas-vault:skills/devops/alert-management/skill.md</guid>
-      <description>5,400+ production-ready AI agent skills across 52 categories. The largest curated skill registry for Claude Code, Agent Zero, Cursor, and agentic platforms. Find the best AI tools, automation patterns, and agent capabilities. [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>linear-manufacturing-classification (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/linear-manufacturing-classification/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/linear-manufacturing-classification/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>customerio-observability (ComeOnOliver/skillshub)</title>
-      <link>https://github.com/ComeOnOliver/skillshub/blob/57da0fdffea9eb61070fef5a85a9419e5a0ae0ef/skills/jeremylongshore/claude-code-plugins-plus-skills/customerio-observability/SKILL.md</link>
-      <guid isPermaLink="false">comeonoliver/skillshub:skills/jeremylongshore/claude-code-plugins-plus-skills/customerio-observability/skill.md</guid>
-      <description>🧠 The right skill, one API call. AI agent skills registry with token-efficient skill resolution. 5,000+ skills from 500+ top repos. [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>surface-chemistry-estimation-expert (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/surface-chemistry-estimation-expert/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/surface-chemistry-estimation-expert/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>code-reviewer (ibnuhalimm/claude-code-resources)</title>
-      <link>https://github.com/ibnuhalimm/claude-code-resources/blob/cf260d4ebc4a51288e0a5d0086cd5a1fdfb60341/skills/code-reviewer/SKILL.md</link>
-      <guid isPermaLink="false">ibnuhalimm/claude-code-resources:skills/code-reviewer/skill.md</guid>
-      <description>Claude code slash commands templates [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>infinite-nanotechnology-calculation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/infinite-nanotechnology-calculation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/infinite-nanotechnology-calculation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>frontend-security-coder (Supraforge/aaas-vault)</title>
-      <link>https://github.com/Supraforge/aaas-vault/blob/66ffde6c838fde82cc1afa7aeb08a3339824124a/skills/security/frontend-security-coder/SKILL.md</link>
-      <guid isPermaLink="false">supraforge/aaas-vault:skills/security/frontend-security-coder/skill.md</guid>
-      <description>5,400+ production-ready AI agent skills across 52 categories. The largest curated skill registry for Claude Code, Agent Zero, Cursor, and agentic platforms. Find the best AI tools, automation patterns, and agent capabilities. [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>finite-complex-analysis-calculation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/finite-complex-analysis-calculation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/finite-complex-analysis-calculation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>read-source (anurieli/ai-newsletter-kit)</title>
-      <link>https://github.com/anurieli/ai-newsletter-kit/blob/f568018a472c2ef5d566e644db34d3447da650a9/.claude/skills/read-source/SKILL.md</link>
-      <guid isPermaLink="false">anurieli/ai-newsletter-kit:.claude/skills/read-source/skill.md</guid>
-      <description>Claude Code newsletter automation system — skills, templates, and one-command installer [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>spectroscopy-astro-based-estimation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/spectroscopy-astro-based-estimation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/spectroscopy-astro-based-estimation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>security-scanning-security-sast (ComeOnOliver/skillshub)</title>
-      <link>https://github.com/ComeOnOliver/skillshub/blob/57da0fdffea9eb61070fef5a85a9419e5a0ae0ef/skills/rmyndharis/antigravity-skills/security-scanning-security-sast/SKILL.md</link>
-      <guid isPermaLink="false">comeonoliver/skillshub:skills/rmyndharis/antigravity-skills/security-scanning-security-sast/skill.md</guid>
-      <description>🧠 The right skill, one API call. AI agent skills registry with token-efficient skill resolution. 5,000+ skills from 500+ top repos. [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>dynamic-neurochemistry-optimization (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/dynamic-neurochemistry-optimization/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/dynamic-neurochemistry-optimization/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>agent-collaboration-protocol (hiyenwong/ai_collection)</title>
-      <link>https://github.com/hiyenwong/ai_collection/blob/5b0a7cfae2072990e3a5ba72c7fa0c0e009dc7a2/collection/skills/agent-collaboration-protocol/SKILL.md</link>
-      <guid isPermaLink="false">hiyenwong/ai_collection:collection/skills/agent-collaboration-protocol/skill.md</guid>
-      <description>ai_collection [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>infinite-planetary-science-analysis (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/infinite-planetary-science-analysis/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/infinite-planetary-science-analysis/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>palantir-install-auth (jeremylongshore/claude-code-plugins-plus-skills)</title>
-      <link>https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/3076d78733bbdec692738872e8c960f95019449d/plugins/saas-packs/palantir-pack/skills/palantir-install-auth/SKILL.md</link>
-      <guid isPermaLink="false">jeremylongshore/claude-code-plugins-plus-skills:plugins/saas-packs/palantir-pack/skills/palantir-install-auth/skill.md</guid>
-      <description>423 plugins, 2,849 skills, 177 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager. [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>atmospheric-science-modeling-expert (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/atmospheric-science-modeling-expert/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/atmospheric-science-modeling-expert/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>stripe-checkout (ccwukong/qaos)</title>
-      <link>https://github.com/ccwukong/qaos/blob/a7bfaeefc68f146add8bdf82f01a9c71bfa152fb/skills/stripe-checkout/SKILL.md</link>
-      <guid isPermaLink="false">ccwukong/qaos:skills/stripe-checkout/skill.md</guid>
-      <description>An open source AI QA co-founder [Apache-2.0]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>galactic-astronomy-based-simulation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/galactic-astronomy-based-simulation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/galactic-astronomy-based-simulation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>code-review (patleeman/task-factory)</title>
-      <link>https://github.com/patleeman/task-factory/blob/b892deab6cc99daefc91115e485f058d58840639/skills/code-review/SKILL.md</link>
-      <guid isPermaLink="false">patleeman/task-factory:skills/code-review/skill.md</guid>
-      <description>Agentic work orchestrator that respects your time [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>experimental-genetics-classification (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/experimental-genetics-classification/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/experimental-genetics-classification/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>fe-clean-code (ohmyhotelco/hare-cc-plugins)</title>
-      <link>https://github.com/ohmyhotelco/hare-cc-plugins/blob/53247b0206fd8d398a91fda8314c8f13fc049bc5/frontend-react-plugin/skills/fe-clean-code/SKILL.md</link>
-      <guid isPermaLink="false">ohmyhotelco/hare-cc-plugins:frontend-react-plugin/skills/fe-clean-code/skill.md</guid>
-      <description>Skill from ohmyhotelco/hare-cc-plugins [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>univariate-quantum-chemistry-design (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/univariate-quantum-chemistry-design/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/univariate-quantum-chemistry-design/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>remember (nikhilsitaram/claude-memory-system)</title>
-      <link>https://github.com/nikhilsitaram/claude-memory-system/blob/bb3d18ea5546ef0fa27445db961fd941777f35e1/skills/remember/SKILL.md</link>
-      <guid isPermaLink="false">nikhilsitaram/claude-memory-system:skills/remember/skill.md</guid>
-      <description>A persistent self-improving memory system for Claude Code based on simple markdown files [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>classical-mechanics-based-synthesis (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/classical-mechanics-based-synthesis/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/classical-mechanics-based-synthesis/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>ecommerce-builder (disputestrike/CrucibAI)</title>
-      <link>https://github.com/disputestrike/CrucibAI/blob/975b6f45d4e2156f8d3f483c674ab0fabd7ca9d1/skills/ecommerce-builder/SKILL.md</link>
-      <guid isPermaLink="false">disputestrike/crucibai:skills/ecommerce-builder/skill.md</guid>
-      <description>CrucibAI [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>spectral-complex-analysis-synthesis (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/spectral-complex-analysis-synthesis/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/spectral-complex-analysis-synthesis/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>memory (bassco/dotfiles)</title>
-      <link>https://github.com/bassco/dotfiles/blob/66cd4017cd30431ffd20fe18e2015a1276a6847c/claude/.claude/skills/memory/SKILL.md</link>
-      <guid isPermaLink="false">bassco/dotfiles:claude/.claude/skills/memory/skill.md</guid>
-      <description>dotfiles and setup scripts [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>static-power-systems-classification (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/static-power-systems-classification/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/static-power-systems-classification/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>feature-spec-critic (pcortes/swarm-attack)</title>
-      <link>https://github.com/pcortes/swarm-attack/blob/eef52fd97a2c26b418093d07e474d99b031d5a4a/default-skills/feature-spec-critic/SKILL.md</link>
-      <guid isPermaLink="false">pcortes/swarm-attack:default-skills/feature-spec-critic/skill.md</guid>
-      <description>Skill from pcortes/swarm-attack [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>stochastic-data-structures-analysis (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/stochastic-data-structures-analysis/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/stochastic-data-structures-analysis/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>amaa-design-management (Emasoft/ai-maestro-architect-agent)</title>
-      <link>https://github.com/Emasoft/ai-maestro-architect-agent/blob/05e995974d719639d292c997433ad5af65433853/skills/amaa-design-management/SKILL.md</link>
-      <guid isPermaLink="false">emasoft/ai-maestro-architect-agent:skills/amaa-design-management/skill.md</guid>
-      <description>AI Maestro Architect Agent - Design documents, requirements analysis, architecture decisions. Claude Code plugin. [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>static-control-systems-verification (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/static-control-systems-verification/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/static-control-systems-verification/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>react-native-architecture (frank-luongt/faos-skills-marketplace)</title>
-      <link>https://github.com/frank-luongt/faos-skills-marketplace/blob/ed5511eac1c9c8b430e54725aea6420a2835c5c5/skills/cowork/react-native-architecture/SKILL.md</link>
-      <guid isPermaLink="false">frank-luongt/faos-skills-marketplace:skills/cowork/react-native-architecture/skill.md</guid>
-      <description>930+ AI-powered skills and 31 agent plugins for Claude Code, OpenAI Codex, Gemini CLI, GitHub Copilot, and Perplexity Computer. The largest open-source AI skills library. [Apache-2.0]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>deterministic-microbiology-synthesis (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/deterministic-microbiology-synthesis/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/deterministic-microbiology-synthesis/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>observability-monitoring-slo-implement (mayurrathi/awesome-agent-skills)</title>
-      <link>https://github.com/mayurrathi/awesome-agent-skills/blob/58e9156404b82307d3430762e3beee478fa2a262/skills/observability-monitoring-slo-implement/SKILL.md</link>
-      <guid isPermaLink="false">mayurrathi/awesome-agent-skills:skills/observability-monitoring-slo-implement/skill.md</guid>
-      <description>The ultimate open-source library of highly-structured prompts, tools, and specialized capabilities for autonomous AI agents. [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>spatial-optogenetics-interpretation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/spatial-optogenetics-interpretation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/spatial-optogenetics-interpretation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>web (DevAldrete/DotBrain)</title>
-      <link>https://github.com/DevAldrete/DotBrain/blob/125f9ea5fa5d47fb06e75f61c2d473a68e793981/web/SKILL.md</link>
-      <guid isPermaLink="false">devaldrete/dotbrain:web/skill.md</guid>
-      <description>An effective way of building and integrating workflows to your proyects [GPL-3.0]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>spectroscopy-based-characterization (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/spectroscopy-based-characterization/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/spectroscopy-based-characterization/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>antigravity-security-requirement-extraction (ibragimov-oasis/oasis-languages-jp)</title>
-      <link>https://github.com/ibragimov-oasis/oasis-languages-jp/blob/36f87a34072a3c2d35533a009bc5d41567fc6f94/.claude/skills/skills-design/design/antigravity-security-requirement-extraction/SKILL.md</link>
-      <guid isPermaLink="false">ibragimov-oasis/oasis-languages-jp:.claude/skills/skills-design/design/antigravity-security-requirement-extraction/skill.md</guid>
-      <description>- [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>linear-organic-chemistry-prediction (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/linear-organic-chemistry-prediction/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/linear-organic-chemistry-prediction/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>vastai-migration-deep-dive (micsapp/micstec-skills)</title>
-      <link>https://github.com/micsapp/micstec-skills/blob/3f5d983eb4ef375b749adcd6b07ec03bd82ae8a8/claude-code/plugins-plus-skills/plugins/saas-packs/vastai-pack/skills/vastai-migration-deep-dive/SKILL.md</link>
-      <guid isPermaLink="false">micsapp/micstec-skills:claude-code/plugins-plus-skills/plugins/saas-packs/vastai-pack/skills/vastai-migration-deep-dive/skill.md</guid>
-      <description>AI agent skills collection - Claude Code, Gemini CLI, Copilot, Cursor, Windsurf, Codex CLI, MCP servers [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>spectral-crystallography-derivation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/spectral-crystallography-derivation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/spectral-crystallography-derivation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>conventional-commit (vitalykovalgit/Sencilla)</title>
-      <link>https://github.com/vitalykovalgit/Sencilla/blob/ffdabe6eac7ee1820e1e39a67b811844f988692d/promts/claude/skills/conventional-commit/SKILL.md</link>
-      <guid isPermaLink="false">vitalykovalgit/sencilla:promts/claude/skills/conventional-commit/skill.md</guid>
-      <description>Sencilla Framework: make development of web application great again :) [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>spatial-category-theory-measurement (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/spatial-category-theory-measurement/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/spatial-category-theory-measurement/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>apollo-rate-limits (nickloveinvesting/nick-love-plugins)</title>
-      <link>https://github.com/nickloveinvesting/nick-love-plugins/blob/c6ce14034f8f994bea3fb64a08d1ffb36501724e/plugins/apollo-pack/skills/apollo-rate-limits/SKILL.md</link>
-      <guid isPermaLink="false">nickloveinvesting/nick-love-plugins:plugins/apollo-pack/skills/apollo-rate-limits/skill.md</guid>
-      <description>Skill from nickloveinvesting/nick-love-plugins [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>applied-neuropharmacology-synthesis (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/applied-neuropharmacology-synthesis/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/applied-neuropharmacology-synthesis/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>release (duggan/bewitch)</title>
-      <link>https://github.com/duggan/bewitch/blob/7216adab86ac71e40831664d451d2e60438f68e5/.claude/skills/release/SKILL.md</link>
-      <guid isPermaLink="false">duggan/bewitch:.claude/skills/release/skill.md</guid>
-      <description>Linux server monitoring daemon with TUI [Apache-2.0]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>spectroscopy-astro-based-derivation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/spectroscopy-astro-based-derivation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/spectroscopy-astro-based-derivation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>file-organizer (davila7/claude-code-templates)</title>
-      <link>https://github.com/davila7/claude-code-templates/blob/7e1e3ea098bfc799f84bd7886c510f355762e198/cli-tool/components/skills/productivity/file-organizer/SKILL.md</link>
-      <guid isPermaLink="false">davila7/claude-code-templates:cli-tool/components/skills/productivity/file-organizer/skill.md</guid>
-      <description>CLI tool for configuring and monitoring Claude Code [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>neuroengineering-measurement-expert (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/neuroengineering-measurement-expert/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/neuroengineering-measurement-expert/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>copilot-plugins (tomevault-io/copilot-plugins)</title>
-      <link>https://github.com/tomevault-io/copilot-plugins/blob/72a9fda0a011157dff97c2f036ba91d22977f230/sickn33--antigravity-awesome-skills--accessibility-compliance-accessibility-audit/skills/SKILL.md</link>
-      <guid isPermaLink="false">tomevault-io/copilot-plugins:sickn33--antigravity-awesome-skills--accessibility-compliance-accessibility-audit/skills/skill.md</guid>
-      <description>AI instruction files for VS Code / GitHub Copilot — custom marketplace [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>power-systems-based-troubleshooting (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/power-systems-based-troubleshooting/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/power-systems-based-troubleshooting/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>database-migrations-migration-observability (HIDORAKAI002/ai-workspace-archive)</title>
-      <link>https://github.com/HIDORAKAI002/ai-workspace-archive/blob/964b450fffc939efc397fc19d09c05719ddfb1e3/ai_skills/sources/sickn33-awesome-skills/skills/database-migrations-migration-observability/SKILL.md</link>
-      <guid isPermaLink="false">hidorakai002/ai-workspace-archive:ai_skills/sources/sickn33-awesome-skills/skills/database-migrations-migration-observability/skill.md</guid>
-      <description>A massive, self-updating local archive of AI tools — 11,000+ agent skills, 240+ MCP servers, 2,200+ IDE rules (Cursor/Cline), and 30+ system prompt collections. One repo to rule them all. [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>functional-analysis-analysis-expert (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/functional-analysis-analysis-expert/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/functional-analysis-analysis-expert/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>reflection-engine (Aditya8369/Focus-Forge-Agent)</title>
-      <link>https://github.com/Aditya8369/Focus-Forge-Agent/blob/3bf287f0b97f64b0f66e83a819170e38b39e9d01/skills/reflection-engine/SKILL.md</link>
-      <guid isPermaLink="false">aditya8369/focus-forge-agent:skills/reflection-engine/skill.md</guid>
-      <description>FocusForge is a productivity-focused AI agent designed to help users achieve deep work and avoid distractions. Unlike regular chatbots, it acts as a strict execution coach, pushing users to take immediate action instead of just giving advice. [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>practical-algorithms-interpretation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/practical-algorithms-interpretation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/practical-algorithms-interpretation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>compare-players (ahump20/Sports-Plugins)</title>
-      <link>https://github.com/ahump20/Sports-Plugins/blob/f0188c86b69b26e0bc554c310a2692325da75d35/plugins/sports-data-explorer/skills/compare-players/SKILL.md</link>
-      <guid isPermaLink="false">ahump20/sports-plugins:plugins/sports-data-explorer/skills/compare-players/skill.md</guid>
-      <description>A curated marketplace of high-quality community sports plugins for Claude Code, Codex, and AI coding assistants. Covers analytics, live scores, fantasy sports, fitness tracking, and more. [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>finite-bayesian-statistics-analysis (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/finite-bayesian-statistics-analysis/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/finite-bayesian-statistics-analysis/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>copilot-plugins (tomevault-io/copilot-plugins)</title>
-      <link>https://github.com/tomevault-io/copilot-plugins/blob/72a9fda0a011157dff97c2f036ba91d22977f230/composiohq--awesome-claude-skills--tailored-resume-generator/skills/SKILL.md</link>
-      <guid isPermaLink="false">tomevault-io/copilot-plugins:composiohq--awesome-claude-skills--tailored-resume-generator/skills/skill.md</guid>
-      <description>AI instruction files for VS Code / GitHub Copilot — custom marketplace [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>biophysics-simulation-research-level (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/biophysics-simulation-research-level/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/biophysics-simulation-research-level/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>update-docs (adamfilli/happy-simulator)</title>
-      <link>https://github.com/adamfilli/happy-simulator/blob/ba004646d7f69ccbbc84b6f0330c35aa36438541/.claude/skills/update-docs/SKILL.md</link>
-      <guid isPermaLink="false">adamfilli/happy-simulator:.claude/skills/update-docs/skill.md</guid>
-      <description>A simulation library for distributed systems. [Apache-2.0]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>deterministic-black-holes-estimation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/deterministic-black-holes-estimation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/deterministic-black-holes-estimation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>flutter-plugins (MimicHunterZ/PocketMind)</title>
-      <link>https://github.com/MimicHunterZ/PocketMind/blob/9aec63a9ad0d1f3a6cad5508f933cad6f3c7e245/.claude/skills/flutter-plugins/SKILL.md</link>
-      <guid isPermaLink="false">mimichunterz/pocketmind:.claude/skills/flutter-plugins/skill.md</guid>
-      <description>触手可及的第二大脑。无感收藏链接，你的中央收藏夹，让 AI 帮你整理数字生活。 [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>numerical-machine-learning-modeling (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/numerical-machine-learning-modeling/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/numerical-machine-learning-modeling/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>initialise-workspace (themachinagod/andgasm-claude-orchestration-project)</title>
-      <link>https://github.com/themachinagod/andgasm-claude-orchestration-project/blob/7806a5e8809d468ce1c4d06ec75d96a063c0a4d3/.claude/skills/initialise-workspace/SKILL.md</link>
-      <guid isPermaLink="false">themachinagod/andgasm-claude-orchestration-project:.claude/skills/initialise-workspace/skill.md</guid>
-      <description>Template for AI-orchestrated multi-repo development — docs, PRDs, pipeline state, and Claude Code agents for autonomous software delivery. [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>dark-energy-optimization-fundamental (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/dark-energy-optimization-fundamental/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/dark-energy-optimization-fundamental/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>stakeholder-map (skytiger6724/qwen-skills)</title>
-      <link>https://github.com/skytiger6724/qwen-skills/blob/3e9853d38e944b9016b24b6607032da765fd6322/stakeholder-map/SKILL.md</link>
-      <guid isPermaLink="false">skytiger6724/qwen-skills:stakeholder-map/skill.md</guid>
-      <description>155 specialized AI agent skills for Qwen Code — marketing, product, dev, design, data &amp; strategy [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>advanced-cloud-computing-derivation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/advanced-cloud-computing-derivation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/advanced-cloud-computing-derivation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>vibe-bottleneck-finder (siddchauhan77/claude-skills-vault)</title>
-      <link>https://github.com/siddchauhan77/claude-skills-vault/blob/f96651d1b2c21ffc9e64dfb0dc3314202da62633/vibe-bottleneck-finder/SKILL.md</link>
-      <guid isPermaLink="false">siddchauhan77/claude-skills-vault:vibe-bottleneck-finder/skill.md</guid>
-      <description>Skill from siddchauhan77/claude-skills-vault [None]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>finite-quantum-chemistry-simulation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/finite-quantum-chemistry-simulation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/finite-quantum-chemistry-simulation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>progress (remenoscodes/claude-language-coach)</title>
-      <link>https://github.com/remenoscodes/claude-language-coach/blob/759ce94cec891011ded8152dbb38647a47fd33f8/skills/progress/SKILL.md</link>
-      <guid isPermaLink="false">remenoscodes/claude-language-coach:skills/progress/skill.md</guid>
-      <description>Ambient language coaching plugin for Claude Code. Learn languages through your daily coding sessions. [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>governing-spec-metadata (musher-dev/bundles)</title>
+      <link>https://github.com/musher-dev/bundles/blob/79a0bb30da0c1e9f3b363877407a62636186c651/openapi-specification-governance/skills/governing-spec-metadata/SKILL.md</link>
+      <guid isPermaLink="false">musher-dev/bundles:openapi-specification-governance/skills/governing-spec-metadata/skill.md</guid>
+      <description>Skill from musher-dev/bundles [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
     </item>
     <item>
-      <title>grammarly-sdk-patterns (jeremylongshore/claude-code-plugins-plus-skills)</title>
-      <link>https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/3076d78733bbdec692738872e8c960f95019449d/plugins/saas-packs/grammarly-pack/skills/grammarly-sdk-patterns/SKILL.md</link>
-      <guid isPermaLink="false">jeremylongshore/claude-code-plugins-plus-skills:plugins/saas-packs/grammarly-pack/skills/grammarly-sdk-patterns/skill.md</guid>
-      <description>423 plugins, 2,849 skills, 177 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager. [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
+      <title>practical-systems-biology-derivation (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/practical-systems-biology-derivation/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/practical-systems-biology-derivation/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>nuclear-engineering-based-synthesis (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/nuclear-engineering-based-synthesis/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/nuclear-engineering-based-synthesis/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>finite-bayesian-statistics-modeling (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/finite-bayesian-statistics-modeling/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/finite-bayesian-statistics-modeling/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>static-systems-engineering-analysis (NeuralBlitz/ncx)</title>
+      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/static-systems-engineering-analysis/SKILL.md</link>
+      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/static-systems-engineering-analysis/skill.md</guid>
+      <description>Skill from NeuralBlitz/ncx [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>admin-cli (LJT-520/openClaw-backup)</title>
+      <link>https://github.com/LJT-520/openClaw-backup/blob/e7d5728ce0b5428e03af6d334d2465422d3d9bff/skills/fabglitch/admin-cli/SKILL.md</link>
+      <guid isPermaLink="false">ljt-520/openclaw-backup:skills/fabglitch/admin-cli/skill.md</guid>
+      <description>openClaw backup [None]</description>
+      <pubDate>Sat, 25 Apr 2026 11:40:44 GMT</pubDate>
     </item>
   </channel>
 </rss>
