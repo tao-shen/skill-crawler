@@ -3,9 +3,16 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 39055 skills.</description>
-    <lastBuildDate>Sat, 25 Apr 2026 17:19:04 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 39056 skills.</description>
+    <lastBuildDate>Sat, 25 Apr 2026 18:01:43 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>bloc-cubit (shirokun20/nhasixapp)</title>
+      <link>https://github.com/shirokun20/nhasixapp/blob/0b94de24725a4480c91b5c105fca15ec88874505/.codex/skills/bloc-cubit/SKILL.md</link>
+      <guid isPermaLink="false">shirokun20/nhasixapp:.codex/skills/bloc-cubit/skill.md</guid>
+      <description>Unofficial NHentai mobile app with flutter and bloc [NOASSERTION]</description>
+      <pubDate>Sat, 25 Apr 2026 17:56:02 GMT</pubDate>
+    </item>
     <item>
       <title>github-solution-finder (KartikSharma4448/MyPortfolio)</title>
       <link>https://github.com/KartikSharma4448/MyPortfolio/blob/943737fdf6e4326c44a4b3496699295ebc55a9b9/.local/secondary_skills/github-solution-finder/SKILL.md</link>
@@ -698,13 +705,6 @@
       <guid isPermaLink="false">dhar174/numpy_game:docs/readme.skills.md</guid>
       <description>a narrative puzzle-strategy web game where the player is a rookie systems engineer on a damaged colony ship, and every ship system is represented as a live NumPy array. [None]</description>
       <pubDate>Sat, 25 Apr 2026 14:27:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>review (bulyaki/gstackplusplus)</title>
-      <link>https://github.com/bulyaki/gstackplusplus/blob/912425de8f3c1ed96694e3a3a92c29bdb4cf3f2b/review/SKILL.md</link>
-      <guid isPermaLink="false">bulyaki/gstackplusplus:review/skill.md</guid>
-      <description>GStack++ - GStack adapter for C++ development [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 12:13:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
