@@ -3,9 +3,58 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 39140 skills.</description>
-    <lastBuildDate>Sat, 25 Apr 2026 20:11:41 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 39147 skills.</description>
+    <lastBuildDate>Sat, 25 Apr 2026 21:39:32 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Security-List (kejaly/Security-List)</title>
+      <link>https://github.com/kejaly/Security-List/blob/f4c87fe9ca7913e9cde3b9018e9a1475611b27b1/wiki_TipSkill.md</link>
+      <guid isPermaLink="false">kejaly/security-list:wiki_tipskill.md</guid>
+      <description>If you have any good suggestions or comments during the search process, please feedback some index experience in issues. Thank you for your participation.查阅过程中，如果有什么好的意见或建议，请在Issues反馈，感谢您的参与。 [None]</description>
+      <pubDate>Sat, 25 Apr 2026 21:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>claude-skill-threat-modeling (Kraxi/claude-skill-threat-modeling)</title>
+      <link>https://github.com/Kraxi/claude-skill-threat-modeling/blob/1db77979193e37bd58addd46b03c4f30c32b6e70/SKILL.md</link>
+      <guid isPermaLink="false">kraxi/claude-skill-threat-modeling:skill.md</guid>
+      <description>Code-First Deep Risk Analysis Skill for Claude Code - 8-Phase Workflow with Security design review, STRIDE Threat modeling, PenTest and attack chain analysis, Software compliance assessment [BSD-3-Clause]</description>
+      <pubDate>Sat, 25 Apr 2026 21:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>ps-github-foundations-github-copilot (abayomieodusanya/ps-github-foundations-github-copilot)</title>
+      <link>https://github.com/abayomieodusanya/ps-github-foundations-github-copilot/blob/2ef52da963a06f2fa577d265953d8fd08c88e741/SKILL.md</link>
+      <guid isPermaLink="false">abayomieodusanya/ps-github-foundations-github-copilot:skill.md</guid>
+      <description>Project repository for the Pluralsight course, GitHub Foundations: GitHub Copilot [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 21:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>doppelganger-arm (Forcebyte/doppelganger-arm)</title>
+      <link>https://github.com/Forcebyte/doppelganger-arm/blob/993968199d07f51f87df6573731ff7bc6d6df3ac/SKILL.md</link>
+      <guid isPermaLink="false">forcebyte/doppelganger-arm:skill.md</guid>
+      <description>Doppelganger is a self-hosted, free browser automation and scraping platform built on Playwright, designed to handle everything from simple scraping to complex, human-like browser interactions.  It provides a visual task editor, a structured JSON task format, and advanced execution modes that go far beyond traditional scrapers. [GPL-3.0]</description>
+      <pubDate>Sat, 25 Apr 2026 21:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>sttr (harshvishu/sttr)</title>
+      <link>https://github.com/harshvishu/sttr/blob/e4cf5a16144656857ac0d8c7c39f5d1f17096f52/SKILL.md</link>
+      <guid isPermaLink="false">harshvishu/sttr:skill.md</guid>
+      <description>cross-platform, cli app to perform various operations on string [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 21:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>test-cartographer (sandeepkv93/test-cartographer)</title>
+      <link>https://github.com/sandeepkv93/test-cartographer/blob/f0eb9b1439ccbdae4ad3abf8c34009656597c73d/SKILL.md</link>
+      <guid isPermaLink="false">sandeepkv93/test-cartographer:skill.md</guid>
+      <description>Skill from sandeepkv93/test-cartographer [None]</description>
+      <pubDate>Sat, 25 Apr 2026 21:27:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>agents (Insightpulseai/agents)</title>
+      <link>https://github.com/Insightpulseai/agents/blob/10ad450e7d469b772f556bb1a76f7d07b8d3d83e/agents/CodeGenerator.SKILL.md</link>
+      <guid isPermaLink="false">insightpulseai/agents:agents/codegenerator.skill.md</guid>
+      <description>Agent personas, skills, judges, evals, metadata, registries, and prompt contracts [None]</description>
+      <pubDate>Sat, 25 Apr 2026 21:26:33 GMT</pubDate>
+    </item>
     <item>
       <title>gh-cli (hyecompany/ararat-web)</title>
       <link>https://github.com/hyecompany/ararat-web/blob/e7ce558a68e2276854de39eae6721eb71712d24c/.cursor/skills/gh-cli/SKILL.md</link>
@@ -656,55 +705,6 @@
       <guid isPermaLink="false">bolasblack/claude-skills:skills/mcp-skill-generator/templates/skill.md.template</guid>
       <description>Skill from bolasblack/claude-skills [None]</description>
       <pubDate>Sat, 25 Apr 2026 15:55:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>autoskill (Samurai412/autoskill)</title>
-      <link>https://github.com/Samurai412/autoskill/blob/e4ac291e30c52fa31d432c1c6ed5f0a860e01b29/SKILL.md</link>
-      <guid isPermaLink="false">samurai412/autoskill:skill.md</guid>
-      <description>self-improving skills for AI agents [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 15:55:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>invoice-processing (nadeemis/contelligence)</title>
-      <link>https://github.com/nadeemis/contelligence/blob/55cbda57454632c85f53bcfd8f1c28b58e2c2fd8/contelligence-agent/skills/invoice-processing/SKILL.md</link>
-      <guid isPermaLink="false">nadeemis/contelligence:contelligence-agent/skills/invoice-processing/skill.md</guid>
-      <description>Contelligence helps teams, PMs, and analysts turn scattered content across Teams, SharePoint, Power BI, PDFs, and emails into structured decisions and deliverables — without manual chasing, copying, or stitching. [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 15:55:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>jj-skill (RealAdarsh/jj-skill)</title>
-      <link>https://github.com/RealAdarsh/jj-skill/blob/f07da9aefba49843e3493db534f2571dc9a72678/SKILL.md</link>
-      <guid isPermaLink="false">realadarsh/jj-skill:skill.md</guid>
-      <description>Cross-agent Jujutsu (jj) workflow skill for coding agents (Codex, Claude, Gemini, and AGENTS.md-compatible runtimes). [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 15:55:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>alter-docs (willis7/alter-docs)</title>
-      <link>https://github.com/willis7/alter-docs/blob/542e7f8dcb2d865210cab69074b47bd225070e5f/SKILL.md</link>
-      <guid isPermaLink="false">willis7/alter-docs:skill.md</guid>
-      <description>This is the official documentation for Alter, a macOS AI assistant that lets you create custom Actions to automate tasks and integrate with your apps. [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 15:20:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>hf-mem (debashishc/hf-mem)</title>
-      <link>https://github.com/debashishc/hf-mem/blob/bb27b66a2ca40a27902b3b3811993168a3344dfc/SKILL.md</link>
-      <guid isPermaLink="false">debashishc/hf-mem:skill.md</guid>
-      <description>A CLI to estimate inference memory requirements for Hugging Face models, written in Python. [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 15:20:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>the-library (TutanDev/the-library)</title>
-      <link>https://github.com/TutanDev/the-library/blob/7c958ccf255a9d5446d368c02f88238845db6799/SKILL.md</link>
-      <guid isPermaLink="false">tutandev/the-library:skill.md</guid>
-      <description>A Meta-Skill for Private-First Distribution of Agentics (Skills, Agents, and Prompts) across your Agents, Devices, and Teams. [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 15:20:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>claudeskill-loki-mode (Nietzsche-Ubermensch/claudeskill-loki-mode)</title>
-      <link>https://github.com/Nietzsche-Ubermensch/claudeskill-loki-mode/blob/a786d83edefa9089f62b167dd6dab9810e02d8bd/SKILL.md</link>
-      <guid isPermaLink="false">nietzsche-ubermensch/claudeskill-loki-mode:skill.md</guid>
-      <description>Multi-agent autonomous startup system for Claude Code [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 15:20:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
