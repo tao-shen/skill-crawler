@@ -3,9 +3,30 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 39050 skills.</description>
-    <lastBuildDate>Sat, 25 Apr 2026 15:59:26 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 39053 skills.</description>
+    <lastBuildDate>Sat, 25 Apr 2026 16:35:27 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>gh-cli-balkonsen-ha-ai-gen-workflow (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/dea85cea057460f47f4bdf790d50a3b376b2328f/skills/other/other/gh-cli-balkonsen-ha-ai-gen-workflow/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/other/gh-cli-balkonsen-ha-ai-gen-workflow/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 16:31:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>claude-skills (astoreyai/claude-skills)</title>
+      <link>https://github.com/astoreyai/claude-skills/blob/f1ca9b38e24f5b46da9330c535fac8b8255a5f2d/SKILL.md</link>
+      <guid isPermaLink="false">astoreyai/claude-skills:skill.md</guid>
+      <description>Personal collection of Claude Code skills for enhanced AI-assisted workflows [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 16:31:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>faf-skills (Wolfe-Jam/faf-skills)</title>
+      <link>https://github.com/Wolfe-Jam/faf-skills/blob/4b604ed1b124464a1cfbdea14442db31b8008f03/SKILL.md</link>
+      <guid isPermaLink="false">wolfe-jam/faf-skills:skill.md</guid>
+      <description>Claude Code skills for .faf — reusable workflows for project DNA management [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 16:31:07 GMT</pubDate>
+    </item>
     <item>
       <title>gh-cli-hocgin (diegosouzapw/awesome-omni-skill)</title>
       <link>https://github.com/diegosouzapw/awesome-omni-skill/blob/a6b3c3005cedf056a48b084671c6282426d6e9fc/skills/tools/gh-cli-hocgin/SKILL.md</link>
@@ -684,27 +705,6 @@
       <guid isPermaLink="false">daily-ac/qiaomu-mondo-poster-design:skill.md</guid>
       <description>一句话生成大师级海报、书籍封面、专辑封面和各类设计作品。无需懂PS、配色或艺术史，AI自动选择最佳风格（基于20位传奇海报设计师）。支持电影海报、读书笔记、公众号封面、小红书配图等。默认9:16竖版，完美适配社交媒体。包含AI提示词优化、风格对比、图生图转换功能。触发词：&quot;Mondo风格&quot;、&quot;书籍封 [MIT]</description>
       <pubDate>Sat, 25 Apr 2026 12:13:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>figma-use (nnao45/figma-use)</title>
-      <link>https://github.com/nnao45/figma-use/blob/007824a239e3aee242f2ec1ef9aa3902d009c9c2/SKILL.md</link>
-      <guid isPermaLink="false">nnao45/figma-use:skill.md</guid>
-      <description>Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 12:13:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>ny-connectors (nammayatri/ny-connectors)</title>
-      <link>https://github.com/nammayatri/ny-connectors/blob/53ab7a4f6084700181e61901580dbc730767a78a/skill.md</link>
-      <guid isPermaLink="false">nammayatri/ny-connectors:skill.md</guid>
-      <description>Skill from nammayatri/ny-connectors [None]</description>
-      <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>continuum (asmeyatsky-personal/continuum)</title>
-      <link>https://github.com/asmeyatsky-personal/continuum/blob/f9f50f06741046a8060cf318bd05788c4c051836/skill.md</link>
-      <guid isPermaLink="false">asmeyatsky-personal/continuum:skill.md</guid>
-      <description>Skill from asmeyatsky-personal/continuum [None]</description>
-      <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
