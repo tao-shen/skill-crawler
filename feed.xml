@@ -3,9 +3,79 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 39034 skills.</description>
-    <lastBuildDate>Sat, 25 Apr 2026 14:32:41 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 39044 skills.</description>
+    <lastBuildDate>Sat, 25 Apr 2026 15:21:01 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>alter-docs (willis7/alter-docs)</title>
+      <link>https://github.com/willis7/alter-docs/blob/542e7f8dcb2d865210cab69074b47bd225070e5f/SKILL.md</link>
+      <guid isPermaLink="false">willis7/alter-docs:skill.md</guid>
+      <description>This is the official documentation for Alter, a macOS AI assistant that lets you create custom Actions to automate tasks and integrate with your apps. [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 15:20:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>hf-mem (debashishc/hf-mem)</title>
+      <link>https://github.com/debashishc/hf-mem/blob/bb27b66a2ca40a27902b3b3811993168a3344dfc/SKILL.md</link>
+      <guid isPermaLink="false">debashishc/hf-mem:skill.md</guid>
+      <description>A CLI to estimate inference memory requirements for Hugging Face models, written in Python. [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 15:20:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>the-library (TutanDev/the-library)</title>
+      <link>https://github.com/TutanDev/the-library/blob/7c958ccf255a9d5446d368c02f88238845db6799/SKILL.md</link>
+      <guid isPermaLink="false">tutandev/the-library:skill.md</guid>
+      <description>A Meta-Skill for Private-First Distribution of Agentics (Skills, Agents, and Prompts) across your Agents, Devices, and Teams. [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 15:20:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>claudeskill-loki-mode (Nietzsche-Ubermensch/claudeskill-loki-mode)</title>
+      <link>https://github.com/Nietzsche-Ubermensch/claudeskill-loki-mode/blob/a786d83edefa9089f62b167dd6dab9810e02d8bd/SKILL.md</link>
+      <guid isPermaLink="false">nietzsche-ubermensch/claudeskill-loki-mode:skill.md</guid>
+      <description>Multi-agent autonomous startup system for Claude Code [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 15:20:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>code-explainer (Royal-lobster/code-explainer)</title>
+      <link>https://github.com/Royal-lobster/code-explainer/blob/d878fc94631fbd0c955af3cff61ddb00ded586bf/SKILL.md</link>
+      <guid isPermaLink="false">royal-lobster/code-explainer:skill.md</guid>
+      <description>Interactive code walkthrough skill with VS Code highlighting and AI-powered voice narration [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 15:13:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>my-skills (Anionex/my-skills)</title>
+      <link>https://github.com/Anionex/my-skills/blob/f68a4efb12ca0afbccb4d73c67db54c505554c1d/agent-browser-skill.md</link>
+      <guid isPermaLink="false">anionex/my-skills:agent-browser-skill.md</guid>
+      <description>Claude Code skills collection [None]</description>
+      <pubDate>Sat, 25 Apr 2026 15:10:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>repentance (motoya0118/pavlok_CLI_agent)</title>
+      <link>https://github.com/motoya0118/pavlok_CLI_agent/blob/f8dc0f18d0d6558001f9823a97f8a41d172b5585/.codex/skills/repentance/SKILL.md</link>
+      <guid isPermaLink="false">motoya0118/pavlok_cli_agent:.codex/skills/repentance/skill.md</guid>
+      <description>CLI agentにpavlokを使用させたらどうなるか自傷実験 [Apache-2.0]</description>
+      <pubDate>Sat, 25 Apr 2026 15:06:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>rust-linear-type (huiali/rust-skills)</title>
+      <link>https://github.com/huiali/rust-skills/blob/947bf77509d9b421035037e983da6662d08cbb8e/.codex/skills/rust-linear-type/SKILL.md</link>
+      <guid isPermaLink="false">huiali/rust-skills:.codex/skills/rust-linear-type/skill.md</guid>
+      <description>An AI expert capability layer for Rust engineering practices, centered on modular skill orchestration and collaborative execution chains. It turns Rust’s core knowledge structures into callable reasoning and decision units, enabling diagnosis, design, and optimization in complex real-world scenarios. [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 15:06:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>doc (nashgao/mqtt-client)</title>
+      <link>https://github.com/nashgao/mqtt-client/blob/a27e1b9e6c0184c14fc25508bc1f3490b326f3dc/.claude/skills/doc/SKILL.md</link>
+      <guid isPermaLink="false">nashgao/mqtt-client:.claude/skills/doc/skill.md</guid>
+      <description>Coroutine MQTT Client Integration With Hyperf Framework [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 15:06:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>txc (Cantara/lib-electronic-components)</title>
+      <link>https://github.com/Cantara/lib-electronic-components/blob/8ddfda69fb964bf8f7e7a2118deb09357519e4c1/.claude/skills/manufacturers/txc/SKILL.md</link>
+      <guid isPermaLink="false">cantara/lib-electronic-components:.claude/skills/manufacturers/txc/skill.md</guid>
+      <description>Skill from Cantara/lib-electronic-components [Apache-2.0]</description>
+      <pubDate>Sat, 25 Apr 2026 15:06:22 GMT</pubDate>
+    </item>
     <item>
       <title>gh-cli (ComeOnOliver/skillshub)</title>
       <link>https://github.com/ComeOnOliver/skillshub/blob/57da0fdffea9eb61070fef5a85a9419e5a0ae0ef/skills/aiskillstore/marketplace/github/gh-cli/SKILL.md</link>
@@ -635,76 +705,6 @@
       <guid isPermaLink="false">nice-bills/uplink:skill.md</guid>
       <description>just launch a fund by tagging @break_whileloop on twitter [None]</description>
       <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>read-paper (bobjason2020/read-paper)</title>
-      <link>https://github.com/bobjason2020/read-paper/blob/9bd6f0fcdbefa92b6c3d93714881d5c8183f4ebc/skill.md</link>
-      <guid isPermaLink="false">bobjason2020/read-paper:skill.md</guid>
-      <description>an agent skill to read paper [None]</description>
-      <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>dotnet-claude-skill (Pedrohvc1/dotnet-claude-skill)</title>
-      <link>https://github.com/Pedrohvc1/dotnet-claude-skill/blob/0ec733484cd2d78e3e22dc3fe5bbc512b878bdfc/skill.md</link>
-      <guid isPermaLink="false">pedrohvc1/dotnet-claude-skill:skill.md</guid>
-      <description>Skill from Pedrohvc1/dotnet-claude-skill [None]</description>
-      <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>alonha (nhlam3011/alonha)</title>
-      <link>https://github.com/nhlam3011/alonha/blob/90d5ae86ef50b0c45fc4916e9f8f8f9c8758e9c3/skill.md</link>
-      <guid isPermaLink="false">nhlam3011/alonha:skill.md</guid>
-      <description>KLTN_AloNha_TienNam [None]</description>
-      <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>twitterapi-molt (jerryfane/twitterapi-molt)</title>
-      <link>https://github.com/jerryfane/twitterapi-molt/blob/b400fc1144577ad0ee4b57c8d487aa22d5a9f277/skill.md</link>
-      <guid isPermaLink="false">jerryfane/twitterapi-molt:skill.md</guid>
-      <description>This is a Twitter API wrapper designed for autonomous AI agents using moltbots or openclaw. [None]</description>
-      <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>hudsonvalleyticks (jefdiesel/hudsonvalleyticks)</title>
-      <link>https://github.com/jefdiesel/hudsonvalleyticks/blob/1c7a7be5985a950c8be908128b14a7c1c876dc42/skill.md</link>
-      <guid isPermaLink="false">jefdiesel/hudsonvalleyticks:skill.md</guid>
-      <description>Skill from jefdiesel/hudsonvalleyticks [None]</description>
-      <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>copilot-studio-solution-guide (fizamusthafa/copilot-studio-solution-guide)</title>
-      <link>https://github.com/fizamusthafa/copilot-studio-solution-guide/blob/076e7294f9073261e0230816f519a2e42ce12dc3/skill.md</link>
-      <guid isPermaLink="false">fizamusthafa/copilot-studio-solution-guide:skill.md</guid>
-      <description>Complete guide to hand-authoring Microsoft Copilot Studio Agent solution.zip files for Power Platform [None]</description>
-      <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>moltbook_crawl (Cs1799205202/moltbook_crawl)</title>
-      <link>https://github.com/Cs1799205202/moltbook_crawl/blob/be7148682801589ce0ff7ee6bf203c4cd16ab92e/skill.md</link>
-      <guid isPermaLink="false">cs1799205202/moltbook_crawl:skill.md</guid>
-      <description>Skill from Cs1799205202/moltbook_crawl [None]</description>
-      <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>luckylobster-skill (rachelbastian/luckylobster-skill)</title>
-      <link>https://github.com/rachelbastian/luckylobster-skill/blob/0a224967d03334ca9686a10c7d27a85e045750f8/skill.md</link>
-      <guid isPermaLink="false">rachelbastian/luckylobster-skill:skill.md</guid>
-      <description>LuckyLobster - Trade prediction markets on Polymarket via AI agents [None]</description>
-      <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>my-agent (robbysoerya/my-agent)</title>
-      <link>https://github.com/robbysoerya/my-agent/blob/f921fa6466c0f56000000e13fe0f7e954d8be9fa/skill.md</link>
-      <guid isPermaLink="false">robbysoerya/my-agent:skill.md</guid>
-      <description>Skill from robbysoerya/my-agent [None]</description>
-      <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>gh-cli (christopherekfeldt/mcp-bitbucket-dc)</title>
-      <link>https://github.com/christopherekfeldt/mcp-bitbucket-dc/blob/29f150d2aa9ed959e95676c8a695255c0c0f37ac/.agents/skills/gh-cli/SKILL.md</link>
-      <guid isPermaLink="false">christopherekfeldt/mcp-bitbucket-dc:.agents/skills/gh-cli/skill.md</guid>
-      <description>MCP server for Bitbucket Data Center — code search, file browsing, PRs, commits, and more [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 12:08:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
