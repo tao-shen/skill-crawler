@@ -3,9 +3,16 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 39166 skills.</description>
-    <lastBuildDate>Sat, 25 Apr 2026 22:53:49 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 39167 skills.</description>
+    <lastBuildDate>Sat, 25 Apr 2026 23:28:07 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>automata_teatral (crumbsole-design/automata_teatral)</title>
+      <link>https://github.com/crumbsole-design/automata_teatral/blob/349d153ef89b2c7106817566ef7cd26f8c917afa/SKILL.md</link>
+      <guid isPermaLink="false">crumbsole-design/automata_teatral:skill.md</guid>
+      <description>un automata ia teatral [None]</description>
+      <pubDate>Sat, 25 Apr 2026 23:24:50 GMT</pubDate>
+    </item>
     <item>
       <title>adr (jessedegans/jstack)</title>
       <link>https://github.com/jessedegans/jstack/blob/2aff0179779a541894ce101afbf41d52fb5425f4/skills/adr/SKILL.md</link>
@@ -697,13 +704,6 @@
       <link>https://github.com/PoleBarnes/test-travis-harness/blob/bd139c3ef0fe6ba0bae28c02164b9ac71d574292/skills/pr/SKILL.md</link>
       <guid isPermaLink="false">polebarnes/test-travis-harness:skills/pr/skill.md</guid>
       <description>Test project for travis harness plugin v0.3.0 black-box testing [None]</description>
-      <pubDate>Sat, 25 Apr 2026 18:44:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>GEO-INFER-RISK (ActiveInferenceInstitute/GEO-INFER)</title>
-      <link>https://github.com/ActiveInferenceInstitute/GEO-INFER/blob/8dade5d725e02c980dafbbcbe7d85a1179055f70/GEO-INFER-RISK/SKILL.md</link>
-      <guid isPermaLink="false">activeinferenceinstitute/geo-infer:geo-infer-risk/skill.md</guid>
-      <description>Skill from ActiveInferenceInstitute/GEO-INFER [NOASSERTION]</description>
       <pubDate>Sat, 25 Apr 2026 18:44:37 GMT</pubDate>
     </item>
   </channel>
