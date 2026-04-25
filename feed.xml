@@ -3,9 +3,16 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 38202 skills.</description>
-    <lastBuildDate>Sat, 25 Apr 2026 10:14:19 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 38203 skills.</description>
+    <lastBuildDate>Sat, 25 Apr 2026 11:04:44 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>gh-cli (aiskillstore/marketplace)</title>
+      <link>https://github.com/aiskillstore/marketplace/blob/b8917f4f8cd9ee91638ca0d6d472808ceddbfbb8/skills/github/gh-cli/SKILL.md</link>
+      <guid isPermaLink="false">aiskillstore/marketplace:skills/github/gh-cli/skill.md</guid>
+      <description>Security-audited skills for Claude, Codex &amp; Claude Code. One-click install, quality verified. [None]</description>
+      <pubDate>Sat, 25 Apr 2026 10:59:38 GMT</pubDate>
+    </item>
     <item>
       <title>gh-cli-github-awesome-copilot (majiayu000/claude-skill-registry)</title>
       <link>https://github.com/majiayu000/claude-skill-registry/blob/dea85cea057460f47f4bdf790d50a3b376b2328f/skills/other/other/gh-cli-github-awesome-copilot/SKILL.md</link>
@@ -696,13 +703,6 @@
       <title>grammarly-sdk-patterns (jeremylongshore/claude-code-plugins-plus-skills)</title>
       <link>https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/3076d78733bbdec692738872e8c960f95019449d/plugins/saas-packs/grammarly-pack/skills/grammarly-sdk-patterns/SKILL.md</link>
       <guid isPermaLink="false">jeremylongshore/claude-code-plugins-plus-skills:plugins/saas-packs/grammarly-pack/skills/grammarly-sdk-patterns/skill.md</guid>
-      <description>423 plugins, 2,849 skills, 177 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager. [MIT]</description>
-      <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>email-template-generator (jeremylongshore/claude-code-plugins-plus-skills)</title>
-      <link>https://github.com/jeremylongshore/claude-code-plugins-plus-skills/blob/3076d78733bbdec692738872e8c960f95019449d/skills/19-business-automation/email-template-generator/SKILL.md</link>
-      <guid isPermaLink="false">jeremylongshore/claude-code-plugins-plus-skills:skills/19-business-automation/email-template-generator/skill.md</guid>
       <description>423 plugins, 2,849 skills, 177 agents for Claude Code. Open-source marketplace at tonsofskills.com with the ccpi CLI package manager. [MIT]</description>
       <pubDate>Sat, 25 Apr 2026 10:06:34 GMT</pubDate>
     </item>
