@@ -3,9 +3,51 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 39044 skills.</description>
-    <lastBuildDate>Sat, 25 Apr 2026 15:21:01 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 39050 skills.</description>
+    <lastBuildDate>Sat, 25 Apr 2026 15:59:26 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>gh-cli-hocgin (diegosouzapw/awesome-omni-skill)</title>
+      <link>https://github.com/diegosouzapw/awesome-omni-skill/blob/a6b3c3005cedf056a48b084671c6282426d6e9fc/skills/tools/gh-cli-hocgin/SKILL.md</link>
+      <guid isPermaLink="false">diegosouzapw/awesome-omni-skill:skills/tools/gh-cli-hocgin/skill.md</guid>
+      <description>Repositorio Publico, agregador de skills [None]</description>
+      <pubDate>Sat, 25 Apr 2026 15:56:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>skill-md-tmpl (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/dea85cea057460f47f4bdf790d50a3b376b2328f/skills/other/skill-md-tmpl/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/skill-md-tmpl/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 15:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>claude-skills (bolasblack/claude-skills)</title>
+      <link>https://github.com/bolasblack/claude-skills/blob/bbe3c137d61682cf328d8e0a24723abdb5a6cf25/skills/mcp-skill-generator/templates/SKILL.md.template</link>
+      <guid isPermaLink="false">bolasblack/claude-skills:skills/mcp-skill-generator/templates/skill.md.template</guid>
+      <description>Skill from bolasblack/claude-skills [None]</description>
+      <pubDate>Sat, 25 Apr 2026 15:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>autoskill (Samurai412/autoskill)</title>
+      <link>https://github.com/Samurai412/autoskill/blob/e4ac291e30c52fa31d432c1c6ed5f0a860e01b29/SKILL.md</link>
+      <guid isPermaLink="false">samurai412/autoskill:skill.md</guid>
+      <description>self-improving skills for AI agents [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 15:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>invoice-processing (nadeemis/contelligence)</title>
+      <link>https://github.com/nadeemis/contelligence/blob/55cbda57454632c85f53bcfd8f1c28b58e2c2fd8/contelligence-agent/skills/invoice-processing/SKILL.md</link>
+      <guid isPermaLink="false">nadeemis/contelligence:contelligence-agent/skills/invoice-processing/skill.md</guid>
+      <description>Contelligence helps teams, PMs, and analysts turn scattered content across Teams, SharePoint, Power BI, PDFs, and emails into structured decisions and deliverables — without manual chasing, copying, or stitching. [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 15:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>jj-skill (RealAdarsh/jj-skill)</title>
+      <link>https://github.com/RealAdarsh/jj-skill/blob/f07da9aefba49843e3493db534f2571dc9a72678/SKILL.md</link>
+      <guid isPermaLink="false">realadarsh/jj-skill:skill.md</guid>
+      <description>Cross-agent Jujutsu (jj) workflow skill for coding agents (Codex, Claude, Gemini, and AGENTS.md-compatible runtimes). [MIT]</description>
+      <pubDate>Sat, 25 Apr 2026 15:55:02 GMT</pubDate>
+    </item>
     <item>
       <title>alter-docs (willis7/alter-docs)</title>
       <link>https://github.com/willis7/alter-docs/blob/542e7f8dcb2d865210cab69074b47bd225070e5f/SKILL.md</link>
@@ -662,48 +704,6 @@
       <link>https://github.com/asmeyatsky-personal/continuum/blob/f9f50f06741046a8060cf318bd05788c4c051836/skill.md</link>
       <guid isPermaLink="false">asmeyatsky-personal/continuum:skill.md</guid>
       <description>Skill from asmeyatsky-personal/continuum [None]</description>
-      <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>PolyBawt (Codestonee/PolyBawt)</title>
-      <link>https://github.com/Codestonee/PolyBawt/blob/0b4f65e64af67d8bd5b9c9b76b04afbfe78659a5/skill.md</link>
-      <guid isPermaLink="false">codestonee/polybawt:skill.md</guid>
-      <description>Skill from Codestonee/PolyBawt [None]</description>
-      <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>arduino-unoq-applab-claude-skill (mpous/arduino-unoq-applab-claude-skill)</title>
-      <link>https://github.com/mpous/arduino-unoq-applab-claude-skill/blob/63e09159c76d1f8c36165d345a501fff534a69d1/skill.md</link>
-      <guid isPermaLink="false">mpous/arduino-unoq-applab-claude-skill:skill.md</guid>
-      <description>Skill from mpous/arduino-unoq-applab-claude-skill [None]</description>
-      <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Votebox (olafkfreund/Votebox)</title>
-      <link>https://github.com/olafkfreund/Votebox/blob/de6cb8c8138e77cf78b93d57457ec8f14983d9b2/skill.md</link>
-      <guid isPermaLink="false">olafkfreund/votebox:skill.md</guid>
-      <description>A voting system for clubs and bars to let guest choose music from a preapproved list. [None]</description>
-      <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>clawsafe_pay (Neurarock/clawsafe_pay)</title>
-      <link>https://github.com/Neurarock/clawsafe_pay/blob/695cdd090250c2a49562506a51105b97283eb07b/skill.md</link>
-      <guid isPermaLink="false">neurarock/clawsafe_pay:skill.md</guid>
-      <description>Skill from Neurarock/clawsafe_pay [None]</description>
-      <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>power-platform-code-apps-skill (fizamusthafa/power-platform-code-apps-skill)</title>
-      <link>https://github.com/fizamusthafa/power-platform-code-apps-skill/blob/3280b22334332f0f7809225c454f79675309bd98/skill.md</link>
-      <guid isPermaLink="false">fizamusthafa/power-platform-code-apps-skill:skill.md</guid>
-      <description>Skill.md for building Code Apps on the Microsoft Power Platform [None]</description>
-      <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>uplink (nice-bills/uplink)</title>
-      <link>https://github.com/nice-bills/uplink/blob/fdf2d039ebf947402862d4983fcc734a5fefd3e2/skill.md</link>
-      <guid isPermaLink="false">nice-bills/uplink:skill.md</guid>
-      <description>just launch a fund by tagging @break_whileloop on twitter [None]</description>
       <pubDate>Sat, 25 Apr 2026 12:10:06 GMT</pubDate>
     </item>
   </channel>
