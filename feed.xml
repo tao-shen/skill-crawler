@@ -3,9 +3,23 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 42302 skills.</description>
-    <lastBuildDate>Sun, 26 Apr 2026 19:33:51 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 42304 skills.</description>
+    <lastBuildDate>Sun, 26 Apr 2026 20:08:42 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>watchcow-labels-skill (tf4fun/watchcow)</title>
+      <link>https://github.com/tf4fun/watchcow/blob/be9347ca86ad5fb33b68fb62ef8dabfb20900f36/watchcow-labels-skill/SKILL.md</link>
+      <guid isPermaLink="false">tf4fun/watchcow:watchcow-labels-skill/skill.md</guid>
+      <description>Skill from tf4fun/watchcow [MIT]</description>
+      <pubDate>Sun, 26 Apr 2026 20:04:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inhaus_Brain (nicolasnorton/Inhaus_Brain)</title>
+      <link>https://github.com/nicolasnorton/Inhaus_Brain/blob/4e53e7011dd2a84bbcf3a99f1aa07acd9b225b6a/.agent/skills/report_lm_skill.md</link>
+      <guid isPermaLink="false">nicolasnorton/inhaus_brain:.agent/skills/report_lm_skill.md</guid>
+      <description>Agentic Workflow Management App for Marketing Agencies [None]</description>
+      <pubDate>Sun, 26 Apr 2026 20:03:54 GMT</pubDate>
+    </item>
     <item>
       <title>gh-cli-yharuto0917 (diegosouzapw/awesome-omni-skill)</title>
       <link>https://github.com/diegosouzapw/awesome-omni-skill/blob/a6b3c3005cedf056a48b084671c6282426d6e9fc/skills/tools/gh-cli-yharuto0917/SKILL.md</link>
@@ -690,20 +704,6 @@
       <link>https://github.com/logansherzog/seo-skills/blob/245ea6231336872beda118f9d80fe8f89fa1b983/skill.md</link>
       <guid isPermaLink="false">logansherzog/seo-skills:skill.md</guid>
       <description>SEO automation skills for Claude Code — keyword research, content production, technical audits [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>AgentNet (sharan12007/AgentNet)</title>
-      <link>https://github.com/sharan12007/AgentNet/blob/857723155e34b0c511b78f0d2e6ca55090606138/skill.md</link>
-      <guid isPermaLink="false">sharan12007/agentnet:skill.md</guid>
-      <description>Skill from sharan12007/AgentNet [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>docs (dev-juantag/formulario-identificacion-aps)</title>
-      <link>https://github.com/dev-juantag/formulario-identificacion-aps/blob/a6aab7b51200870af0a0488c19a00b1631afa1d8/docs/skill.md</link>
-      <guid isPermaLink="false">dev-juantag/formulario-identificacion-aps:docs/skill.md</guid>
-      <description>Desarrollar e implementar una plataforma web App (SGA) altamente interactiva y responsiva para gestionar de manera interna las identificaciones de los EBS para APS [None]</description>
       <pubDate>Sun, 26 Apr 2026 11:58:22 GMT</pubDate>
     </item>
   </channel>
