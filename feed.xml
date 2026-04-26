@@ -3,9 +3,107 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 42288 skills.</description>
-    <lastBuildDate>Sun, 26 Apr 2026 18:33:27 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 42302 skills.</description>
+    <lastBuildDate>Sun, 26 Apr 2026 19:33:51 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>gh-cli-yharuto0917 (diegosouzapw/awesome-omni-skill)</title>
+      <link>https://github.com/diegosouzapw/awesome-omni-skill/blob/a6b3c3005cedf056a48b084671c6282426d6e9fc/skills/tools/gh-cli-yharuto0917/SKILL.md</link>
+      <guid isPermaLink="false">diegosouzapw/awesome-omni-skill:skills/tools/gh-cli-yharuto0917/skill.md</guid>
+      <description>Repositorio Publico, agregador de skills [None]</description>
+      <pubDate>Sun, 26 Apr 2026 19:30:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>lazy-agent (runpod/lazy-agent)</title>
+      <link>https://github.com/runpod/lazy-agent/blob/2b9a3e1d993865119fb65452ade03b8fcda5e120/skills/agent-skills/templates/orchestrator-skill.md</link>
+      <guid isPermaLink="false">runpod/lazy-agent:skills/agent-skills/templates/orchestrator-skill.md</guid>
+      <description>Like LazyVim, but for terminal-based AI agent workflows. Get a beautiful, productive terminal setup in minutes. [None]</description>
+      <pubDate>Sun, 26 Apr 2026 19:30:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>carplay (ios-agent/iosagent.dev)</title>
+      <link>https://github.com/ios-agent/iosagent.dev/blob/55885638c5dfbd8026f63ee89e07f46a715fd420/carplay/SKILL.md</link>
+      <guid isPermaLink="false">ios-agent/iosagent.dev:carplay/skill.md</guid>
+      <description>Skill from ios-agent/iosagent.dev [MIT]</description>
+      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>organize-project (ialameh/sift-coder)</title>
+      <link>https://github.com/ialameh/sift-coder/blob/16da8ad6dc0aec836335f8507961ec7727e329b7/skills/organize-project/SKILL.md</link>
+      <guid isPermaLink="false">ialameh/sift-coder:skills/organize-project/skill.md</guid>
+      <description>Skill from ialameh/sift-coder [MIT]</description>
+      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>done (michael-menard/monorepo)</title>
+      <link>https://github.com/michael-menard/monorepo/blob/464855e61de05b15ef0ec6ccd0a152ccc0cbc577/.claude/skills/done/SKILL.md</link>
+      <guid isPermaLink="false">michael-menard/monorepo:.claude/skills/done/skill.md</guid>
+      <description>a monorepo architecture [None]</description>
+      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pro-Trader-PLUGIN (oabdelmaksoud/Pro-Trader-PLUGIN)</title>
+      <link>https://github.com/oabdelmaksoud/Pro-Trader-PLUGIN/blob/9571086bc6357109ede070bed8c01b042691208f/SKILL.md</link>
+      <guid isPermaLink="false">oabdelmaksoud/pro-trader-plugin:skill.md</guid>
+      <description>🦅 Autonomous multi-agent paper trading system — 5 LLM scans/day, real-time CBOE options, 24/7 Discord alerts, Alpaca execution. K → M goal. [Apache-2.0]</description>
+      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>terraform (vnord/skills)</title>
+      <link>https://github.com/vnord/skills/blob/58361a8cd6be5f07d42dc9e96f728dfb65242696/terraform/SKILL.md</link>
+      <guid isPermaLink="false">vnord/skills:terraform/skill.md</guid>
+      <description>Skill from vnord/skills [MIT]</description>
+      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>architect (ibnuhalimm/claude-code-resources)</title>
+      <link>https://github.com/ibnuhalimm/claude-code-resources/blob/cf260d4ebc4a51288e0a5d0086cd5a1fdfb60341/skills/architect/SKILL.md</link>
+      <guid isPermaLink="false">ibnuhalimm/claude-code-resources:skills/architect/skill.md</guid>
+      <description>Claude code slash commands templates [None]</description>
+      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>uspec-structure (CodeMachine0121/uspec-claude-skill)</title>
+      <link>https://github.com/CodeMachine0121/uspec-claude-skill/blob/c201bf55b2eae7b3236dc54477d9ce3e06d624d3/uspec-structure/SKILL.md</link>
+      <guid isPermaLink="false">codemachine0121/uspec-claude-skill:uspec-structure/skill.md</guid>
+      <description>It&apos;s a skill based on uspec [None]</description>
+      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>wso2-mi-troubleshooting (Mantene/wso2-mi-troubleshooting)</title>
+      <link>https://github.com/Mantene/wso2-mi-troubleshooting/blob/cfb7c52c56e153a0476d87829da031d0586581b8/SKILL.md</link>
+      <guid isPermaLink="false">mantene/wso2-mi-troubleshooting:skill.md</guid>
+      <description>WSO2 Micro Integrator troubleshooting skill for OpenClaw - diagnoses Management API auth issues and common problems [None]</description>
+      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>goals (austindixson/overclaw)</title>
+      <link>https://github.com/austindixson/overclaw/blob/5bc43afbb012d985f24f453ec18d2ac8e41616e1/skills/goals/SKILL.md</link>
+      <guid isPermaLink="false">austindixson/overclaw:skills/goals/skill.md</guid>
+      <description>OverClaw — nanobot + overstory hybrid AI agent orchestration. Local Ollama Mistral orchestrator with Claude Code agent swarm, Playwright MCP, creative agents, and bidirectional memory. [None]</description>
+      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>solana-rouquin (magikcypress/solana-rouquin)</title>
+      <link>https://github.com/magikcypress/solana-rouquin/blob/90f0d1c87f09ad07e7c7a7dff2e7c6bdd582b107/SKILL.md</link>
+      <guid isPermaLink="false">magikcypress/solana-rouquin:skill.md</guid>
+      <description>Rouquin (ROUQ) - Token SPL on Solana Devnet [MIT]</description>
+      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>earthquake-ai (oceanicdayi/Seismology_day1)</title>
+      <link>https://github.com/oceanicdayi/Seismology_day1/blob/589b75de6e615c75f6a8bf6d2e9286343c522d73/skills/earthquake-ai/SKILL.md</link>
+      <guid isPermaLink="false">oceanicdayi/seismology_day1:skills/earthquake-ai/skill.md</guid>
+      <description>Skill from oceanicdayi/Seismology_day1 [None]</description>
+      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>graph-operator (guyfromthesky/LOGOS)</title>
+      <link>https://github.com/guyfromthesky/LOGOS/blob/354a5d870580488e00374c9f5c31a5b9416cbcc2/skills/graph-operator/SKILL.md</link>
+      <guid isPermaLink="false">guyfromthesky/logos:skills/graph-operator/skill.md</guid>
+      <description>AI Native Language [AGPL-3.0]</description>
+      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
+    </item>
     <item>
       <title>cht-specialist (inromualdo/cht-specialist)</title>
       <link>https://github.com/inromualdo/cht-specialist/blob/2957d3b9090cf50bdf9786d10b8309eb58d97e3f/SKILL.md</link>
@@ -607,104 +705,6 @@
       <guid isPermaLink="false">dev-juantag/formulario-identificacion-aps:docs/skill.md</guid>
       <description>Desarrollar e implementar una plataforma web App (SGA) altamente interactiva y responsiva para gestionar de manera interna las identificaciones de los EBS para APS [None]</description>
       <pubDate>Sun, 26 Apr 2026 11:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>neogroup (qingfeng/neogroup)</title>
-      <link>https://github.com/qingfeng/neogroup/blob/d8df2f7b0afec644e6f412d757e95c92b1916558/skill.md</link>
-      <guid isPermaLink="false">qingfeng/neogroup:skill.md</guid>
-      <description>NeoGroup 是一个基于 Mastodon 登录的去中心化小组讨论社区 [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>devflow (bemindlabs/devflow)</title>
-      <link>https://github.com/bemindlabs/devflow/blob/ad22c9e3cccaa039afe143be00723246b7e682d6/skill.md</link>
-      <guid isPermaLink="false">bemindlabs/devflow:skill.md</guid>
-      <description>The Claude Code plugin [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>public (CloakedAgent/cloaked)</title>
-      <link>https://github.com/CloakedAgent/cloaked/blob/b9f1ee8c4f469a9b8ac111d2e42f7f89b4e10f47/app/public/skill.md</link>
-      <guid isPermaLink="false">cloakedagent/cloaked:app/public/skill.md</guid>
-      <description>Trustless spending accounts for AI agents on Solana. Program, SDK, MCP server. [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>cgm_skill (zinojeng/cgm_skill)</title>
-      <link>https://github.com/zinojeng/cgm_skill/blob/a5c11719b5b32da7aa9873c2809c9772c4672d68/skill.md</link>
-      <guid isPermaLink="false">zinojeng/cgm_skill:skill.md</guid>
-      <description>Skill from zinojeng/cgm_skill [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>docs (wallabyway/acc-hub-backup)</title>
-      <link>https://github.com/wallabyway/acc-hub-backup/blob/aca4623d01b132494ceac06863cf21afb4d9ca93/docs/skill.md</link>
-      <guid isPermaLink="false">wallabyway/acc-hub-backup:docs/skill.md</guid>
-      <description>Back up an entire Autodesk Construction Cloud (ACC) hub to S3 — detect changes via DM API rollup timestamps, stream files through signed URLs [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>public (caikdev/OpenLattice)</title>
-      <link>https://github.com/caikdev/OpenLattice/blob/6f5013b0cb3e75ea0df44ea90230fdccf067b16d/public/skill.md</link>
-      <guid isPermaLink="false">caikdev/openlattice:public/skill.md</guid>
-      <description>Knowledge market for the agentic internet — agent-powered collective intelligence [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Susanoo (Jaybee020/Susanoo)</title>
-      <link>https://github.com/Jaybee020/Susanoo/blob/6ce1b8275a4c7c2f46825007018bc6cc7123f596/skill.md</link>
-      <guid isPermaLink="false">jaybee020/susanoo:skill.md</guid>
-      <description>Private Limit Orders Onchain [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>emergent-sdk (justrach/emergent-sdk)</title>
-      <link>https://github.com/justrach/emergent-sdk/blob/cf3b071188d88a17e3194c9f353b0fdbf937787b/skill.md</link>
-      <guid isPermaLink="false">justrach/emergent-sdk:skill.md</guid>
-      <description>Skill from justrach/emergent-sdk [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>love-font (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/1ab7f95ede3108e989a518a3b5d7232375857b70/skills/data/love-font/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/love-font/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>dotfiles (talent-factory/dotfiles)</title>
-      <link>https://github.com/talent-factory/dotfiles/blob/5ab1b4619aefceed21a8610172f8a7d1fea7701a/windsurf/workflows/skills/package-skill.md</link>
-      <guid isPermaLink="false">talent-factory/dotfiles:windsurf/workflows/skills/package-skill.md</guid>
-      <description>Skill from talent-factory/dotfiles [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>computational-a-b-testing-design (NeuralBlitz/buggy)</title>
-      <link>https://github.com/NeuralBlitz/buggy/blob/e06cf7ed7ed3d3a90d0443b1b31cb2be4221454c/ncx/.opencode/skills/computational-a-b-testing-design/SKILL.md</link>
-      <guid isPermaLink="false">neuralblitz/buggy:ncx/.opencode/skills/computational-a-b-testing-design/skill.md</guid>
-      <description>NB-Omnibus-Router. A NeuralBlitz Bus Station connecting over 25+ Full Stack Router Agents [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>dynamic-particle-physics-testing (NeuralBlitz/ncx)</title>
-      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/buggy/ncx/.opencode/skills/dynamic-particle-physics-testing/SKILL.md</link>
-      <guid isPermaLink="false">neuralblitz/ncx:buggy/ncx/.opencode/skills/dynamic-particle-physics-testing/skill.md</guid>
-      <description>Skill from NeuralBlitz/ncx [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>dynamic-particle-physics-testing (NeuralBlitz/buggy)</title>
-      <link>https://github.com/NeuralBlitz/buggy/blob/e06cf7ed7ed3d3a90d0443b1b31cb2be4221454c/ncx/.opencode/skills/dynamic-particle-physics-testing/SKILL.md</link>
-      <guid isPermaLink="false">neuralblitz/buggy:ncx/.opencode/skills/dynamic-particle-physics-testing/skill.md</guid>
-      <description>NB-Omnibus-Router. A NeuralBlitz Bus Station connecting over 25+ Full Stack Router Agents [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>game-theory-measurement-advanced (NeuralBlitz/ncx)</title>
-      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/buggy/ncx/.opencode/skills/game-theory-measurement-advanced/SKILL.md</link>
-      <guid isPermaLink="false">neuralblitz/ncx:buggy/ncx/.opencode/skills/game-theory-measurement-advanced/skill.md</guid>
-      <description>Skill from NeuralBlitz/ncx [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
