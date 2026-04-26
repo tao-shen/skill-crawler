@@ -3,9 +3,44 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 42215 skills.</description>
-    <lastBuildDate>Sun, 26 Apr 2026 12:53:57 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 42220 skills.</description>
+    <lastBuildDate>Sun, 26 Apr 2026 14:45:10 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>so (DavidTeju/shared-skills)</title>
+      <link>https://github.com/DavidTeju/shared-skills/blob/efa0e7defa7cbd864b4149d14d614ede3c5f1b47/skills/so/SKILL.md</link>
+      <guid isPermaLink="false">davidteju/shared-skills:skills/so/skill.md</guid>
+      <description>Skill from DavidTeju/shared-skills [None]</description>
+      <pubDate>Sun, 26 Apr 2026 14:38:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>d2 (benjaminwestern/google-engineer-skills)</title>
+      <link>https://github.com/benjaminwestern/google-engineer-skills/blob/d23e5c74dcd054df0d33c488baa55480db90be0e/skills/d2/SKILL.md</link>
+      <guid isPermaLink="false">benjaminwestern/google-engineer-skills:skills/d2/skill.md</guid>
+      <description>List of skills useful for a Google Cloud Engineer [MIT]</description>
+      <pubDate>Sun, 26 Apr 2026 14:38:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>chore (melodic-software/claude-code-plugins)</title>
+      <link>https://github.com/melodic-software/claude-code-plugins/blob/b495e39deeb0b2093ad1c6b16627459406a47016/plugins/tac/skills/chore/SKILL.md</link>
+      <guid isPermaLink="false">melodic-software/claude-code-plugins:plugins/tac/skills/chore/skill.md</guid>
+      <description>Skill from melodic-software/claude-code-plugins [MIT]</description>
+      <pubDate>Sun, 26 Apr 2026 14:37:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>vcp-config (Z-M-Huang/vcp)</title>
+      <link>https://github.com/Z-M-Huang/vcp/blob/260e35621ade8dbef3aed62d20075d8d902a719a/plugins/vcp/skills/vcp-config/SKILL.md</link>
+      <guid isPermaLink="false">z-m-huang/vcp:plugins/vcp/skills/vcp-config/skill.md</guid>
+      <description>Vibe Coding Protocal - Security-first protocol for AI-generated code, multiple standards with real-time enforcement and multi-AI pipeline orchestration [Apache-2.0]</description>
+      <pubDate>Sun, 26 Apr 2026 14:37:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>prime-review (ThePrimeagen/prime-agent)</title>
+      <link>https://github.com/ThePrimeagen/prime-agent/blob/888585f15c1c89ab4b71cc1ea058f04b54d05104/.cursor/rules/prime-review/SKILL.md</link>
+      <guid isPermaLink="false">theprimeagen/prime-agent:.cursor/rules/prime-review/skill.md</guid>
+      <description>Skill from ThePrimeagen/prime-agent [None]</description>
+      <pubDate>Sun, 26 Apr 2026 14:37:21 GMT</pubDate>
+    </item>
     <item>
       <title>gh-cli-ajilantony (diegosouzapw/awesome-omni-skill)</title>
       <link>https://github.com/diegosouzapw/awesome-omni-skill/blob/a6b3c3005cedf056a48b084671c6282426d6e9fc/skills/tools/gh-cli-ajilantony/SKILL.md</link>
@@ -670,41 +705,6 @@
       <guid isPermaLink="false">neuralblitz/ncx:buggy/ncx/.opencode/skills/paleontology-testing-fundamental/skill.md</guid>
       <description>Skill from NeuralBlitz/ncx [None]</description>
       <pubDate>Sun, 26 Apr 2026 11:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>paleontology-testing-fundamental (NeuralBlitz/buggy)</title>
-      <link>https://github.com/NeuralBlitz/buggy/blob/e06cf7ed7ed3d3a90d0443b1b31cb2be4221454c/ncx/.opencode/skills/paleontology-testing-fundamental/SKILL.md</link>
-      <guid isPermaLink="false">neuralblitz/buggy:ncx/.opencode/skills/paleontology-testing-fundamental/skill.md</guid>
-      <description>NB-Omnibus-Router. A NeuralBlitz Bus Station connecting over 25+ Full Stack Router Agents [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>discrete-black-holes-measurement (NeuralBlitz/ncx)</title>
-      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/buggy/ncx/.opencode/skills/discrete-black-holes-measurement/SKILL.md</link>
-      <guid isPermaLink="false">neuralblitz/ncx:buggy/ncx/.opencode/skills/discrete-black-holes-measurement/skill.md</guid>
-      <description>Skill from NeuralBlitz/ncx [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>discrete-black-holes-measurement (NeuralBlitz/buggy)</title>
-      <link>https://github.com/NeuralBlitz/buggy/blob/e06cf7ed7ed3d3a90d0443b1b31cb2be4221454c/ncx/.opencode/skills/discrete-black-holes-measurement/SKILL.md</link>
-      <guid isPermaLink="false">neuralblitz/buggy:ncx/.opencode/skills/discrete-black-holes-measurement/skill.md</guid>
-      <description>NB-Omnibus-Router. A NeuralBlitz Bus Station connecting over 25+ Full Stack Router Agents [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>computational-a-b-testing-design (NeuralBlitz/ncx)</title>
-      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/buggy/ncx/.opencode/skills/computational-a-b-testing-design/SKILL.md</link>
-      <guid isPermaLink="false">neuralblitz/ncx:buggy/ncx/.opencode/skills/computational-a-b-testing-design/skill.md</guid>
-      <description>Skill from NeuralBlitz/ncx [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>advanced-catalysis-implementation (NeuralBlitz/ncx)</title>
-      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/ncx/.opencode/skills/advanced-catalysis-implementation/SKILL.md</link>
-      <guid isPermaLink="false">neuralblitz/ncx:ncx/.opencode/skills/advanced-catalysis-implementation/skill.md</guid>
-      <description>Skill from NeuralBlitz/ncx [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
