@@ -3,9 +3,30 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 42240 skills.</description>
-    <lastBuildDate>Sun, 26 Apr 2026 15:32:17 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 42243 skills.</description>
+    <lastBuildDate>Sun, 26 Apr 2026 16:10:09 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>dots (johnend/dots)</title>
+      <link>https://github.com/johnend/dots/blob/f41e6e554567c0896d47bfeed9b19539d10bbadb/common/.ai/_template.SKILL.md</link>
+      <guid isPermaLink="false">johnend/dots:common/.ai/_template.skill.md</guid>
+      <description>Dotfiles [None]</description>
+      <pubDate>Sun, 26 Apr 2026 16:05:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>adversarial_validation (sequoia-hope/waffle-iron)</title>
+      <link>https://github.com/sequoia-hope/waffle-iron/blob/16fb05b251052a42b42efdc035e5f7fa9c931bf8/agents/skills/adversarial_validation.skill.md</link>
+      <guid isPermaLink="false">sequoia-hope/waffle-iron:agents/skills/adversarial_validation.skill.md</guid>
+      <description>Skill from sequoia-hope/waffle-iron [None]</description>
+      <pubDate>Sun, 26 Apr 2026 16:04:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>audio_process (HoratioTang/InnovationChallenge_NextCare)</title>
+      <link>https://github.com/HoratioTang/InnovationChallenge_NextCare/blob/0482c8a556aba8614f2f54377ee2370cd383cf79/agents/skills/audio_process.skill.md</link>
+      <guid isPermaLink="false">horatiotang/innovationchallenge_nextcare:agents/skills/audio_process.skill.md</guid>
+      <description>Skill from HoratioTang/InnovationChallenge_NextCare [None]</description>
+      <pubDate>Sun, 26 Apr 2026 16:04:39 GMT</pubDate>
+    </item>
     <item>
       <title>gh-cli (HIDORAKAI002/ai-workspace-archive)</title>
       <link>https://github.com/HIDORAKAI002/ai-workspace-archive/blob/59cde130970cf9bdb8be50ecdd76fd40510c83ee/ai_skills/sources/awesome-copilot/skills/gh-cli/SKILL.md</link>
@@ -683,27 +704,6 @@
       <link>https://github.com/NeuralBlitz/buggy/blob/e06cf7ed7ed3d3a90d0443b1b31cb2be4221454c/ncx/.opencode/skills/astrometry-troubleshooting-expert/SKILL.md</link>
       <guid isPermaLink="false">neuralblitz/buggy:ncx/.opencode/skills/astrometry-troubleshooting-expert/skill.md</guid>
       <description>NB-Omnibus-Router. A NeuralBlitz Bus Station connecting over 25+ Full Stack Router Agents [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>dynamic-relativity-implementation (NeuralBlitz/ncx)</title>
-      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/buggy/ncx/.opencode/skills/dynamic-relativity-implementation/SKILL.md</link>
-      <guid isPermaLink="false">neuralblitz/ncx:buggy/ncx/.opencode/skills/dynamic-relativity-implementation/skill.md</guid>
-      <description>Skill from NeuralBlitz/ncx [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>dynamic-relativity-implementation (NeuralBlitz/buggy)</title>
-      <link>https://github.com/NeuralBlitz/buggy/blob/e06cf7ed7ed3d3a90d0443b1b31cb2be4221454c/ncx/.opencode/skills/dynamic-relativity-implementation/SKILL.md</link>
-      <guid isPermaLink="false">neuralblitz/buggy:ncx/.opencode/skills/dynamic-relativity-implementation/skill.md</guid>
-      <description>NB-Omnibus-Router. A NeuralBlitz Bus Station connecting over 25+ Full Stack Router Agents [None]</description>
-      <pubDate>Sun, 26 Apr 2026 11:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>finite-systems-biology-derivation (NeuralBlitz/ncx)</title>
-      <link>https://github.com/NeuralBlitz/ncx/blob/7bcc0668d66351da9fc93bc7fcd2263b6c8a7e60/buggy/ncx/.opencode/skills/finite-systems-biology-derivation/SKILL.md</link>
-      <guid isPermaLink="false">neuralblitz/ncx:buggy/ncx/.opencode/skills/finite-systems-biology-derivation/skill.md</guid>
-      <description>Skill from NeuralBlitz/ncx [None]</description>
       <pubDate>Sun, 26 Apr 2026 11:58:07 GMT</pubDate>
     </item>
   </channel>
