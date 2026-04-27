@@ -3,9 +3,16 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 42354 skills.</description>
-    <lastBuildDate>Sun, 26 Apr 2026 23:34:45 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 42355 skills.</description>
+    <lastBuildDate>Mon, 27 Apr 2026 00:08:46 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>gh-cli (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/1ab7f95ede3108e989a518a3b5d7232375857b70/skills/other/other/gh-cli/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/other/gh-cli/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 00:04:39 GMT</pubDate>
+    </item>
     <item>
       <title>Reasoning-Process (Haulbrook/Reasoning-Process)</title>
       <link>https://github.com/Haulbrook/Reasoning-Process/blob/5138d167bf9878efe14968992ce21916d96c4bea/skill.md</link>
@@ -697,13 +704,6 @@
       <link>https://github.com/mayurrathi/awesome-agent-skills/blob/58e9156404b82307d3430762e3beee478fa2a262/skills/debugger/SKILL.md</link>
       <guid isPermaLink="false">mayurrathi/awesome-agent-skills:skills/debugger/skill.md</guid>
       <description>The ultimate open-source library of highly-structured prompts, tools, and specialized capabilities for autonomous AI agents. [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>data-validator (egermano/agent-skills-poc)</title>
-      <link>https://github.com/egermano/agent-skills-poc/blob/172536159c3a0a99c994fdd461b6cc83cac2f15c/data-validator/SKILL.md</link>
-      <guid isPermaLink="false">egermano/agent-skills-poc:data-validator/skill.md</guid>
-      <description>Proof of concept for Agents Skill  [None]</description>
       <pubDate>Sun, 26 Apr 2026 17:42:13 GMT</pubDate>
     </item>
   </channel>
