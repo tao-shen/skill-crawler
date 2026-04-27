@@ -3,9 +3,16 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 42355 skills.</description>
-    <lastBuildDate>Mon, 27 Apr 2026 00:08:46 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 42356 skills.</description>
+    <lastBuildDate>Mon, 27 Apr 2026 03:59:55 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>gh-cli (jcasnellie69/homelab-config)</title>
+      <link>https://github.com/jcasnellie69/homelab-config/blob/5b111cb7f2f4d8d7b72190635e28548abab89e36/.goose/skills/gh-cli/SKILL.md</link>
+      <guid isPermaLink="false">jcasnellie69/homelab-config:.goose/skills/gh-cli/skill.md</guid>
+      <description>An Unexpected Journey [None]</description>
+      <pubDate>Mon, 27 Apr 2026 03:56:39 GMT</pubDate>
+    </item>
     <item>
       <title>gh-cli (majiayu000/claude-skill-registry)</title>
       <link>https://github.com/majiayu000/claude-skill-registry/blob/1ab7f95ede3108e989a518a3b5d7232375857b70/skills/other/other/gh-cli/SKILL.md</link>
@@ -697,13 +704,6 @@
       <link>https://github.com/majiayu000/claude-skill-registry/blob/1ab7f95ede3108e989a518a3b5d7232375857b70/skills/data/btr-curate/SKILL.md</link>
       <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/btr-curate/skill.md</guid>
       <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>debugger (mayurrathi/awesome-agent-skills)</title>
-      <link>https://github.com/mayurrathi/awesome-agent-skills/blob/58e9156404b82307d3430762e3beee478fa2a262/skills/debugger/SKILL.md</link>
-      <guid isPermaLink="false">mayurrathi/awesome-agent-skills:skills/debugger/skill.md</guid>
-      <description>The ultimate open-source library of highly-structured prompts, tools, and specialized capabilities for autonomous AI agents. [None]</description>
       <pubDate>Sun, 26 Apr 2026 17:42:13 GMT</pubDate>
     </item>
   </channel>
