@@ -3,9 +3,576 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 42356 skills.</description>
-    <lastBuildDate>Mon, 27 Apr 2026 03:59:55 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 42437 skills.</description>
+    <lastBuildDate>Mon, 27 Apr 2026 19:08:09 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>gf (codejunkie99/Gateflow-Plugin)</title>
+      <link>https://github.com/codejunkie99/Gateflow-Plugin/blob/5d1414b2bd9726f973cbdd7f0a1c7e25b0e415a1/skills/gf/SKILL.md</link>
+      <guid isPermaLink="false">codejunkie99/gateflow-plugin:skills/gf/skill.md</guid>
+      <description>AI-powered SystemVerilog development assistant — design, verify, debug, and deliver working RTL with natural language. [NOASSERTION]</description>
+      <pubDate>Mon, 27 Apr 2026 18:58:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>walletarmy (tranvictor/walletarmy)</title>
+      <link>https://github.com/tranvictor/walletarmy/blob/7cc86825bf24807c6c919870b3da020c44983aee/SKILL.md</link>
+      <guid isPermaLink="false">tranvictor/walletarmy:skill.md</guid>
+      <description>Skill from tranvictor/walletarmy [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:57:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>modern-doc-html (afumu/modern-doc-html)</title>
+      <link>https://github.com/afumu/modern-doc-html/blob/42f74bcdeb2d4a0885983b296dd9ffb9d5d8fd29/SKILL.md</link>
+      <guid isPermaLink="false">afumu/modern-doc-html:skill.md</guid>
+      <description>制作技术课程演示HTML [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:57:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>novel-master (dashenbibi/novel-master)</title>
+      <link>https://github.com/dashenbibi/novel-master/blob/f1767c67b7bc40acc722f725b4c12110350e9b79/SKILL.md</link>
+      <guid isPermaLink="false">dashenbibi/novel-master:skill.md</guid>
+      <description>面向中文长篇网文的结构化 AI 写作工作流（novel writing workflow）：角色/世界观/卷纲/章节生成 + 一致性检查 + 伏笔追踪。 [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:57:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>citation-verification-skill (SteadfastAsArt/citation-verification-skill)</title>
+      <link>https://github.com/SteadfastAsArt/citation-verification-skill/blob/4f88c05c058b8b02ababb37c6256e20829545165/SKILL.md</link>
+      <guid isPermaLink="false">steadfastasart/citation-verification-skill:skill.md</guid>
+      <description>Skill from SteadfastAsArt/citation-verification-skill [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:57:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>LinkedIn-skill (ktg0066/LinkedIn-skill)</title>
+      <link>https://github.com/ktg0066/LinkedIn-skill/blob/e1f14caeb725f0318395f2d7564c2c67c3a1594a/SKILL.md</link>
+      <guid isPermaLink="false">ktg0066/linkedin-skill:skill.md</guid>
+      <description>A comprehensive, personalized Claude skill for building authentic LinkedIn thought leadership [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:57:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>content-factory (serejaris/content-factory)</title>
+      <link>https://github.com/serejaris/content-factory/blob/c285a9d6179769d28214b57228059ee7c1180b54/SKILL.md</link>
+      <guid isPermaLink="false">serejaris/content-factory:skill.md</guid>
+      <description>Content factory pipeline [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:57:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>gh-cli-mfts (diegosouzapw/awesome-omni-skill)</title>
+      <link>https://github.com/diegosouzapw/awesome-omni-skill/blob/a6b3c3005cedf056a48b084671c6282426d6e9fc/skills/tools/gh-cli-mfts/SKILL.md</link>
+      <guid isPermaLink="false">diegosouzapw/awesome-omni-skill:skills/tools/gh-cli-mfts/skill.md</guid>
+      <description>Repositorio Publico, agregador de skills [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>octocode (5dlabs/cto-agents)</title>
+      <link>https://github.com/5dlabs/cto-agents/blob/8422c67fadafe15248387f2c007b37f34610f0c4/tap/_default/octocode/SKILL.md</link>
+      <guid isPermaLink="false">5dlabs/cto-agents:tap/_default/octocode/skill.md</guid>
+      <description>Modular skill definitions for CTO platform agents — per-skill tarballs published via GitHub Releases [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>ai-news-digest-skill (erencoding/ai-news-digest-skill)</title>
+      <link>https://github.com/erencoding/ai-news-digest-skill/blob/85f59bdc7d6cbd571a3e1bf350f9d77b5713224d/SKILL.md</link>
+      <guid isPermaLink="false">erencoding/ai-news-digest-skill:skill.md</guid>
+      <description>AI News Digest — smol.ai news + GitHub stars [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>secure-web-search-ronnycoding-claude (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/755105dd8bed41af02a929fd4ca6cbe9e48721eb/skills/other/secure-web-search-ronnycoding-claude/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/secure-web-search-ronnycoding-claude/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:56:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>agent-deep-links (ComposioHQ/awesome-codex-skills)</title>
+      <link>https://github.com/ComposioHQ/awesome-codex-skills/blob/7ad4963a91569aa198da4d1a8c765fc4944da744/agent-deep-links/SKILL.md</link>
+      <guid isPermaLink="false">composiohq/awesome-codex-skills:agent-deep-links/skill.md</guid>
+      <description>A curated list of practical Codex skills for automating workflows across the Codex CLI and API. [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:56:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>pulse (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/755105dd8bed41af02a929fd4ca6cbe9e48721eb/skills/data/pulse/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/pulse/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:56:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>claude-token-hygiene (Growth4U-systems/claude-token-hygiene)</title>
+      <link>https://github.com/Growth4U-systems/claude-token-hygiene/blob/0aa353132fabee408c83fef1d1bae886e5c2b49e/SKILL.md</link>
+      <guid isPermaLink="false">growth4u-systems/claude-token-hygiene:skill.md</guid>
+      <description>Audit and reduce the hidden token overhead in every Claude Code conversation. Monthly skill + automation. [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>qiaomu-skill-publisher (joeseesun/qiaomu-skill-publisher)</title>
+      <link>https://github.com/joeseesun/qiaomu-skill-publisher/blob/cf66793852072a8a8b8b5398b93316ce10e6b467/SKILL.md</link>
+      <guid isPermaLink="false">joeseesun/qiaomu-skill-publisher:skill.md</guid>
+      <description>一键发布 Claude Code Skill 到 GitHub，自动验证、补全文件、创建仓库、推送并验证可安装。当用户说&quot;发布这个skill&quot;、&quot;publish skill&quot;、&quot;把skill发到GitHub&quot;、&quot;分享这个skill&quot;、&quot;/publish-skill&quot;时触发。支持发布当前目录或指定路径 [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>claude_code_product_skill (shangbian/claude_code_product_skill)</title>
+      <link>https://github.com/shangbian/claude_code_product_skill/blob/a32550d833154d5366e96ac4e1fe99e366a2b475/happy_skill.md</link>
+      <guid isPermaLink="false">shangbian/claude_code_product_skill:happy_skill.md</guid>
+      <description>Skill from shangbian/claude_code_product_skill [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>static (0xMiden/docs)</title>
+      <link>https://github.com/0xMiden/docs/blob/96b395646ef9fdd2c5db4f8b9680f76df7a62559/static/skill.md</link>
+      <guid isPermaLink="false">0xmiden/docs:static/skill.md</guid>
+      <description>Consolidated documentation for the Miden rollup [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>issue-action (fagemx/gstack-game)</title>
+      <link>https://github.com/fagemx/gstack-game/blob/20c2af0861f1884726c97d927d95b49e99215982/.claude/skills/issue-action/SKILL.md</link>
+      <guid isPermaLink="false">fagemx/gstack-game:.claude/skills/issue-action/skill.md</guid>
+      <description>Complete game production workflow for Claude Code — 27 skills from concept to shipped build. Design review, prototype planning, game feel diagnosis, playability assessment, QA with fix loop, and release. Built on gstack methodology. [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>skill-creator (senweaver/senweaver-ide)</title>
+      <link>https://github.com/senweaver/senweaver-ide/blob/71a5cfa8f986af64a50012dbc3b70af2f0bd0c64/.senweaver/skill/skill-creator/SKILL.md</link>
+      <guid isPermaLink="false">senweaver/senweaver-ide:.senweaver/skill/skill-creator/skill.md</guid>
+      <description>SenWeaver IDE — 开源多智能体协同 AI 编程平台，内置自主在线强化学习（APO）引擎。系统从每次用户交互中实时学习，可自建知识库等内部数据进行训练，自动优化 Prompt 策略，越用越智能。支持主 Agent + 子 Agent 并行协作、40+ 内置工具（文件/终端/搜索/文档/浏览器/视觉）、AI 代码安全检测与修复、WebRTC P2P 远程协作、多模型灵活切换（GPT/Claude/DeepSeek/Ollama 等）。MIT 协议完全开源，客户端与后端全栈可自主部署。 [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>genshin-data-generator (Kurarion/Genshin-Calc)</title>
+      <link>https://github.com/Kurarion/Genshin-Calc/blob/c7dd4d850db8523e33302e98d71d9e180605bd4e/.claude/skills/genshin-data-generator/SKILL.md</link>
+      <guid isPermaLink="false">kurarion/genshin-calc:.claude/skills/genshin-data-generator/skill.md</guid>
+      <description>Inteyvat | 因提瓦特 | インテイワット -  Genshin Impact Calculation Web App | 原神数值计算Web应用 | 原神数値計算Webアプリ [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>skill-builder (GodMode-Team/godmode)</title>
+      <link>https://github.com/GodMode-Team/godmode/blob/1ef8644250bbdbbe3163a3a7c8626bff23bd3731/skills/skill-builder/SKILL.md</link>
+      <guid isPermaLink="false">godmode-team/godmode:skills/skill-builder/skill.md</guid>
+      <description>Personal AI OS for Entrepreneurs. Ultimate OpenClaw setup in minutes. Experience frictionless flow states in your daily workspace — your AI Ally wielding 5-layer memory, commanding your agent army across every tool in your stack. Self-evolving. Sovereign. Modular. We distilled the best open source has to offer. [NOASSERTION]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>memory-init (vasilievyakov/miracle-infrastructure)</title>
+      <link>https://github.com/vasilievyakov/miracle-infrastructure/blob/83c37e2aef21067e1ac0a98c6dff0ddd21651e9e/skills/memory-init/SKILL.md</link>
+      <guid isPermaLink="false">vasilievyakov/miracle-infrastructure:skills/memory-init/skill.md</guid>
+      <description>17 skills for Claude Code: memory, decision-making, research, security, and business workflows. Zero dependencies. [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>top-movers (ClawLabsApp/clawlabs)</title>
+      <link>https://github.com/ClawLabsApp/clawlabs/blob/e31ea17211e1e60ad7e2a6afcb961860f0520c96/skills/top-movers/SKILL.md</link>
+      <guid isPermaLink="false">clawlabsapp/clawlabs:skills/top-movers/skill.md</guid>
+      <description>Skill from ClawLabsApp/clawlabs [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>openclaw-skill-client-report-generator (Jacknelson6/openclaw-skill-client-report-generator)</title>
+      <link>https://github.com/Jacknelson6/openclaw-skill-client-report-generator/blob/85dc48b3892b2e7e4bd76afdc522b45308ca4d6c/SKILL.md</link>
+      <guid isPermaLink="false">jacknelson6/openclaw-skill-client-report-generator:skill.md</guid>
+      <description>Free OpenClaw skill: client-report-generator [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>workflow (zfael/brn)</title>
+      <link>https://github.com/zfael/brn/blob/d5809621a3affa654035482c3afad777eb5351f6/skills/workflow/SKILL.md</link>
+      <guid isPermaLink="false">zfael/brn:skills/workflow/skill.md</guid>
+      <description>Skill from zfael/brn [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>git-commit (ChenYCL/claude-skills-collection)</title>
+      <link>https://github.com/ChenYCL/claude-skills-collection/blob/c1df687ab8c5636ab75e58cc3bacdace6acf438e/git-commit/SKILL.md</link>
+      <guid isPermaLink="false">chenycl/claude-skills-collection:git-commit/skill.md</guid>
+      <description>Skill from ChenYCL/claude-skills-collection [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ticket-intake (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/755105dd8bed41af02a929fd4ca6cbe9e48721eb/skills/data/ticket-intake/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/ticket-intake/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>.skills (Replikanti/flowlint-weblinter)</title>
+      <link>https://github.com/Replikanti/flowlint-weblinter/blob/877588cbdc6b9107466b598c9a979eb9de673bec/.skills/SKILL.md</link>
+      <guid isPermaLink="false">replikanti/flowlint-weblinter:.skills/skill.md</guid>
+      <description>For linting directly on the website. [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>create-config (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/755105dd8bed41af02a929fd4ca6cbe9e48721eb/skills/other/create-config/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/create-config/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>api-docs (Leechael/fastapi-api-docs-skills)</title>
+      <link>https://github.com/Leechael/fastapi-api-docs-skills/blob/37908622ae4fc35f2eae21c9de4398f245e59c9b/api-docs/SKILL.md</link>
+      <guid isPermaLink="false">leechael/fastapi-api-docs-skills:api-docs/skill.md</guid>
+      <description>Skill from Leechael/fastapi-api-docs-skills [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>spec (tunneleven/C4Flow)</title>
+      <link>https://github.com/tunneleven/C4Flow/blob/42871b0da212a96b0d025d3fb151d3c4ad3fb1d9/skills/spec/SKILL.md</link>
+      <guid isPermaLink="false">tunneleven/c4flow:skills/spec/skill.md</guid>
+      <description>Skill from tunneleven/C4Flow [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>llm-prompt-pro (angga30/antigravity-skill-tech-lead)</title>
+      <link>https://github.com/angga30/antigravity-skill-tech-lead/blob/694b5ea66080fc60aa52e32dec7466e286e50fda/llm-prompt-pro/SKILL.md</link>
+      <guid isPermaLink="false">angga30/antigravity-skill-tech-lead:llm-prompt-pro/skill.md</guid>
+      <description>Skill from angga30/antigravity-skill-tech-lead [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>gymexport (lcanis/gymexport)</title>
+      <link>https://github.com/lcanis/gymexport/blob/bd7426cdeda2e4fe7427147943ac27dd102eb66b/SKILL.md</link>
+      <guid isPermaLink="false">lcanis/gymexport:skill.md</guid>
+      <description>Export workout data from Technogym mywellness [NOASSERTION]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>testing-skill (majiayu000/claude-skill-registry)</title>
+      <link>https://github.com/majiayu000/claude-skill-registry/blob/755105dd8bed41af02a929fd4ca6cbe9e48721eb/skills/other/other/testing-skill/SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/other/testing-skill/skill.md</guid>
+      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>hospitalsanmiguel.org (Quina-Care/hospitalsanmiguel.org)</title>
+      <link>https://github.com/Quina-Care/hospitalsanmiguel.org/blob/3a7e47d8a475d0dafcf6c6cd1f4fd537ceaddb7d/SKILL.md</link>
+      <guid isPermaLink="false">quina-care/hospitalsanmiguel.org:skill.md</guid>
+      <description>Skill from Quina-Care/hospitalsanmiguel.org [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Darine_emballage (sidjamyl/Darine_emballage)</title>
+      <link>https://github.com/sidjamyl/Darine_emballage/blob/2f0ec20dc38f1cbe2ae3c04acc4a868592f8a105/SKILL.md</link>
+      <guid isPermaLink="false">sidjamyl/darine_emballage:skill.md</guid>
+      <description>Skill from sidjamyl/Darine_emballage [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>ffmpeg (LixvYang/ffmpeg-skills)</title>
+      <link>https://github.com/LixvYang/ffmpeg-skills/blob/59eb359cb6d74f6635ffc7cbe99c88a45c113037/skills/ffmpeg/SKILL.md</link>
+      <guid isPermaLink="false">lixvyang/ffmpeg-skills:skills/ffmpeg/skill.md</guid>
+      <description>Skill from LixvYang/ffmpeg-skills [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>php-pro (ncdevshiv/NC-skills-mcp)</title>
+      <link>https://github.com/ncdevshiv/NC-skills-mcp/blob/c22f52da306bd1276e622f2f3e6e1515a14b7b33/skills/php-pro/SKILL.md</link>
+      <guid isPermaLink="false">ncdevshiv/nc-skills-mcp:skills/php-pro/skill.md</guid>
+      <description>Skill from ncdevshiv/NC-skills-mcp [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>jaeger (davidcastagnetoa/skills)</title>
+      <link>https://github.com/davidcastagnetoa/skills/blob/bd906f22af8d9d2fd20bfe7c46da5a71857c559e/skills/jaeger/SKILL.md</link>
+      <guid isPermaLink="false">davidcastagnetoa/skills:skills/jaeger/skill.md</guid>
+      <description>Skill from davidcastagnetoa/skills [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>ralph-promax (dorukardahan/ralph-audit-commands)</title>
+      <link>https://github.com/dorukardahan/ralph-audit-commands/blob/aa60aea0e7abaf69f993d4984e0b8892920b2fec/ralph-promax/SKILL.md</link>
+      <guid isPermaLink="false">dorukardahan/ralph-audit-commands:ralph-promax/skill.md</guid>
+      <description>Iterative security audit commands for Claude Code [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>verify (aro-brez/the-seed-of-consciousness-kinda)</title>
+      <link>https://github.com/aro-brez/the-seed-of-consciousness-kinda/blob/dee9958081d4e5161b14ea284dc10e951e56d1e2/skills/verify/SKILL.md</link>
+      <guid isPermaLink="false">aro-brez/the-seed-of-consciousness-kinda:skills/verify/skill.md</guid>
+      <description>THE SEED - The function of love applied to consciousness. C = f(Connections × Integration × Recursion). Released to the public domain. [NOASSERTION]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>init (IKatsuba/skills)</title>
+      <link>https://github.com/IKatsuba/skills/blob/67796ffeb9848c295dd79b889a1af33bed881ffa/project/init/SKILL.md</link>
+      <guid isPermaLink="false">ikatsuba/skills:project/init/skill.md</guid>
+      <description>Skill from IKatsuba/skills [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>triage (whilp/working)</title>
+      <link>https://github.com/whilp/working/blob/15cb70bebe8ba321db9ed120734832d73a20f1c9/skills/triage/SKILL.md</link>
+      <guid isPermaLink="false">whilp/working:skills/triage/skill.md</guid>
+      <description>working in public [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>coding (victor-brechbill/claw-kernel)</title>
+      <link>https://github.com/victor-brechbill/claw-kernel/blob/bc16e4f53533e56697448d9163ae139b3c8cfe1f/skills/coding/SKILL.md</link>
+      <guid isPermaLink="false">victor-brechbill/claw-kernel:skills/coding/skill.md</guid>
+      <description>Openclaw fork stripped down and optimized for code development workflow [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>tenacity (davidcastagnetoa/skills)</title>
+      <link>https://github.com/davidcastagnetoa/skills/blob/bd906f22af8d9d2fd20bfe7c46da5a71857c559e/skills/tenacity/SKILL.md</link>
+      <guid isPermaLink="false">davidcastagnetoa/skills:skills/tenacity/skill.md</guid>
+      <description>Skill from davidcastagnetoa/skills [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>sap-mock-cf (SalvatoreApicella-dev/Role_Mining)</title>
+      <link>https://github.com/SalvatoreApicella-dev/Role_Mining/blob/b6014aa089ba79417e82fdca45eeef6389685892/sap-mock-cf/SKILL.md</link>
+      <guid isPermaLink="false">salvatoreapicella-dev/role_mining:sap-mock-cf/skill.md</guid>
+      <description>Skill from SalvatoreApicella-dev/Role_Mining [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>my-personal-website (camvandy/my-personal-website)</title>
+      <link>https://github.com/camvandy/my-personal-website/blob/29848cd705f2a6be873ade81de295da893c03141/SKILL.md</link>
+      <guid isPermaLink="false">camvandy/my-personal-website:skill.md</guid>
+      <description>Cameron Vandermeersch&apos;s Personal Website [GPL-3.0]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>review (impactcrew/dont-be-a-sloperator)</title>
+      <link>https://github.com/impactcrew/dont-be-a-sloperator/blob/ca93e4b408b7120348364c8a72171b73376aad2c/skills/review/SKILL.md</link>
+      <guid isPermaLink="false">impactcrew/dont-be-a-sloperator:skills/review/skill.md</guid>
+      <description>Don&apos;t be a sloperator. Ten rules that stop AI from writing and behaving like naked AI. Principle-based, not vocabulary bans. Includes a bonus /work skill that forces thinking before output. Works with Claude Code, ChatGPT, Gemini, or any LLM. [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>search (twelvelabs-io/twelve-labs-claude-code-plugin)</title>
+      <link>https://github.com/twelvelabs-io/twelve-labs-claude-code-plugin/blob/2a25a9c0e611c10df3f6d2e18e041db9f84da970/skills/search/SKILL.md</link>
+      <guid isPermaLink="false">twelvelabs-io/twelve-labs-claude-code-plugin:skills/search/skill.md</guid>
+      <description>A lightweight plugin that integrates TwelveLabs video understanding capabilities directly into Claude Code - enabling semantic video search and dynamic video analysis. [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>meta-join (trevorbyrum/claude-skills-suite)</title>
+      <link>https://github.com/trevorbyrum/claude-skills-suite/blob/8a1242d8f0d1424fc70a9386045ba1a9025689bc/skills/meta-join/SKILL.md</link>
+      <guid isPermaLink="false">trevorbyrum/claude-skills-suite:skills/meta-join/skill.md</guid>
+      <description>42 skills, 10 agents, 7 hooks for Claude Code. Multi-model orchestration across Claude, Codex, Gemini, Cursor, Copilot, and Vibe. [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>api-integration (mitkox/fteplusai)</title>
+      <link>https://github.com/mitkox/fteplusai/blob/7af47a9d8b8260234209d156c6449154bcabe3fc/skills/api-integration.skill.md</link>
+      <guid isPermaLink="false">mitkox/fteplusai:skills/api-integration.skill.md</guid>
+      <description>FTE+AI: Vendor Replacement Program Framework [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>architecture (actionhero/keryx)</title>
+      <link>https://github.com/actionhero/keryx/blob/375c269172f165cfa2fd0bd67c388743a8b4625a/.claude/skills/architecture.skill.md</link>
+      <guid isPermaLink="false">actionhero/keryx:.claude/skills/architecture.skill.md</guid>
+      <description>Keryx: The Fullstack TypeScript Framework for MCP and APIs [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ui_critic (GrizzwaldHouse/GameCompanionPlatform)</title>
+      <link>https://github.com/GrizzwaldHouse/GameCompanionPlatform/blob/e4211bce48bea55da4cd176792a52d2ba1ef7759/skills/ui_critic.skill.md</link>
+      <guid isPermaLink="false">grizzwaldhouse/gamecompanionplatform:skills/ui_critic.skill.md</guid>
+      <description>Skill from GrizzwaldHouse/GameCompanionPlatform [NOASSERTION]</description>
+      <pubDate>Mon, 27 Apr 2026 18:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Better-Prompt (1055373165/Better-Prompt)</title>
+      <link>https://github.com/1055373165/Better-Prompt/blob/e51543bf96c2bdfe2d94c243fdf455ac1140c676/prompt-engineering-skill.md</link>
+      <guid isPermaLink="false">1055373165/better-prompt:prompt-engineering-skill.md</guid>
+      <description>Write the best prompts for LLM [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deep-memory-skills (10kseason/Deep-memory-skills)</title>
+      <link>https://github.com/10kseason/Deep-memory-skills/blob/74e6cecc66c376d36005f012c5203b16ab1890b4/SKILL.md</link>
+      <guid isPermaLink="false">10kseason/deep-memory-skills:skill.md</guid>
+      <description>Codex skill for turning long engineering chats and project logs into compact, durable working memory. [Apache-2.0]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Antigravity-Filament-v4-skill (clarkrickman2/Antigravity-Filament-v4-skill)</title>
+      <link>https://github.com/clarkrickman2/Antigravity-Filament-v4-skill/blob/c125454f45727117ba25fd4b7328a6327f681525/SKILL.md</link>
+      <guid isPermaLink="false">clarkrickman2/antigravity-filament-v4-skill:skill.md</guid>
+      <description>Skill from clarkrickman2/Antigravity-Filament-v4-skill [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>nvim-lua-toolchain (HanakumaChifuyu/nvim-lua-toolchain)</title>
+      <link>https://github.com/HanakumaChifuyu/nvim-lua-toolchain/blob/43b27610fa1c5a258fd8d9155ea7588306fea662/SKILL.md</link>
+      <guid isPermaLink="false">hanakumachifuyu/nvim-lua-toolchain:skill.md</guid>
+      <description>A one-command scaffold for a complete code-quality and test toolchain in Neovim Lua plugin repositories. [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Paper2Protocol (ChrisLou-bioinfo/Paper2Protocol)</title>
+      <link>https://github.com/ChrisLou-bioinfo/Paper2Protocol/blob/8a8c665f43386a17c54695ac3d36ffd370fb4608/SKILL.md</link>
+      <guid isPermaLink="false">chrislou-bioinfo/paper2protocol:skill.md</guid>
+      <description>Transform published papers into actionable experimental validation plans with bioinformatics code [NOASSERTION]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>md-to-rednote (DjTaNg-404/md-to-rednote)</title>
+      <link>https://github.com/DjTaNg-404/md-to-rednote/blob/dea7016223381f8e17b7c119236cd1f5799e8a97/SKILL.md</link>
+      <guid isPermaLink="false">djtang-404/md-to-rednote:skill.md</guid>
+      <description>Skill from DjTaNg-404/md-to-rednote [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>video-analyzer-skill (bsisduck/video-analyzer-skill)</title>
+      <link>https://github.com/bsisduck/video-analyzer-skill/blob/fecff44c42b841b44fa444c0f3093479ed5c297d/SKILL.md</link>
+      <guid isPermaLink="false">bsisduck/video-analyzer-skill:skill.md</guid>
+      <description>Video analysis skill for Claude Code — frame extraction, scene detection, transcription, parallel subagent analysis [GPL-3.0]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>rtfm-testing (zscole/rtfm-testing)</title>
+      <link>https://github.com/zscole/rtfm-testing/blob/75f6d0cc7ea44823e1575a53b2302b85d9852ca5/SKILL.md</link>
+      <guid isPermaLink="false">zscole/rtfm-testing:skill.md</guid>
+      <description>RTFM Testing: Documentation quality methodology using fresh agent spawns [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>bolt-cppml (cogpy/bolt-cppml)</title>
+      <link>https://github.com/cogpy/bolt-cppml/blob/ac60179264ddda06aeafc700bbd23f2cb371ba34/SKILL.md</link>
+      <guid isPermaLink="false">cogpy/bolt-cppml:skill.md</guid>
+      <description>Skill from cogpy/bolt-cppml [AGPL-3.0]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>ymr (lnrdll/ymr)</title>
+      <link>https://github.com/lnrdll/ymr/blob/0c4f59ce25b48ee21eeb09940873ae3d5c38ef38/SKILL.md</link>
+      <guid isPermaLink="false">lnrdll/ymr:skill.md</guid>
+      <description>Lightweight, spec-driven YAML template tool [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>call-agents-help (heyuqiu2023/call-agents-help)</title>
+      <link>https://github.com/heyuqiu2023/call-agents-help/blob/78b8acc209bf304d415507a1ccc54c0f9aeeb364/SKILL.md</link>
+      <guid isPermaLink="false">heyuqiu2023/call-agents-help:skill.md</guid>
+      <description>OpenClaw skill — 召唤DeepSeek辅助AI参与Telegram群讨论 [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>openclaw-mcp-client (ImrKhn03/openclaw-mcp-client)</title>
+      <link>https://github.com/ImrKhn03/openclaw-mcp-client/blob/ddaa57203fd921f61f988c6b175b1ed42b53f642/SKILL.md</link>
+      <guid isPermaLink="false">imrkhn03/openclaw-mcp-client:skill.md</guid>
+      <description>Skill from ImrKhn03/openclaw-mcp-client [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>kuzenbo (DobroslavRadosavljevic/kuzenbo)</title>
+      <link>https://github.com/DobroslavRadosavljevic/kuzenbo/blob/5b9e9c164dd09fa874392c86a2728407a697287b/SKILL.md</link>
+      <guid isPermaLink="false">dobroslavradosavljevic/kuzenbo:skill.md</guid>
+      <description>A modern React component library that combines the best design patterns and features from shadcn, HeroUI, and Mantine. [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>markdown-mermaid-export (andeya/markdown-mermaid-export)</title>
+      <link>https://github.com/andeya/markdown-mermaid-export/blob/4ff1cd28fc9ed6993c917c6b2db3c1fc6d74250c/SKILL.md</link>
+      <guid isPermaLink="false">andeya/markdown-mermaid-export:skill.md</guid>
+      <description>A Cursor Skill that batch-renders Mermaid code blocks from Markdown files to SVG + PNG using the MermaidChart theme — pixel-accurate to the Cursor / VS Code extension preview. [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>skill-wizard (huoweijia2000-hue/skill-wizard)</title>
+      <link>https://github.com/huoweijia2000-hue/skill-wizard/blob/df1152ed18047ad88e69495659163339ae1cc1cc/SKILL.md</link>
+      <guid isPermaLink="false">huoweijia2000-hue/skill-wizard:skill.md</guid>
+      <description>Interactive wizard for creating Claude Code skills through guided conversation [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spec-Vibe-Coding (CheneyNine/Spec-Vibe-Coding)</title>
+      <link>https://github.com/CheneyNine/Spec-Vibe-Coding/blob/814c1668130fcaeef62b68ffcca907e73c715a2d/SKILL.md</link>
+      <guid isPermaLink="false">cheneynine/spec-vibe-coding:skill.md</guid>
+      <description>A Claude code skill that helps you write code effortlessly according to specifications. [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>functional-verification (tgoai/tgo)</title>
+      <link>https://github.com/tgoai/tgo/blob/5f88138a3a662f865e34c65a120647dbf6c5808b/.skills/functional-verification/SKILL.md</link>
+      <guid isPermaLink="false">tgoai/tgo:.skills/functional-verification/skill.md</guid>
+      <description>Open-source AI Agent Customer Service Platform. Build AI agent teams with LLM orchestration, RAG knowledge base, multi-channel support, and human collaboration. [NOASSERTION]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>view-bmad (pomazanbohdan/memory-mcp-1file)</title>
+      <link>https://github.com/pomazanbohdan/memory-mcp-1file/blob/bff9dfceff21a99e62fa126346796bbf47835b56/.agent/skills/view-bmad/SKILL.md</link>
+      <guid isPermaLink="false">pomazanbohdan/memory-mcp-1file:.agent/skills/view-bmad/skill.md</guid>
+      <description>Skill from pomazanbohdan/memory-mcp-1file [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>pennant-development (laravel/boost)</title>
+      <link>https://github.com/laravel/boost/blob/5385e309a5c8b235570f89074357a3168d2a4b1b/.ai/pennant/skill/pennant-development/SKILL.md</link>
+      <guid isPermaLink="false">laravel/boost:.ai/pennant/skill/pennant-development/skill.md</guid>
+      <description>Laravel-focused MCP server for augmenting your AI powered local development experience. [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>obsidian-markdown (cpp-for-everything/ORM)</title>
+      <link>https://github.com/cpp-for-everything/ORM/blob/e8fa1a31bbb7d82a23d441bb48919fdab51d7895/.ai/skills/obsidian-markdown/SKILL.md</link>
+      <guid isPermaLink="false">cpp-for-everything/orm:.ai/skills/obsidian-markdown/skill.md</guid>
+      <description>Skill from cpp-for-everything/ORM [GPL-3.0]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>write-spec (SanderMuller/laravel-fluent-validation)</title>
+      <link>https://github.com/SanderMuller/laravel-fluent-validation/blob/70049807123782bc987af369b8b97e51f075d79a/.ai/skills/write-spec/SKILL.md</link>
+      <guid isPermaLink="false">sandermuller/laravel-fluent-validation:.ai/skills/write-spec/skill.md</guid>
+      <description>Fluent and extremely fast validation for Laravel [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>bug-fixing (SanderMuller/laravel-fluent-validation)</title>
+      <link>https://github.com/SanderMuller/laravel-fluent-validation/blob/70049807123782bc987af369b8b97e51f075d79a/.ai/skills/bug-fixing/SKILL.md</link>
+      <guid isPermaLink="false">sandermuller/laravel-fluent-validation:.ai/skills/bug-fixing/skill.md</guid>
+      <description>Fluent and extremely fast validation for Laravel [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>code (vinnie357/claude-skills)</title>
+      <link>https://github.com/vinnie357/claude-skills/blob/63512c39c01c1a4e7741a2ae2361401497e44ae5/plugins/tools/slidev/skills/code/SKILL.md</link>
+      <guid isPermaLink="false">vinnie357/claude-skills:plugins/tools/slidev/skills/code/skill.md</guid>
+      <description>claude code skills [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>foreman-spec (mylukin/agent-foreman)</title>
+      <link>https://github.com/mylukin/agent-foreman/blob/2763f83578d63440e20a5f8cf16a3c2b652673c9/plugins/agent-foreman/skills/foreman-spec/SKILL.md</link>
+      <guid isPermaLink="false">mylukin/agent-foreman:plugins/agent-foreman/skills/foreman-spec/skill.md</guid>
+      <description>Stop AI agents from half-building features. Ship complete code in one session. [None]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>query (mlld-lang/mlld)</title>
+      <link>https://github.com/mlld-lang/mlld/blob/3a9e9bc0a2496f302df8eda3f14a2a307e53b300/plugins/mlld/skills/query/SKILL.md</link>
+      <guid isPermaLink="false">mlld-lang/mlld:plugins/mlld/skills/query/skill.md</guid>
+      <description>Skill from mlld-lang/mlld [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:54:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>promptlint (AryaanSheth/promptlint)</title>
+      <link>https://github.com/AryaanSheth/promptlint/blob/d6e12cfd912ae9d4fb5b3529f19363a2380ad5f0/.cursor/skills/promptlint/SKILL.md</link>
+      <guid isPermaLink="false">aryaansheth/promptlint:.cursor/skills/promptlint/skill.md</guid>
+      <description>ESLint for AI prompts [Apache-2.0]</description>
+      <pubDate>Mon, 27 Apr 2026 18:53:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>acm (david-2814/claw-aws)</title>
+      <link>https://github.com/david-2814/claw-aws/blob/0938f113074517758b502e1c7e898222dba5eb1d/skills/acm/SKILL.md</link>
+      <guid isPermaLink="false">david-2814/claw-aws:skills/acm/skill.md</guid>
+      <description>OpenClaw AWS skills collection [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:53:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>ai-bsp-agent (jonaschen/ai-bsp-agent)</title>
+      <link>https://github.com/jonaschen/ai-bsp-agent/blob/80512f439421d921607004d8eb2ed4e85602ee1a/skills/SKILL.md</link>
+      <guid isPermaLink="false">jonaschen/ai-bsp-agent:skills/skill.md</guid>
+      <description>This repository hosts the Recursive Cognitive Software Factory, a specialized multi-agent system designed to autonomously build, verify, and maintain high-quality software products.  The primary product being built is the Android BSP Consultant. [MIT]</description>
+      <pubDate>Mon, 27 Apr 2026 18:53:34 GMT</pubDate>
+    </item>
     <item>
       <title>gh-cli (jcasnellie69/homelab-config)</title>
       <link>https://github.com/jcasnellie69/homelab-config/blob/5b111cb7f2f4d8d7b72190635e28548abab89e36/.goose/skills/gh-cli/SKILL.md</link>
@@ -138,573 +705,6 @@
       <guid isPermaLink="false">d3nd3/sof_buddy:.cursor/skills/new-release/skill.md</guid>
       <description>sofplus/wsock wrapper providing quality of life improvements to sof1 (soldier of fortune 1) [MIT]</description>
       <pubDate>Sun, 26 Apr 2026 23:25:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>wifi (DotNetAge/mindx)</title>
-      <link>https://github.com/DotNetAge/mindx/blob/0a4d69419aa8634ddc8474dc260ebc7732a06ee0/skills/wifi/SKILL.md</link>
-      <guid isPermaLink="false">dotnetage/mindx:skills/wifi/skill.md</guid>
-      <description>一个可自主进化的数字化分身 [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 21:30:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>mail (DotNetAge/mindx)</title>
-      <link>https://github.com/DotNetAge/mindx/blob/0a4d69419aa8634ddc8474dc260ebc7732a06ee0/skills/mail/SKILL.md</link>
-      <guid isPermaLink="false">dotnetage/mindx:skills/mail/skill.md</guid>
-      <description>一个可自主进化的数字化分身 [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 21:30:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>skill-builder (davidgfolch/AI-job-search)</title>
-      <link>https://github.com/davidgfolch/AI-job-search/blob/d2aa4c474893cc62431874cc47c2bf5a697b8828/.claude/skills/skill-builder/SKILL.md</link>
-      <guid isPermaLink="false">davidgfolch/ai-job-search:.claude/skills/skill-builder/skill.md</guid>
-      <description>Job offers scrapper, AI enrichment &amp; UI search &amp; management tool [None]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>init_skill (bitwikiorg/skills.md)</title>
-      <link>https://github.com/bitwikiorg/skills.md/blob/66c3e1d569dfd3e2191263d10b363a1c64fc5f12/sources/openai/init_skill/SKILL.md</link>
-      <guid isPermaLink="false">bitwikiorg/skills.md:sources/openai/init_skill/skill.md</guid>
-      <description>Skill from bitwikiorg/skills.md [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>skill-eval (thrawny/dotfiles)</title>
-      <link>https://github.com/thrawny/dotfiles/blob/82fe150f05c77b86b00c8c5561d2b16ce132966c/skills/skill-eval/SKILL.md</link>
-      <guid isPermaLink="false">thrawny/dotfiles:skills/skill-eval/skill.md</guid>
-      <description>My dotfiles [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>skill-manager (oiiiwjh/skills)</title>
-      <link>https://github.com/oiiiwjh/skills/blob/6371cc54a7c20066161ba1785bfe204b2b1cf9e8/skill-manager/SKILL.md</link>
-      <guid isPermaLink="false">oiiiwjh/skills:skill-manager/skill.md</guid>
-      <description>skills for opencode, claude, gemini [None]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>skill-builder (wrsmith108/skill-builder-claude-skill)</title>
-      <link>https://github.com/wrsmith108/skill-builder-claude-skill/blob/14761c30e2553baeabd1891c0b9f2076783dbd9f/skills/skill-builder/SKILL.md</link>
-      <guid isPermaLink="false">wrsmith108/skill-builder-claude-skill:skills/skill-builder/skill.md</guid>
-      <description>Claude Code skill for creating new skills with templates and best practices [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>init_skill (bitwikiorg/skills.md)</title>
-      <link>https://github.com/bitwikiorg/skills.md/blob/66c3e1d569dfd3e2191263d10b363a1c64fc5f12/sources/anthropic/init_skill/SKILL.md</link>
-      <guid isPermaLink="false">bitwikiorg/skills.md:sources/anthropic/init_skill/skill.md</guid>
-      <description>Skill from bitwikiorg/skills.md [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>package_skill (bitwikiorg/skills.md)</title>
-      <link>https://github.com/bitwikiorg/skills.md/blob/66c3e1d569dfd3e2191263d10b363a1c64fc5f12/sources/openai/package_skill/SKILL.md</link>
-      <guid isPermaLink="false">bitwikiorg/skills.md:sources/openai/package_skill/skill.md</guid>
-      <description>Skill from bitwikiorg/skills.md [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>skill-creator-cc (okwinds/miscellany)</title>
-      <link>https://github.com/okwinds/miscellany/blob/0c8f77f97ba4ed1647794438248584a05a4f8cae/agent/skills/skill-creator-cc/SKILL.md</link>
-      <guid isPermaLink="false">okwinds/miscellany:agent/skills/skill-creator-cc/skill.md</guid>
-      <description>Let it be [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>brainy (zorcec/brainy)</title>
-      <link>https://github.com/zorcec/brainy/blob/128c17f8392feaf9c7b2807a4e8d56c39865debe/packages/vscode-extension/src/mcp/help/execute-skill.md</link>
-      <guid isPermaLink="false">zorcec/brainy:packages/vscode-extension/src/mcp/help/execute-skill.md</guid>
-      <description>Skill from zorcec/brainy [NOASSERTION]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>recall (pixell-global/sayou)</title>
-      <link>https://github.com/pixell-global/sayou/blob/7fc503b638124f01f41d439313c605f0e79e1c6e/skills/recall/SKILL.md</link>
-      <guid isPermaLink="false">pixell-global/sayou:skills/recall/skill.md</guid>
-      <description>The persistent workspace for AI agents [Apache-2.0]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>push (adaptivekind/skills)</title>
-      <link>https://github.com/adaptivekind/skills/blob/a289a687e7bcfed7537a87480925849b97cf4723/skills/push/SKILL.md</link>
-      <guid isPermaLink="false">adaptivekind/skills:skills/push/skill.md</guid>
-      <description>skills [Apache-2.0]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>amp-handoff (dropalltables/rossettastone)</title>
-      <link>https://github.com/dropalltables/rossettastone/blob/052e26a1bc4ccf96807856cd11d7dd9c7fa9c6c4/amp-handoff/SKILL.md</link>
-      <guid isPermaLink="false">dropalltables/rossettastone:amp-handoff/skill.md</guid>
-      <description>a bridge between amp and claude code [None]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>btr-list (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/1ab7f95ede3108e989a518a3b5d7232375857b70/skills/data/btr-list/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/btr-list/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>dominant-color (resultanyildizi/skills)</title>
-      <link>https://github.com/resultanyildizi/skills/blob/f88eadc9357bf7831d34e35f35382525f590c513/dominant-color/SKILL.md</link>
-      <guid isPermaLink="false">resultanyildizi/skills:dominant-color/skill.md</guid>
-      <description>My personal collection of custom skills for Claude Code [None]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>draft-post (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/1ab7f95ede3108e989a518a3b5d7232375857b70/skills/data/draft-post/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/draft-post/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>tasks (IKatsuba/skills)</title>
-      <link>https://github.com/IKatsuba/skills/blob/67796ffeb9848c295dd79b889a1af33bed881ffa/spec/tasks/SKILL.md</link>
-      <guid isPermaLink="false">ikatsuba/skills:spec/tasks/skill.md</guid>
-      <description>Skill from IKatsuba/skills [None]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>ml-pipeline (inbharatai/claude-skills)</title>
-      <link>https://github.com/inbharatai/claude-skills/blob/02077f8b2c05946a71fa087dee6d614c0b4e4e0d/skills/ml-pipeline/SKILL.md</link>
-      <guid isPermaLink="false">inbharatai/claude-skills:skills/ml-pipeline/skill.md</guid>
-      <description>183+ Claude AI Skills — the most comprehensive Claude skills collection on the internet. 10x anthropics/skills. [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>commit (goffity/dev-km)</title>
-      <link>https://github.com/goffity/dev-km/blob/7bcd2846f3bde213c12b5f6392da0241754bd7aa/skills/commit/SKILL.md</link>
-      <guid isPermaLink="false">goffity/dev-km:skills/commit/skill.md</guid>
-      <description>4-layer knowledge capture system for development sessions [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>system-design (mbuyco/agent-skills)</title>
-      <link>https://github.com/mbuyco/agent-skills/blob/fecd08129970e1a45ce86f40d18f0c409d330ba6/system-design/SKILL.md</link>
-      <guid isPermaLink="false">mbuyco/agent-skills:system-design/skill.md</guid>
-      <description>Skill from mbuyco/agent-skills [GPL-3.0]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>swarm-skill (goffity/swarm-skill)</title>
-      <link>https://github.com/goffity/swarm-skill/blob/73eebad213523a310cfaeac812e65f949f4adf9b/SKILL.md</link>
-      <guid isPermaLink="false">goffity/swarm-skill:skill.md</guid>
-      <description>Skill from goffity/swarm-skill [None]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>portfolio (amirbiron/portfolio)</title>
-      <link>https://github.com/amirbiron/portfolio/blob/992d1d7a88f9ba4136b470ab11bc6f33913efbe6/SKILL.md</link>
-      <guid isPermaLink="false">amirbiron/portfolio:skill.md</guid>
-      <description>Skill from amirbiron/portfolio [None]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>gcp-iam (sitharaj88/claude-skills)</title>
-      <link>https://github.com/sitharaj88/claude-skills/blob/2a578187dccb3262b9a48c8587850e6ab49fcfc0/skills/gcp-iam/SKILL.md</link>
-      <guid isPermaLink="false">sitharaj88/claude-skills:skills/gcp-iam/skill.md</guid>
-      <description>Skill from sitharaj88/claude-skills [None]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>research (olostep/olostep-claude-code-plugin)</title>
-      <link>https://github.com/olostep/olostep-claude-code-plugin/blob/b32ad4d5f459821e331fe00fe942aa28a4ee5ea3/skills/research/SKILL.md</link>
-      <guid isPermaLink="false">olostep/olostep-claude-code-plugin:skills/research/skill.md</guid>
-      <description>Claude Code Marketplace plugin for the Olostep API — the web scraping, crawling, and search infrastructure used by top AI companies. Gives Claude Code full access to live web data, structured extraction, and natural language answers from any URL. [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>scraper (sumeromer/10xgenomics-dataset-scraper)</title>
-      <link>https://github.com/sumeromer/10xgenomics-dataset-scraper/blob/eace0b05eed7f1a4f7e870b14f67ae3025d95872/skills/scraper/SKILL.md</link>
-      <guid isPermaLink="false">sumeromer/10xgenomics-dataset-scraper:skills/scraper/skill.md</guid>
-      <description>Skill from sumeromer/10xgenomics-dataset-scraper [None]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>prompt-elo (bicro/PromptElo)</title>
-      <link>https://github.com/bicro/PromptElo/blob/5290f43eac4824787e03252c49fa19207cb4dc43/skills/prompt-elo/SKILL.md</link>
-      <guid isPermaLink="false">bicro/promptelo:skills/prompt-elo/skill.md</guid>
-      <description>Skill from bicro/PromptElo [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>foundry (melek/lcars)</title>
-      <link>https://github.com/melek/lcars/blob/6dd4dc3a6534b1b86908713f1662d59c231708c4/skills/foundry/SKILL.md</link>
-      <guid isPermaLink="false">melek/lcars:skills/foundry/skill.md</guid>
-      <description>A Claude Code plugin that reduces filler, preambles, and low-density responses. [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 21:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>agents (Insightpulseai/agents)</title>
-      <link>https://github.com/Insightpulseai/agents/blob/10ad450e7d469b772f556bb1a76f7d07b8d3d83e/agents/DeploymentOrchestrator.SKILL.md</link>
-      <guid isPermaLink="false">insightpulseai/agents:agents/deploymentorchestrator.skill.md</guid>
-      <description>Agent personas, skills, judges, evals, metadata, registries, and prompt contracts [None]</description>
-      <pubDate>Sun, 26 Apr 2026 21:25:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>fuzz (florianbuetow/claude-code)</title>
-      <link>https://github.com/florianbuetow/claude-code/blob/c07cd306b23f363f968f7d25b106529c82e87499/plugins/appsec/skills/fuzz/SKILL.md</link>
-      <guid isPermaLink="false">florianbuetow/claude-code:plugins/appsec/skills/fuzz/skill.md</guid>
-      <description>Skill from florianbuetow/claude-code [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 21:25:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>hud (mazenyassergithub/oh-my-claudecode)</title>
-      <link>https://github.com/mazenyassergithub/oh-my-claudecode/blob/e693c670cbfd589b1d5fc3460cb7c91c76c4bfc7/skills/hud/SKILL.md</link>
-      <guid isPermaLink="false">mazenyassergithub/oh-my-claudecode:skills/hud/skill.md</guid>
-      <description>🤖 Orchestrate multi-agent tasks effortlessly with oh-my-claudecode. Enjoy zero learning curve while leveraging Claude Code for your projects. [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 21:25:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>ci (lylo/pagecord)</title>
-      <link>https://github.com/lylo/pagecord/blob/99187b8539daa3e8cb7acb93a7788ee0b8eefe12/.claude/skills/ci/SKILL.md</link>
-      <guid isPermaLink="false">lylo/pagecord:.claude/skills/ci/skill.md</guid>
-      <description>Blogging as easy as sending an email. [NOASSERTION]</description>
-      <pubDate>Sun, 26 Apr 2026 21:25:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>d2 (LiorCohen/sdd)</title>
-      <link>https://github.com/LiorCohen/sdd/blob/a8a1cadb48f764aa6ab8f9a4ea6639a9de6863b1/.claude/skills/d2/SKILL.md</link>
-      <guid isPermaLink="false">liorcohen/sdd:.claude/skills/d2/skill.md</guid>
-      <description>Spec-driven development (SDD) plugin for Claude Code — a collection of specialized AI agents, phased implementation plans, and verified code generation for full-stack teams [None]</description>
-      <pubDate>Sun, 26 Apr 2026 21:25:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>watchcow-labels-skill (tf4fun/watchcow)</title>
-      <link>https://github.com/tf4fun/watchcow/blob/be9347ca86ad5fb33b68fb62ef8dabfb20900f36/watchcow-labels-skill/SKILL.md</link>
-      <guid isPermaLink="false">tf4fun/watchcow:watchcow-labels-skill/skill.md</guid>
-      <description>Skill from tf4fun/watchcow [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 20:04:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inhaus_Brain (nicolasnorton/Inhaus_Brain)</title>
-      <link>https://github.com/nicolasnorton/Inhaus_Brain/blob/4e53e7011dd2a84bbcf3a99f1aa07acd9b225b6a/.agent/skills/report_lm_skill.md</link>
-      <guid isPermaLink="false">nicolasnorton/inhaus_brain:.agent/skills/report_lm_skill.md</guid>
-      <description>Agentic Workflow Management App for Marketing Agencies [None]</description>
-      <pubDate>Sun, 26 Apr 2026 20:03:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>gh-cli-yharuto0917 (diegosouzapw/awesome-omni-skill)</title>
-      <link>https://github.com/diegosouzapw/awesome-omni-skill/blob/a6b3c3005cedf056a48b084671c6282426d6e9fc/skills/tools/gh-cli-yharuto0917/SKILL.md</link>
-      <guid isPermaLink="false">diegosouzapw/awesome-omni-skill:skills/tools/gh-cli-yharuto0917/skill.md</guid>
-      <description>Repositorio Publico, agregador de skills [None]</description>
-      <pubDate>Sun, 26 Apr 2026 19:30:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>lazy-agent (runpod/lazy-agent)</title>
-      <link>https://github.com/runpod/lazy-agent/blob/2b9a3e1d993865119fb65452ade03b8fcda5e120/skills/agent-skills/templates/orchestrator-skill.md</link>
-      <guid isPermaLink="false">runpod/lazy-agent:skills/agent-skills/templates/orchestrator-skill.md</guid>
-      <description>Like LazyVim, but for terminal-based AI agent workflows. Get a beautiful, productive terminal setup in minutes. [None]</description>
-      <pubDate>Sun, 26 Apr 2026 19:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>carplay (ios-agent/iosagent.dev)</title>
-      <link>https://github.com/ios-agent/iosagent.dev/blob/55885638c5dfbd8026f63ee89e07f46a715fd420/carplay/SKILL.md</link>
-      <guid isPermaLink="false">ios-agent/iosagent.dev:carplay/skill.md</guid>
-      <description>Skill from ios-agent/iosagent.dev [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>organize-project (ialameh/sift-coder)</title>
-      <link>https://github.com/ialameh/sift-coder/blob/16da8ad6dc0aec836335f8507961ec7727e329b7/skills/organize-project/SKILL.md</link>
-      <guid isPermaLink="false">ialameh/sift-coder:skills/organize-project/skill.md</guid>
-      <description>Skill from ialameh/sift-coder [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>done (michael-menard/monorepo)</title>
-      <link>https://github.com/michael-menard/monorepo/blob/464855e61de05b15ef0ec6ccd0a152ccc0cbc577/.claude/skills/done/SKILL.md</link>
-      <guid isPermaLink="false">michael-menard/monorepo:.claude/skills/done/skill.md</guid>
-      <description>a monorepo architecture [None]</description>
-      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pro-Trader-PLUGIN (oabdelmaksoud/Pro-Trader-PLUGIN)</title>
-      <link>https://github.com/oabdelmaksoud/Pro-Trader-PLUGIN/blob/9571086bc6357109ede070bed8c01b042691208f/SKILL.md</link>
-      <guid isPermaLink="false">oabdelmaksoud/pro-trader-plugin:skill.md</guid>
-      <description>🦅 Autonomous multi-agent paper trading system — 5 LLM scans/day, real-time CBOE options, 24/7 Discord alerts, Alpaca execution. K → M goal. [Apache-2.0]</description>
-      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>terraform (vnord/skills)</title>
-      <link>https://github.com/vnord/skills/blob/58361a8cd6be5f07d42dc9e96f728dfb65242696/terraform/SKILL.md</link>
-      <guid isPermaLink="false">vnord/skills:terraform/skill.md</guid>
-      <description>Skill from vnord/skills [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>architect (ibnuhalimm/claude-code-resources)</title>
-      <link>https://github.com/ibnuhalimm/claude-code-resources/blob/cf260d4ebc4a51288e0a5d0086cd5a1fdfb60341/skills/architect/SKILL.md</link>
-      <guid isPermaLink="false">ibnuhalimm/claude-code-resources:skills/architect/skill.md</guid>
-      <description>Claude code slash commands templates [None]</description>
-      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>uspec-structure (CodeMachine0121/uspec-claude-skill)</title>
-      <link>https://github.com/CodeMachine0121/uspec-claude-skill/blob/c201bf55b2eae7b3236dc54477d9ce3e06d624d3/uspec-structure/SKILL.md</link>
-      <guid isPermaLink="false">codemachine0121/uspec-claude-skill:uspec-structure/skill.md</guid>
-      <description>It&apos;s a skill based on uspec [None]</description>
-      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>wso2-mi-troubleshooting (Mantene/wso2-mi-troubleshooting)</title>
-      <link>https://github.com/Mantene/wso2-mi-troubleshooting/blob/cfb7c52c56e153a0476d87829da031d0586581b8/SKILL.md</link>
-      <guid isPermaLink="false">mantene/wso2-mi-troubleshooting:skill.md</guid>
-      <description>WSO2 Micro Integrator troubleshooting skill for OpenClaw - diagnoses Management API auth issues and common problems [None]</description>
-      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>goals (austindixson/overclaw)</title>
-      <link>https://github.com/austindixson/overclaw/blob/5bc43afbb012d985f24f453ec18d2ac8e41616e1/skills/goals/SKILL.md</link>
-      <guid isPermaLink="false">austindixson/overclaw:skills/goals/skill.md</guid>
-      <description>OverClaw — nanobot + overstory hybrid AI agent orchestration. Local Ollama Mistral orchestrator with Claude Code agent swarm, Playwright MCP, creative agents, and bidirectional memory. [None]</description>
-      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>solana-rouquin (magikcypress/solana-rouquin)</title>
-      <link>https://github.com/magikcypress/solana-rouquin/blob/90f0d1c87f09ad07e7c7a7dff2e7c6bdd582b107/SKILL.md</link>
-      <guid isPermaLink="false">magikcypress/solana-rouquin:skill.md</guid>
-      <description>Rouquin (ROUQ) - Token SPL on Solana Devnet [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>earthquake-ai (oceanicdayi/Seismology_day1)</title>
-      <link>https://github.com/oceanicdayi/Seismology_day1/blob/589b75de6e615c75f6a8bf6d2e9286343c522d73/skills/earthquake-ai/SKILL.md</link>
-      <guid isPermaLink="false">oceanicdayi/seismology_day1:skills/earthquake-ai/skill.md</guid>
-      <description>Skill from oceanicdayi/Seismology_day1 [None]</description>
-      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>graph-operator (guyfromthesky/LOGOS)</title>
-      <link>https://github.com/guyfromthesky/LOGOS/blob/354a5d870580488e00374c9f5c31a5b9416cbcc2/skills/graph-operator/SKILL.md</link>
-      <guid isPermaLink="false">guyfromthesky/logos:skills/graph-operator/skill.md</guid>
-      <description>AI Native Language [AGPL-3.0]</description>
-      <pubDate>Sun, 26 Apr 2026 19:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>cht-specialist (inromualdo/cht-specialist)</title>
-      <link>https://github.com/inromualdo/cht-specialist/blob/2957d3b9090cf50bdf9786d10b8309eb58d97e3f/SKILL.md</link>
-      <guid isPermaLink="false">inromualdo/cht-specialist:skill.md</guid>
-      <description>Claude Code skill for Community Health Toolkit (CHT) development and configuration [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:44:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>doc-coauthoring (joneshong-skills/doc-coauthoring)</title>
-      <link>https://github.com/joneshong-skills/doc-coauthoring/blob/821c8d392dd1780884ae77cf59adbf4009d468b7/SKILL.md</link>
-      <guid isPermaLink="false">joneshong-skills/doc-coauthoring:skill.md</guid>
-      <description>Structured workflow for collaborative document co-authoring [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:44:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>ssq-predictor (ma-pony/ssq-predictor)</title>
-      <link>https://github.com/ma-pony/ssq-predictor/blob/110ef884b8e0b4c408759628b5724d8a59ce43d4/SKILL.md</link>
-      <guid isPermaLink="false">ma-pony/ssq-predictor:skill.md</guid>
-      <description>双色球预测分析 Agent Skill，融合概率统计、物理学、易经玄学三维度分析，支持 Claude Code / Cursor / Windsurf / Codex CLI [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:44:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>vibe-code-health-check (FuzulsFriend/vibe-code-health-check)</title>
-      <link>https://github.com/FuzulsFriend/vibe-code-health-check/blob/5690ba6a6c137054ab81d16871b4b71018dafad9/SKILL.md</link>
-      <guid isPermaLink="false">fuzulsfriend/vibe-code-health-check:skill.md</guid>
-      <description>Claude Code skill: grades your codebase A through F across 6 health dimensions with plain-English fixes — built for vibe coders and solo founders [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:44:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>vcon-expert-skill (tresic-cloud/vcon-expert-skill)</title>
-      <link>https://github.com/tresic-cloud/vcon-expert-skill/blob/77a63edc689f8a07b3d5cb2b611ba610fa7c3d0e/SKILL.md</link>
-      <guid isPermaLink="false">tresic-cloud/vcon-expert-skill:skill.md</guid>
-      <description>Claude Skill for VCONs [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 17:44:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>sqlite-zod-orm (7flash/sqlite-zod-orm)</title>
-      <link>https://github.com/7flash/sqlite-zod-orm/blob/033d825fe7cd58c01e5457f34c8fa486195c4f2c/SKILL.md</link>
-      <guid isPermaLink="false">7flash/sqlite-zod-orm:skill.md</guid>
-      <description>Skill from 7flash/sqlite-zod-orm [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:44:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>gh-cli (jcasnellie69/homelab-config)</title>
-      <link>https://github.com/jcasnellie69/homelab-config/blob/5b111cb7f2f4d8d7b72190635e28548abab89e36/.augment/skills/gh-cli/SKILL.md</link>
-      <guid isPermaLink="false">jcasnellie69/homelab-config:.augment/skills/gh-cli/skill.md</guid>
-      <description>An Unexpected Journey [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>github-ai-stars (erencoding/agent-skill-openclaw)</title>
-      <link>https://github.com/erencoding/agent-skill-openclaw/blob/a1ca00abd2bcfbac02c461c58f410e1e207a31f5/custom-skills/github-ai-stars/SKILL.md</link>
-      <guid isPermaLink="false">erencoding/agent-skill-openclaw:custom-skills/github-ai-stars/skill.md</guid>
-      <description>Custom OpenClaw agent skills [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>diapos (sichengchen/diapos)</title>
-      <link>https://github.com/sichengchen/diapos/blob/8dc4f25c6fa3088f1cd318bb72cae04d3f44eb9b/specs/agent-skill.md</link>
-      <guid isPermaLink="false">sichengchen/diapos:specs/agent-skill.md</guid>
-      <description>Producing presentations and slides with React. 📽️⚛️ [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>refactor-skill (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/1ab7f95ede3108e989a518a3b5d7232375857b70/skills/data/refactor-skill/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/refactor-skill/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>rv-toolkit (AmitabhainArunachala/clawd)</title>
-      <link>https://github.com/AmitabhainArunachala/clawd/blob/c553ec972ff790ae0d86aa20f4237eea485942d2/skills/rv-toolkit/SKILL.md</link>
-      <guid isPermaLink="false">amitabhainarunachala/clawd:skills/rv-toolkit/skill.md</guid>
-      <description>Dharmic Claw - Multi-agent content factory and coordination protocol [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>polish-repo (continuedev/skills)</title>
-      <link>https://github.com/continuedev/skills/blob/0b0ace0a00495ba23c913fa6733fbf5f81bea338/polish-repo/SKILL.md</link>
-      <guid isPermaLink="false">continuedev/skills:polish-repo/skill.md</guid>
-      <description>Skill from continuedev/skills [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>jira-cli (SecKatie/kmtools)</title>
-      <link>https://github.com/SecKatie/kmtools/blob/7e32bf1e4305bf3d97439f6bda344e54da3f912c/jira-cli/SKILL.md</link>
-      <guid isPermaLink="false">seckatie/kmtools:jira-cli/skill.md</guid>
-      <description>Lola module for a variety of tools that I use [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>skill-creator (chandima/opencode-config)</title>
-      <link>https://github.com/chandima/opencode-config/blob/3b9975793acdce031b97e55707840024b9896560/skills/skill-creator/SKILL.md</link>
-      <guid isPermaLink="false">chandima/opencode-config:skills/skill-creator/skill.md</guid>
-      <description>Skill from chandima/opencode-config [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>brain_feedback (scalytics/KafGraph)</title>
-      <link>https://github.com/scalytics/KafGraph/blob/2fec9b3862a13f0d9a957e32410f615bf652f24e/skills/brain_feedback/SKILL.md</link>
-      <guid isPermaLink="false">scalytics/kafgraph:skills/brain_feedback/skill.md</guid>
-      <description>A distributed graph database written in Golang to capture reflection and learning processes of interacting agents. [Apache-2.0]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>create (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/1ab7f95ede3108e989a518a3b5d7232375857b70/skills/other/create/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/other/create/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>git-workflow (sernafernando/pricing-app)</title>
-      <link>https://github.com/sernafernando/pricing-app/blob/54d88f0580032609cf9146457b3180bce3019008/skills/git-workflow/SKILL.md</link>
-      <guid isPermaLink="false">sernafernando/pricing-app:skills/git-workflow/skill.md</guid>
-      <description>Skill from sernafernando/pricing-app [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>m365-skill (cvsloane/m365-skill)</title>
-      <link>https://github.com/cvsloane/m365-skill/blob/ea27c84483b6133fd3dce4bd9a50c358a86ee3f2/SKILL.md</link>
-      <guid isPermaLink="false">cvsloane/m365-skill:skill.md</guid>
-      <description>Microsoft 365 skill for Clawdbot - Email, Calendar, OneDrive, To Do via Graph API [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>skill-creator (BaryoDev/Baryo.CLI)</title>
-      <link>https://github.com/BaryoDev/Baryo.CLI/blob/0bbb75cd49d98b32336eb3b3c5a29ce0bdc481e4/skills/skill-creator/SKILL.md</link>
-      <guid isPermaLink="false">baryodev/baryo.cli:skills/skill-creator/skill.md</guid>
-      <description>A local AI chat CLI powered by Docker Model Runner. Chat with AI models running entirely on your machine — no API keys, no cloud, no data leaving your laptop.  Baryo provides both an interactive terminal UI and a scriptable print mode for pipelines and automation. [MPL-2.0]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>gateway-guard (austindixson/overclaw)</title>
-      <link>https://github.com/austindixson/overclaw/blob/5bc43afbb012d985f24f453ec18d2ac8e41616e1/skills/gateway-guard/SKILL.md</link>
-      <guid isPermaLink="false">austindixson/overclaw:skills/gateway-guard/skill.md</guid>
-      <description>OverClaw — nanobot + overstory hybrid AI agent orchestration. Local Ollama Mistral orchestrator with Claude Code agent swarm, Playwright MCP, creative agents, and bidirectional memory. [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>skill-creator (tjespers/claude-skills)</title>
-      <link>https://github.com/tjespers/claude-skills/blob/37cd8129f4085f429905d18c9aa9bd85aa773c0e/skill-creator/SKILL.md</link>
-      <guid isPermaLink="false">tjespers/claude-skills:skill-creator/skill.md</guid>
-      <description>Skill from tjespers/claude-skills [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>defi-trading-bot (spidey000/defi-trading-bot)</title>
-      <link>https://github.com/spidey000/defi-trading-bot/blob/357480fceb3e97362d4472f0c072e17c21f82bf6/SKILL.md</link>
-      <guid isPermaLink="false">spidey000/defi-trading-bot:skill.md</guid>
-      <description>Skill from spidey000/defi-trading-bot [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>task-reviewer (cyotee/claude-pm-plugin)</title>
-      <link>https://github.com/cyotee/claude-pm-plugin/blob/539c877419455946c0dd4abf05edcabf4e16313d/skills/task-reviewer/SKILL.md</link>
-      <guid isPermaLink="false">cyotee/claude-pm-plugin:skills/task-reviewer/skill.md</guid>
-      <description>Skill from cyotee/claude-pm-plugin [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>skill-builder (arrrrny/cli_sync)</title>
-      <link>https://github.com/arrrrny/cli_sync/blob/68ca39cfb475ddb0f9684829b9dfa4573d2ed94c/skills/skill-builder/SKILL.md</link>
-      <guid isPermaLink="false">arrrrny/cli_sync:skills/skill-builder/skill.md</guid>
-      <description>Syncs MCP servers, SKILL.md across various editors and CLIs [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>cw-dev (NavarrePratt/claude-settings)</title>
-      <link>https://github.com/NavarrePratt/claude-settings/blob/3d6e683a902be01c2bd88ca0a4e3d0e35d76bdf5/skills/cw-dev/SKILL.md</link>
-      <guid isPermaLink="false">navarrepratt/claude-settings:skills/cw-dev/skill.md</guid>
-      <description>Skill from NavarrePratt/claude-settings [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>heavy-planner (clasen/Skills)</title>
-      <link>https://github.com/clasen/Skills/blob/5bf36074d2ae96d39a8ab9850736361deb9d4fc4/heavy-planner/SKILL.md</link>
-      <guid isPermaLink="false">clasen/skills:heavy-planner/skill.md</guid>
-      <description>A personal collection of agent skills [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>log (atournayre/claude-marketplace)</title>
-      <link>https://github.com/atournayre/claude-marketplace/blob/564f3d9a47ec89eda901d6cd09f25f5babade166/dev/skills/log/SKILL.md</link>
-      <guid isPermaLink="false">atournayre/claude-marketplace:dev/skills/log/skill.md</guid>
-      <description>Marketplace de plugins pour Claude Code : dev tools (Git, Symfony, PHPStan, API Platform), customization (hooks, output styles) et documentation interactive [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>example (jhubert/steward)</title>
-      <link>https://github.com/jhubert/steward/blob/9de92b9f0416ab75c7d909acac78014f1f913b75/skills/example/SKILL.md</link>
-      <guid isPermaLink="false">jhubert/steward:skills/example/skill.md</guid>
-      <description>Steward is an AI agent manager [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>prueba-skills (gaborua/prueba-skills)</title>
-      <link>https://github.com/gaborua/prueba-skills/blob/a13d4fd45cc434d570a3c8afd8ebfd54e40dc247/SKILL.md</link>
-      <guid isPermaLink="false">gaborua/prueba-skills:skill.md</guid>
-      <description>aqui probaremos como funcionan los skills [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>rbac (davidcastagnetoa/skills)</title>
-      <link>https://github.com/davidcastagnetoa/skills/blob/bd906f22af8d9d2fd20bfe7c46da5a71857c559e/skills/rbac/SKILL.md</link>
-      <guid isPermaLink="false">davidcastagnetoa/skills:skills/rbac/skill.md</guid>
-      <description>Skill from davidcastagnetoa/skills [None]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>restart (SamGreenDev/claude-code-environment)</title>
-      <link>https://github.com/SamGreenDev/claude-code-environment/blob/859d50f546337bbef2f3e31c49f652b4cefcf532/skills/restart/SKILL.md</link>
-      <guid isPermaLink="false">samgreendev/claude-code-environment:skills/restart/skill.md</guid>
-      <description>UI Visualizer for your Claude environment [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>btr-curate (majiayu000/claude-skill-registry)</title>
-      <link>https://github.com/majiayu000/claude-skill-registry/blob/1ab7f95ede3108e989a518a3b5d7232375857b70/skills/data/btr-curate/SKILL.md</link>
-      <guid isPermaLink="false">majiayu000/claude-skill-registry:skills/data/btr-curate/skill.md</guid>
-      <description>The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app [MIT]</description>
-      <pubDate>Sun, 26 Apr 2026 17:42:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
