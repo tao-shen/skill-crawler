@@ -3,9 +3,65 @@
   <channel>
     <title>Skill Crawler - New GitHub Skills</title>
     <link>https://tao-shen.github.io/skill-crawler/</link>
-    <description>Tracking all open-source SKILL.md files on GitHub. Total: 42934 skills.</description>
-    <lastBuildDate>Wed, 29 Apr 2026 22:41:07 GMT</lastBuildDate>
+    <description>Tracking all open-source SKILL.md files on GitHub. Total: 42942 skills.</description>
+    <lastBuildDate>Wed, 29 Apr 2026 23:37:58 GMT</lastBuildDate>
     <atom:link href="https://tao-shen.github.io/skill-crawler/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>.mac-stats (raro42/mac-stats)</title>
+      <link>https://github.com/raro42/mac-stats/blob/c9d18355dfb79c3a021608cab638334a5f9ffe62/.mac-stats/SKILL.md</link>
+      <guid isPermaLink="false">raro42/mac-stats:.mac-stats/skill.md</guid>
+      <description>macOS menu bar system monitor + local AI agent. Ollama chat, Discord bot, scheduler, tasks, MCP—all on your Mac. No cloud, no   telemetry. CPU/GPU/RAM/disk in the bar; full agent stack when you need it. Rust + Tauri. [None]</description>
+      <pubDate>Wed, 29 Apr 2026 23:34:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>claude-arsenal (majiayu000/claude-arsenal)</title>
+      <link>https://github.com/majiayu000/claude-arsenal/blob/6c5cc078f9036f90afa70f47d0bdec5d58b268b3/skills/figma-to-code.SKILL.md</link>
+      <guid isPermaLink="false">majiayu000/claude-arsenal:skills/figma-to-code.skill.md</guid>
+      <description>52 production-ready Claude Code skills and 7 specialized agents for software development, DevOps, product workflows, and automation. [MIT]</description>
+      <pubDate>Wed, 29 Apr 2026 23:33:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>aster (astercloud/aster)</title>
+      <link>https://github.com/astercloud/aster/blob/4b1a632e3306495230da595b79196dd28415a5df/docs/content/02.core-concepts/9.skills-system.md</link>
+      <guid isPermaLink="false">astercloud/aster:docs/content/02.core-concepts/9.skills-system.md</guid>
+      <description>星尘云枢 - 星尘汇聚，智能成枢。生产级 AI Agent 平台，原生支持多语言执行（Python/TS/Bash），Go 性能基底。 [MIT]</description>
+      <pubDate>Wed, 29 Apr 2026 23:33:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>external-actions (minhoyoo-iotrust/WAIaaS)</title>
+      <link>https://github.com/minhoyoo-iotrust/WAIaaS/blob/7efab376f9f901c787ef92cb5a1cd7d3ff0d643c/skills/external-actions.skill.md</link>
+      <guid isPermaLink="false">minhoyoo-iotrust/waiaas:skills/external-actions.skill.md</guid>
+      <description>Wallet-as-a-Service for all AI agents in the world [MIT]</description>
+      <pubDate>Wed, 29 Apr 2026 23:33:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>oahl (fredabila/oahl)</title>
+      <link>https://github.com/fredabila/oahl/blob/44398733986866494c72cb63bb63a1a8a5904615/skills/adapter-builder.SKILL.md</link>
+      <guid isPermaLink="false">fredabila/oahl:skills/adapter-builder.skill.md</guid>
+      <description>Open Agent Hardware Layer is an open-source framework for exposing real hardware capabilities to AI agents through standardized APIs.   [MIT]</description>
+      <pubDate>Wed, 29 Apr 2026 23:33:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>lastepoch (ChrisTowles/dotfiles)</title>
+      <link>https://github.com/ChrisTowles/dotfiles/blob/7093c1a829fe7c00dbc18b77d0c69a3d9395a1be/.claude/skills/lastepoch.skill.md</link>
+      <guid isPermaLink="false">christowles/dotfiles:.claude/skills/lastepoch.skill.md</guid>
+      <description>zshrc, bash script and terminal And Personal config files [MIT]</description>
+      <pubDate>Wed, 29 Apr 2026 23:33:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>starlight-core (frankxai/arcanea)</title>
+      <link>https://github.com/frankxai/arcanea/blob/68d97547cd29d4b5a1246bfb2c4d175bf621c12e/.claude/skills/starlight-core.skill.md</link>
+      <guid isPermaLink="false">frankxai/arcanea:.claude/skills/starlight-core.skill.md</guid>
+      <description>Public mirror of Arcanea.ai — the creative intelligence platform for chat, lore, academy, and worldbuilding. [MIT]</description>
+      <pubDate>Wed, 29 Apr 2026 23:33:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>create-a-new-file (AliceO2Group/AliceO2)</title>
+      <link>https://github.com/AliceO2Group/AliceO2/blob/011d107ba2e63b679fea977b237919498a470aff/.skills/create-a-new-file/SKILL.md</link>
+      <guid isPermaLink="false">aliceo2group/aliceo2:.skills/create-a-new-file/skill.md</guid>
+      <description>O2 software project for the ALICE experiment at CERN [GPL-3.0]</description>
+      <pubDate>Wed, 29 Apr 2026 23:33:09 GMT</pubDate>
+    </item>
     <item>
       <title>linear-workflow (YangTaeyoung/go-clean-arch-toolkit)</title>
       <link>https://github.com/YangTaeyoung/go-clean-arch-toolkit/blob/392455a50f43c29212653ef98aaf43d7f4f8aa79/skills/linear-workflow/SKILL.md</link>
@@ -649,62 +705,6 @@
       <guid isPermaLink="false">medhatgalal/core-prompts:.codex/skills/threader/skill.md</guid>
       <description>Source-of-truth CLI surface prompts for Codex, Gemini, Claude, and Kiro [NOASSERTION]</description>
       <pubDate>Wed, 29 Apr 2026 16:11:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>converge (medhatgalal/Core-Prompts)</title>
-      <link>https://github.com/medhatgalal/Core-Prompts/blob/9bdc164326e20c9156e4b1f60e3be4b81bd3cee6/.codex/skills/converge/SKILL.md</link>
-      <guid isPermaLink="false">medhatgalal/core-prompts:.codex/skills/converge/skill.md</guid>
-      <description>Source-of-truth CLI surface prompts for Codex, Gemini, Claude, and Kiro [NOASSERTION]</description>
-      <pubDate>Wed, 29 Apr 2026 16:11:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>reread (her0e1c1/dotfiles)</title>
-      <link>https://github.com/her0e1c1/dotfiles/blob/2121dc5a4b11152afd25f8e91d42c933f8676198/.codex/skills/reread/SKILL.md</link>
-      <guid isPermaLink="false">her0e1c1/dotfiles:.codex/skills/reread/skill.md</guid>
-      <description>setting files in home directory [None]</description>
-      <pubDate>Wed, 29 Apr 2026 16:11:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>commit (her0e1c1/dotfiles)</title>
-      <link>https://github.com/her0e1c1/dotfiles/blob/2121dc5a4b11152afd25f8e91d42c933f8676198/.codex/skills/commit/SKILL.md</link>
-      <guid isPermaLink="false">her0e1c1/dotfiles:.codex/skills/commit/skill.md</guid>
-      <description>setting files in home directory [None]</description>
-      <pubDate>Wed, 29 Apr 2026 16:11:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>asm-forge (ahrav/scratch-scanner-rs)</title>
-      <link>https://github.com/ahrav/scratch-scanner-rs/blob/3fb8740fb576a9859c84b7a5a08f3bbae06a9f05/.codex/skills/asm-forge/SKILL.md</link>
-      <guid isPermaLink="false">ahrav/scratch-scanner-rs:.codex/skills/asm-forge/skill.md</guid>
-      <description>Skill from ahrav/scratch-scanner-rs [MIT]</description>
-      <pubDate>Wed, 29 Apr 2026 16:11:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>json-render (CaiZongyuan/react-native-json-render)</title>
-      <link>https://github.com/CaiZongyuan/react-native-json-render/blob/b27021b743cd74e4580ec02702d9966d9eac9389/.codex/skills/json-render/SKILL.md</link>
-      <guid isPermaLink="false">caizongyuan/react-native-json-render:.codex/skills/json-render/skill.md</guid>
-      <description>A React Native app built with Expo SDK 54 that implements @json-render/core and @json-render/react for JSON-driven UI       rendering. [MIT]</description>
-      <pubDate>Wed, 29 Apr 2026 16:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>sim-run (ahrav/scratch-scanner-rs)</title>
-      <link>https://github.com/ahrav/scratch-scanner-rs/blob/3fb8740fb576a9859c84b7a5a08f3bbae06a9f05/.codex/skills/sim-run/SKILL.md</link>
-      <guid isPermaLink="false">ahrav/scratch-scanner-rs:.codex/skills/sim-run/skill.md</guid>
-      <description>Skill from ahrav/scratch-scanner-rs [MIT]</description>
-      <pubDate>Wed, 29 Apr 2026 16:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>testing (medhatgalal/Core-Prompts)</title>
-      <link>https://github.com/medhatgalal/Core-Prompts/blob/9bdc164326e20c9156e4b1f60e3be4b81bd3cee6/.codex/skills/testing/SKILL.md</link>
-      <guid isPermaLink="false">medhatgalal/core-prompts:.codex/skills/testing/skill.md</guid>
-      <description>Source-of-truth CLI surface prompts for Codex, Gemini, Claude, and Kiro [NOASSERTION]</description>
-      <pubDate>Wed, 29 Apr 2026 16:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>product-master (guangtouwangba/weaver)</title>
-      <link>https://github.com/guangtouwangba/weaver/blob/4628b2af29257c19a8896e54e72a6890c08c27ef/.claude/skills/product-master/SKILL.md</link>
-      <guid isPermaLink="false">guangtouwangba/weaver:.claude/skills/product-master/skill.md</guid>
-      <description>🕸️ Open-source NotebookLM alternative with infinite canvas | Self-hosted Google NotebookLM replacement | RAG chat + PDF/Webpage/Video | Any LLM [NOASSERTION]</description>
-      <pubDate>Wed, 29 Apr 2026 16:11:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
